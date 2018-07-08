@@ -562,7 +562,7 @@ function getElementById(a) {
                         centralSkills += '</select>' + (isSkillSetSection ? '</div>' : '') + '</div>';
                     centralSkills +=
                         '<div class="col col-lg-3 col-md-4 col-sm-6 col-12">' +
-                        (isSkillSetSection ? '<div class="col col-12" style="padding-left: 0px; padding-right: 9px;">' : '') + _gts('skills', _skills[sgx].skills[sx].skill) + (isSkillSetSection ? '</div><div class="col col-xs-12" style="padding-left: 0px; padding-right: 9px;">' : '') +
+                        (isSkillSetSection ? '<div class="col col-12" style="padding-left: 0px; padding-right: 9px;">' : '') + '<span translation-section="skills" translation-key="' + toEncodedString(_skills[sgx].skills[sx].skill) + '">' + _gts('skills', _skills[sgx].skills[sx].skill) + '</span>' + (isSkillSetSection ? '</div><div class="col col-xs-12" style="padding-left: 0px; padding-right: 9px;">' : '') +
                         '<select name="skillcb-' + toEncodedString(_skills[sgx].skills[sx].skill) + "\" skillpointname='" + toEncodedString(_skills[sgx].skills[sx].skill) + '\' class="skillitem" onchange="onChangeSkill()"' + (isSkillSetSection ? ' style="float: none; width: 100%;"' : '') + '>' +
                     '<option value="' + toEncodedString(_skills[sgx].skills[sx].skill) + ' Lv0" exclude="1" skill-points="0" skill-name="' + _skills[sgx].skills[sx].skill + '" skill-type="' + _skills[sgx].skills[sx].type + '">' + (isSkillSetSection ? _gts('skills', _skills[sgx].skills[sx].skill) + ' ' : '') + 'LV 0</option>' +
                         '<option value="" selected>-</option>';
