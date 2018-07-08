@@ -49,3 +49,30 @@ function toEncodedString(obj) {
 
 var encodeRegex = /[\x00\x22\x26\x27\x3c\x3e]/g,
     jb = /[\x00- \x22\x27-\x29\x3c\x3e\\\x7b\x7d\x7f\x85\xa0\u2028\u2029\uff01\uff03\uff04\uff06-\uff0c\uff0f\uff1a\uff1b\uff1d\uff1f\uff20\uff3b\uff3d]/g;
+
+var _html_characters = {
+    "\x00": "&#0;",
+    '"': "&quot;",
+    "&": "&amp;",
+    "'": "&#39;",
+    "<": "&lt;",
+    ">": "&gt;",
+    "\t": "&#9;",
+    "\n": "&#10;",
+    "\x0B": "&#11;",
+    "\f": "&#12;",
+    "\r": "&#13;",
+    " ": "&#32;",
+    "-": "&#45;",
+    "/": "&#47;",
+    "=": "&#61;",
+    "`": "&#96;",
+    "\u0085": "&#133;",
+    "\u00a0": "&#160;",
+    "\u2028": "&#8232;",
+    "\u2029": "&#8233;"
+};
+
+function htmlEncode(c) {
+    return _html_characters[c];
+}
