@@ -1,0 +1,59 @@
+﻿#ui {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+select.skillitem.skillselected {
+    background: #ffc;
+}
+
+select.skillitem {
+    background: #fff;
+    min-width: 45px;
+    font-size: 80%;
+    margin: 3px 10px 10px 0;
+    float: right;
+}
+
+.filtersInput {
+    background: #fff;
+    min-width: 45px;
+    font-size: 80%;
+    margin: 3px 10px 10px 0;
+    float: right;
+}
+
+#mindef {
+    width: 45px;
+    text-align: right;
+}
+
+.includeexclude-section {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
+
+.showsearchpane #searchpane,
+.showcharmpane #charmpane,
+.showmysetpane #mysetpane,
+.showexcludeincludepane #excludeincludepane {
+    display: block;
+}
+
+tr.exclude-row:hover,
+td.exclude-row:hover {
+    background-color: white !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1190px !important;
+    }
+}
+
+.bootstrap-select .btn {
+    background-color: white !important;
+    color: black !important;
+    border-color: rgb(169, 169, 169) !important;
+}
