@@ -14,7 +14,7 @@ function finalizePage() {
 
 function translatePage() {
     $("[translation-section]").each(function () {
-        $(this).text(_gts($(this).attr("translation-section"), $(this).attr("translation-key")));
+        $(this).html(_gts($(this).attr("translation-section"), $(this).attr("translation-key")));
     });
 }
 
