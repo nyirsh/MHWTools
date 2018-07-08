@@ -313,7 +313,7 @@
     },
     export: {
         en: 'Export',
-        it: 'Importa',
+        it: 'Esporta',
     },
     import: {
         en: 'Import',
