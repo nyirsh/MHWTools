@@ -599,7 +599,7 @@ function getElementById(a) {
     }
 
     function GenerateEleResSelect(id) {
-        var gershtml = '<span translation-section="armorcalc" translation-key="' + id + '">' + _gts('armorcalc', id ) + ' <select id="' + toEncodedString(id) + '" class="filtersInput"><option value="-100">---</option>';
+        var gershtml = '<span translation-section="armorcalc" translation-key="' + id + '">' + _gts('armorcalc', id ) + '</span> <select id="' + toEncodedString(id) + '" class="filtersInput"><option value="-100">---</option>';
         for (var b = -25; b < 26; b++)
             gershtml += "<option value=" + toEncodedString(b) + ">" + toEncodedString(b) + "</option>";
         return gershtml + "</select>"
