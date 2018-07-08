@@ -765,7 +765,7 @@ function getElementById(a) {
     function vb(a) {
         return "" +
         (a.f
-            ? '<span translation-section="armor" translation-key="' + a.f.name + '">' + _gts('armor', a.f.name) + '</span>'
+            ? '<span translation-section="armor" translation-key="' + toEncodedString(a.f.name) + '">' + _gts('armor', a.f.name) + '</span>'
             : '<span translation-section="armor" translation-key="None">' + _gts('armor', 'None') + '</span>')
     }
 
@@ -810,7 +810,7 @@ function getElementById(a) {
                     toEncodedString(f.name) +
                     '"' +
                     (f.name == a.fa ? " selected" : "") +
-                    " translation-section='armor' translation-key='" + f.name + "'>" +
+                    " translation-section='armor' translation-key='" + toEncodedString(f.name) + "'>" +
                     _gts('armor', f.name) +
                     "</option>");
         b += '<option value="" translation-section="armor" translation-key="None">' + _gts('armor', 'None') + '</option></select></div></div></div><div class="card-head bg-light"><span class="sectionHeaders" translation-section="armorcalc" translation-key="' + a.ea + '_excluded">' +
@@ -823,7 +823,7 @@ function getElementById(a) {
                 toEncodedString(f) +
                 '" part="' +
                 toEncodedString(a.o) +
-                '"><span class="oi oi-circle-x"></span></a> <span translation-section="armor" translation-key="' + f + '">' +
+                '"><span class="oi oi-circle-x"></span></a> <span translation-section="armor" translation-key="' + toEncodedString(f) + '">' +
                 _gts('armor', f) +
                 "</span></div>";
         return b + "</div></div></div>"
