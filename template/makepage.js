@@ -1,6 +1,6 @@
 ﻿$(function () {
     LoadHome();
-    $("#navContainer").load("/template/menu.html", function () { finalizePage(); });
+    $("#navContainer").load("/MHWTools/template/menu.html", function () { finalizePage(); });
 });
 
 function finalizePage() {
@@ -29,15 +29,15 @@ function ResetPage() {
 
 function LoadHome() {
     ResetPage();
-    $("#ui").load("/home.html", function () { translatePage(); });
+    $("#ui").load("/MHWTools/home.html", function () { translatePage(); });
 }
 
 function LoadArmorCalculator() {
     ResetPage();
-    $("#ui").load("/armorcalc/app.html", function () { renderPage(""); });
+    $("#ui").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
 }
 
 function LoadDamageCalculator() {
     ResetPage();
-    $("#ui").load("/damagecalc/app.html", function () { });
+    $("#ui").load("/MHWTools/damagecalc/app.html", function () { });
 }
