@@ -3819,4 +3819,24 @@
         en: "Fair Wind Charm",
         it: "Fair Wind Charm",
     },
+     "Drachen Head Alpha": {
+        en: "Drachen Head α",
+        it: "Drachen Head α",
+    },
+     "Drachen Chest Alpha": {
+        en: "Drachen Chest α",
+        it: "Drachen Chest α",
+    },
+     "Drachen Arms Alpha": {
+        en: "Drachen Arms α",
+        it: "Drachen Arms α",
+    },
+     "Drachen Waist Alpha": {
+        en: "Drachen Waist α",
+        it: "Drachen Waist α",
+    },
+     "Drachen Legs Alpha": {
+        en: "Drachen Legs α",
+        it: "Drachen Legs α",
+    },
 };
