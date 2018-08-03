@@ -30,6 +30,7 @@ function getCurrentLanguage() {
 }
 
 function _gts(section, key) {
+    console.log(section + ' - ' + key);
     var xLang = getCurrentLanguage();
     if (section == 'armor' && key.includes('LV') && key.includes('Slot')) {
         var xString = _gts('armor', 'lvlarmor');
