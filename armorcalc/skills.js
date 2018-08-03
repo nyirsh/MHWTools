@@ -379,7 +379,7 @@ var _skills = [
                 { skill: "Uragaan Protection", points: 3, type: 2, name: "Guard Up" },
                 { skill: "Bazelgeuse Protection", points: 3, type: 2, name: "Guts" },
                 { skill: "Nergigante Hunger", points: 3, type: 2, name: "Hasten Recovery" },
-                { skill: "Teostra Technique", points: 3, type: 2, name: "Master\u2019s Touch" },
+                { skill: "Teostra Technique", points: 3, type: 2, name: "Master\u2019s Touch (Teostra)" },
                 { skill: "Lunastra Favor", points: 2, type: 2, name: "Stamina Cap Up (Lunastra)" },
                 { skill: "Lunastra Favor", points: 4, type: 2, name: "Mind\u2019s Eye/Ballistics (Lunastra)" },
                 { skill: "Kushala Daora Flight", points: 3, type: 2, name: "Nullify Wind Pressure" },
@@ -387,7 +387,9 @@ var _skills = [
                 { skill: "Odogaron Mastery", points: 2, type: 2, name: "Punishing Draw" },
                 { skill: "Odogaron Mastery", points: 4, type: 2, name: "Protective Polish" },
                 { skill: "Xeno\u2019jiiva Divinity", points: 3, type: 2, name: "Razor Sharp/Spare Shot" },
-                { skill: "Val Hazak Vitality", points: 3, type: 2, name: "Super Recovery" }
+                { skill: "Val Hazak Vitality", points: 3, type: 2, name: "Super Recovery" },
+	        { skill: "Soul of the Dragoon", points: 2, type: 2, name: "Elemental Airbone" },
+		{ skill: "Soul of the Dragoon", points: 2, type: 2, name: "Master\u2019s Touch (Behemot)" }
             ]
         },
         {
