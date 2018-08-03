@@ -307,9 +307,13 @@
         en: 'Master Mounter',
         it: 'Cavaliere Provetto',
     },
-    'Master\u2019s Touch': {
-        en: 'Master\'s Touch',
-        it: 'Tocco del Maestro',
+    'Master\u2019s Touch (Teostra)': {
+        en: 'Master\'s Touch (Teostra)',
+        it: 'Tocco del Maestro (Teostra)',
+    },
+    'Master\u2019s Touch (Behemot)': {
+        en: 'Master\'s Touch (Behemot)',
+        it: 'Tocco del Maestro (Behemot)',
     },
     'Maximum Might': {
         en: 'Maximum Might',
@@ -626,6 +630,14 @@
     'Val Hazak Vitality': {
         en: 'Val Hazak Vitality',
         it: 'Vitalità del Val Hazak',
+    },
+    'Soul of the Dragoon': {
+        en: 'Soul of the Dragoon',
+        it: 'Soul of the Dragoon',
+    },
+    'Elemental Airbone': {
+        en: 'Elemental Airbone',
+        it: 'Elemental Airbone',
     },
     'LV1 Slot Skill': {
         en: 'Lv 1 Slot Skill',
