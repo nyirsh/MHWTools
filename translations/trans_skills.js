@@ -635,9 +635,9 @@
         en: 'Soul of the Dragoon',
         it: 'Soul of the Dragoon',
     },
-    'Elemental Airbone': {
-        en: 'Elemental Airbone',
-        it: 'Elemental Airbone',
+    'Elemental Airborne': {
+        en: 'Elemental Airborne',
+        it: 'Elemental Airborne',
     },
     'LV1 Slot Skill': {
         en: 'Lv 1 Slot Skill',
