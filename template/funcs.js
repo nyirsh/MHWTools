@@ -29,7 +29,12 @@ function getCurrentLanguage() {
     return curr_lang;
 }
 
+var logGTS = false;
+
 function _gts(section, key) {
+    if (logGTS) {
+        console.log(section + ' - ' + key);
+    }
     var xLang = getCurrentLanguage();
     if (section == 'armor' && key.includes('LV') && key.includes('Slot')) {
         var xString = _gts('armor', 'lvlarmor');
