@@ -11969,7 +11969,7 @@ var pa = [
     part: 0,
     mindef: 46,
     slots: 1,
-    name: "Divers's Mask Alpha",
+    name: "Diver's Mask Alpha",
     skills: {"Marathon Runner": 1},
     type: 3
 },
