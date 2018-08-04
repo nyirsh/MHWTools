@@ -311,9 +311,9 @@
         en: 'Master\'s Touch (Teostra)',
         it: 'Tocco del Maestro (Teostra)',
     },
-    'Master\u2019s Touch (Behemot)': {
-        en: 'Master\'s Touch (Behemot)',
-        it: 'Tocco del Maestro (Behemot)',
+    'Master\u2019s Touch (Behemoth)': {
+        en: 'Master\'s Touch (Behemoth)',
+        it: 'Tocco del Maestro (Behemoth)',
     },
     'Maximum Might': {
         en: 'Maximum Might',
