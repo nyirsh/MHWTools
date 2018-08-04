@@ -11789,7 +11789,7 @@ var pa = [
 	part: 3,
 	mindef: 42,
 	slots: 1,
-	name: "Queen Beetle Wais Alpha",
+	name: "Queen Beetle Waist Alpha",
 	skills: {"Defence Boost": 2, "Marathon Runner": 1},
 	type: 3
 },
