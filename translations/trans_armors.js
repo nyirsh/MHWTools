@@ -3839,4 +3839,83 @@
         en: "Drachen Legs α",
         it: "Drachen Legs α",
     },
+     "Queen Beetle Head Alpha": {
+         en: "Queen Beetle Head α",
+         it: "Queen Beetle Head α",
+     },
+     "Queen Beetle Head Beta": {
+         en: "Queen Beetle Head β",
+         it: "Queen Beetle Head β",
+     },
+     "Queen Beetle Chest Alpha": {
+         en: "Queen Beetle Chest α",
+         it: "Queen Beetle Chest α",
+     },
+     "Queen Beetle Chest Beta": {
+         en: "Queen Beetle Chest β",
+         it: "Queen Beetle Chest β",
+     },
+     "Queen Beetle Arms Alpha": {
+         en: "Queen Beetle Arms α",
+         it: "Queen Beetle Arms α",
+     },
+     "Queen Beetle Arms Beta": {
+         en: "Queen Beetle Arms β",
+         it: "Queen Beetle Arms β",
+     },
+     "Queen Beetle Waist Alpha": {
+         en: "Queen Beetle Waist α",
+         it: "Queen Beetle Waist α",
+     },
+     "Queen Beetle Waist Beta": {
+         en: "Queen Beetle Waist β",
+         it: "Queen Beetle Waist β",
+     },
+     "Queen Beetle Legs Alpha": {
+         en: "Queen Beetle Legs α",
+         it: "Queen Beetle Legs α",
+     },
+     "Queen Beetle Legs Beta": {
+         en: "Queen Beetle Legs β",
+         it: "Queen Beetle Legs β",
+     },
+     "Diver's Mask": {
+         en: "Diver's Mask",
+         it: "Diver's Mask",
+     },
+     "Diver's Mask Alpha": {
+         en: "Diver's Mask α",
+         it: "Diver's Mask α",
+     },
+     "Diver's Suit": {
+         en: "Diver's Suit",
+         it: "Diver's Suit",
+     },
+     "Diver's Suit Alpha": {
+         en: "Diver's Suit α",
+         it: "Diver's Suit α",
+     },"Diver's Braces": {
+         en: "Diver's Braces",
+         it: "Diver's Braces",
+     },
+     "Diver's Braces Alpha": {
+         en: "Diver's Braces α",
+         it: "Diver's Braces α",
+     },
+     "Diver's Belt": {
+         en: "Diver's Belt",
+         it: "Diver's Belt",
+     },
+     "Diver's Belt Alpha": {
+         en: "Diver's Belt α",
+         it: "Diver's Belt α",
+     },
+     "Diver's Boots": {
+         en: "Diver's Boots",
+         it: "Diver's Boots",
+     },
+     "Diver's Boots Alpha": {
+         en: "Diver's Boots α",
+         it: "Diver's Boots α",
+     },
 };
