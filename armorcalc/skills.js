@@ -389,7 +389,7 @@ var _skills = [
                 { skill: "Xeno\u2019jiiva Divinity", points: 3, type: 2, name: "Razor Sharp/Spare Shot" },
                 { skill: "Val Hazak Vitality", points: 3, type: 2, name: "Super Recovery" },
 	        { skill: "Soul of the Dragoon", points: 2, type: 2, name: "Elemental Airborne" },
-		{ skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemot)" }
+		{ skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemoth)" }
             ]
         },
         {
