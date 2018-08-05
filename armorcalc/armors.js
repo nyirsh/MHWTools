@@ -6838,7 +6838,7 @@ var pa = [
 	resist: [-4, 4, 1, -1, -3],
 	part: 3,
 	mindef: 72,
-	slots: 2,
+	slots: 3,
 	name: "Vaal Hazak Waist Gamma",
 	skills: { "Val Hazak Vitality": 1, "Recovery Speed": 2, "Dragon Attack": 1 },
 	type: 3
