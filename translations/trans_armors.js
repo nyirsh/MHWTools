@@ -3918,4 +3918,44 @@
          en: "Diver's Boots α",
          it: "Diver's Boots α",
      },
+     "Teostra Head Gamma": {
+        en: "Teostra Head γ",
+        it: "Teostra Head γ",
+     },
+	 "Teostra Chest Gamma": {
+        en: "Teostra Chest γ",
+        it: "Teostra Chest γ",
+     },
+	 "Teostra Arms Gamma": {
+        en: "Teostra Arms γ",
+        it: "Teostra Arms γ",
+     },
+	 "Teostra Waist Gamma": {
+        en: "Teostra Waist γ",
+        it: "Teostra Waist γ",
+     },
+	 "Teostra Legs Gamma": {
+        en: "Teostra Legs γ",
+        it: "Teostra Legs γ",
+     },
+	 "Kushala Head Gamma": {
+        en: "Kushala Head γ",
+        it: "Kushala Head γ",
+     },
+	 "Kushala Chest Gamma": {
+        en: "Kushala Chest γ",
+        it: "Kushala Chest γ",
+     },
+	 "Kushala Arms Gamma": {
+        en: "Kushala Arms γ",
+        it: "Kushala Arms γ",
+     },
+	 "Kushala Waist Gamma": {
+        en: "Kushala Waist γ",
+        it: "Kushala Waist γ",
+     },
+	 "Kushala Legs Gamma": {
+        en: "Kushala Legs γ",
+        it: "Kushala Legs γ",
+    },
 };
