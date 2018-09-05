@@ -25,7 +25,7 @@ function applyLanguage(lang) {
 
 function ResetPage() {
     $('#uihome').css('display', 'none');
-    $('#uiarmorcalc').css('display', 'none');
+    $('#ui').css('display', 'none');
     $('#uidamagetest').css('display', 'none');
 }
 
@@ -38,9 +38,9 @@ function LoadHome() {
 
 function LoadArmorCalculator() {
     ResetPage();
-    if ($('#uiarmorcalc').html() == 'Loading')
-        $("#uiarmorcalc").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
-    $('#uiarmorcalc').css('display', 'block');
+    if ($('#ui').html() == 'Loading')
+        $("#ui").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
+    $('#ui').css('display', 'block');
 }
 
 function LoadDamageCalculator() {
