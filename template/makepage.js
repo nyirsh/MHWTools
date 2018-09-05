@@ -24,7 +24,6 @@ function applyLanguage(lang) {
 }
 
 function ResetPage() {
-    //$('#ui').html('Loading');
     $('#uihome').css('display', 'none');
     $('#uiarmorcalc').css('display', 'none');
     $('#uidamagetest').css('display', 'none');
