@@ -24,22 +24,29 @@ function applyLanguage(lang) {
 }
 
 function ResetPage() {
-    $('#ui').html('Loading');
+    //$('#ui').html('Loading');
+    $('#uihome').style('display', 'none');
+    $('#uiarmorcalc').style('display', 'none');
+    $('#uidamagetest').style('display', 'none');
 }
 
 function LoadHome() {
     ResetPage();
     if ($('#uihome').html() == 'Loading')
         $("#uihome").load("/MHWTools/home.html", function () { translatePage(); });
+    $('#uihome').style('display', 'block');
 }
 
 function LoadArmorCalculator() {
     ResetPage();
     if ($('#uiarmorcalc').html() == 'Loading')
         $("#uiarmorcalc").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
+    $('#uiarmorcalc').style('display', 'block');
 }
 
 function LoadDamageCalculator() {
     ResetPage();
-    $("#ui").load("/MHWTools/damagecalc/app.html", function () { });
+    if ($('#uidamagetest').html() == 'Loading')
+        $("#uidamagetest").load("/MHWTools/damagecalc/app.html", function () { });
+    $('#uidamagetest').style('display', 'block');
 }
