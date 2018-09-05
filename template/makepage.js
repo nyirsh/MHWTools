@@ -29,12 +29,14 @@ function ResetPage() {
 
 function LoadHome() {
     ResetPage();
-    $("#ui").load("/MHWTools/home.html", function () { translatePage(); });
+    if ($('#uihome').html() == 'Loading')
+        $("#uihome").load("/MHWTools/home.html", function () { translatePage(); });
 }
 
 function LoadArmorCalculator() {
     ResetPage();
-    $("#ui").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
+    if ($('#uiarmorcalc').html() == 'Loading')
+        $("#uiarmorcalc").load("/MHWTools/armorcalc/app.html", function () { renderPage(""); });
 }
 
 function LoadDamageCalculator() {
