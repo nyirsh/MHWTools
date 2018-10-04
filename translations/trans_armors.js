@@ -3979,43 +3979,43 @@
         it: "Empress Legs γ",
     },
 	"Zorah Head Gamma": {
-        en: "Zorah Head Gamma γ",
-        it: "Zorah Head Gamma γ",
+        en: "Zorah Head γ",
+        it: "Zorah Head γ",
     },
 	"Zorah Chest Gamma": {
-        en: "Zorah Chest Gamma γ",
-        it: "Zorah Chest Gamma γ",
+        en: "Zorah Chest γ",
+        it: "Zorah Chest γ",
     },
 	"Zorah Arms Gamma": {
-        en: "Zorah Arms Gamma γ",
-        it: "Zorah Arms Gamma γ",
+        en: "Zorah Arms γ",
+        it: "Zorah Arms γ",
     },
 	"Zorah Waist Gamma": {
-        en: "Zorah Waist Gamma γ",
-        it: "Zorah Waist Gamma γ",
+        en: "Zorah Waist γ",
+        it: "Zorah Waist γ",
     },
 	"Zorah Legs Gamma": {
-        en: "Zorah Legs Gamma γ",
-        it: "Zorah Legs Gamma γ",
+        en: "Zorah Legs γ",
+        it: "Zorah Legs γ",
     },
 	"Xeno'jiiva Head Gamma": {
-        en: "Xeno'jiiva Head Gamma γ",
-        it: "Xeno'jiiva Head Gamma γ",
+        en: "Xeno'jiiva Head γ",
+        it: "Xeno'jiiva Head γ",
     },
 	"Xeno'jiiva Chest Gamma": {
-        en: "Xeno'jiiva Chest Gamma γ",
-        it: "Xeno'jiiva Chest Gamma γ",
+        en: "Xeno'jiiva Chest γ",
+        it: "Xeno'jiiva Chest γ",
     },
 	"Xeno'jiiva Arms Gamma": {
-        en: "Xeno'jiiva Arms Gamma γ",
-        it: "Xeno'jiiva Arms Gamma γ",
+        en: "Xeno'jiiva Arms γ",
+        it: "Xeno'jiiva Arms γ",
     },
 	"Xeno'jiiva Waist Gamma": {
-        en: "Xeno'jiiva Waist Gamma γ",
-        it: "Xeno'jiiva Waist Gamma γ",
+        en: "Xeno'jiiva Waist γ",
+        it: "Xeno'jiiva Waist γ",
     },
 	"Xeno'jiiva Legs Gamma": {
-        en: "Xeno'jiiva Legs Gamma γ",
-        it: "Xeno'jiiva Legs Gamma γ",
+        en: "Xeno'jiiva Legs γ",
+        it: "Xeno'jiiva Legs γ",
     },
 };
