@@ -3978,4 +3978,44 @@
         en: "Empress Legs γ",
         it: "Empress Legs γ",
     },
+	"Zorah Head Gamma": {
+        en: "Zorah Head Gamma γ",
+        it: "Zorah Head Gamma γ",
+    },
+	"Zorah Chest Gamma": {
+        en: "Zorah Chest Gamma γ",
+        it: "Zorah Chest Gamma γ",
+    },
+	"Zorah Arms Gamma": {
+        en: "Zorah Arms Gamma γ",
+        it: "Zorah Arms Gamma γ",
+    },
+	"Zorah Waist Gamma": {
+        en: "Zorah Waist Gamma γ",
+        it: "Zorah Waist Gamma γ",
+    },
+	"Zorah Legs Gamma": {
+        en: "Zorah Legs Gamma γ",
+        it: "Zorah Legs Gamma γ",
+    },
+	"Xeno'jiiva Head Gamma": {
+        en: "Xeno'jiiva Head Gamma γ",
+        it: "Xeno'jiiva Head Gamma γ",
+    },
+	"Xeno'jiiva Chest Gamma": {
+        en: "Xeno'jiiva Chest Gamma γ",
+        it: "Xeno'jiiva Chest Gamma γ",
+    },
+	"Xeno'jiiva Arms Gamma": {
+        en: "Xeno'jiiva Arms Gamma γ",
+        it: "Xeno'jiiva Arms Gamma γ",
+    },
+	"Xeno'jiiva Waist Gamma": {
+        en: "Xeno'jiiva Waist Gamma γ",
+        it: "Xeno'jiiva Waist Gamma γ",
+    },
+	"Xeno'jiiva Legs Gamma": {
+        en: "Xeno'jiiva Legs Gamma γ",
+        it: "Xeno'jiiva Legs Gamma γ",
+    },
 };
