@@ -497,7 +497,6 @@ function getElementById(a) {
                 '<li class="nav-item" id="tab-search"><a id="search-tab" class="nav-link active" data-toggle="tab" href="#searchpane" aria-controls="searchpane" aria-selected="true" translation-section="armorcalc" translation-key="search">' + _gts('armorcalc', 'search') + '</a></li>' +
                 '<li class="nav-item" id="tab-myset"><a id="myset-tab" class="nav-link" data-toggle="tab" href="#mysetpane" aria-controls="mysetpane" aria-selected="false" translation-section="armorcalc" translation-key="armorset">' + _gts('armorcalc', 'armorset') + '</a></li>' +
                 '<li class="nav-item" id="tab-excludeinclude"><a id="excludeinclude-tab" class="nav-link" data-toggle="tab" href="#excludeincludepane" aria-controls="excludeincludepane" aria-selected="false" translation-section="armorcalc" translation-key="eqsettings">' + _gts('armorcalc', 'eqsettings') + '</a></li>' +
-                '<li class="nav-item" id="tab-faq"><a id="faq-tab" class="nav-link" data-toggle="tab" href="#faqpane" aria-controls="faqpane" aria-selected="false" translation-section="armorcalc" translation-key="faq">' + _gts('armorcalc', 'faq') + '</a></li>' +
             '</ul>' +
             '<br />' +
             '<div id="panecontainer" class="tab-content">' +
@@ -586,7 +585,7 @@ function getElementById(a) {
             '<button id=extraskillsearchbutton><span class="oi oi-plus" title="plus" aria-hidden="true"></span>&nbsp;<span translation-section="armorcalc" translation-key="btn_moreskills">' + _gts('armorcalc', 'btn_moreskills') + '</span></button> ' +
             '<button id=resetbutton><span class="oi oi-loop-circular"></span>&nbsp;<span translation-section="armorcalc" translation-key="btn_resetskills">' + _gts('armorcalc', 'btn_resetskills') + '</span></button></div></div><div id=results>' +
             '</div></div>' +
-            '<div id="mysetpane" class="tab-pane" role="tabpanel" aria-labelledby="myset-tab"></div><div id="excludeincludepane" class="tab-pane" role="tabpanel" aria-labelledby="excludeinclude-tab"></div><div id="faqpane" class="tab-pane" role="tabpanel" aria-labelledby="faq-tab"></div>';
+            '<div id="mysetpane" class="tab-pane" role="tabpanel" aria-labelledby="myset-tab"></div><div id="excludeincludepane" class="tab-pane" role="tabpanel" aria-labelledby="excludeinclude-tab"></div>';
 
         return megaVar;
     }
@@ -3536,10 +3535,6 @@ function getElementById(a) {
         $('.pin-select').selectpicker();
     }
 
-    function printFaq() {
-        getElementById("faqpane").innerHTML = 'WIP';
-    }
-
     function Bf() {
         var a = document.querySelectorAll("select.skillitem");
         D(a,
@@ -3577,8 +3572,7 @@ function getElementById(a) {
             var a = F(V(mf), Ff);
             tf(a)
         },
-        excludeinclude: Af,
-        faq: printFaq
+        excludeinclude: Af
     };
 
     function Gf(a, b, c, d, e, f, g) { xd.call(this, a, b, c, d, e, f, g) }
