@@ -3959,20 +3959,20 @@
         it: "Kushala Legs γ",
     },
 	 "Empress Head Gamma": {
-        en: "Empress Legs γ",
-        it: "Empress Legs γ",
+        en: "Empress Head γ",
+        it: "Empress Head γ",
     },
 	 "Empress Chest Gamma": {
-        en: "Empress Legs γ",
-        it: "Empress Legs γ",
+        en: "Empress Chest γ",
+        it: "Empress Chest γ",
     },
 	 "Empress Arms Gamma": {
-        en: "Empress Legs γ",
-        it: "Empress Legs γ",
+        en: "Empress Arms γ",
+        it: "Empress Arms γ",
     },
 	 "Empress Waist Gamma": {
-        en: "Empress Legs γ",
-        it: "Empress Legs γ",
+        en: "Empress Waist γ",
+        it: "Empress Waist γ",
     },
 	 "Empress Legs Gamma": {
         en: "Empress Legs γ",
