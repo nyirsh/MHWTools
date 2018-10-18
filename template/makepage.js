@@ -1,5 +1,5 @@
-﻿$(function () {
-    LoadHome();
+$(function () {
+    LoadArmorCalculator();
     $("#navContainer").load("/MHWTools/template/menu.html", function () { finalizePage(); });
 });
 
