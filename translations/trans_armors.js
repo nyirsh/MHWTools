@@ -4018,4 +4018,64 @@
         en: "Xeno'jiiva Legs γ",
         it: "Xeno'jiiva Legs γ",
     },
+    "Kulve Taroth Head Gamma": {
+        en: "Kulve Taroth Head γ",
+        it: "Kulve Taroth Head γ",
+    },
+	"Kulve Taroth Chest Gamma": {
+        en: "Kulve Taroth Chest γ",
+        it: "Kulve Taroth Chest γ",
+    },
+	"Kulve Taroth Arms Gamma": {
+        en: "Kulve Taroth Arms γ",
+        it: "Kulve Taroth Arms γ",
+    },
+	"Kulve Taroth Waist Gamma": {
+        en: "Kulve Taroth Waist γ",
+        it: "Kulve Taroth Waist γ",
+    },
+	"Kulve Taroth Legs Gamma": {
+        en: "Kulve Taroth Legs γ",
+        it: "Kulve Taroth Legs γ",
+    },
+    "Orion Head": {
+        en: "Orion ",
+        it: "Orion ",
+    },
+    "Orion Head Alpha": {
+        en: "Orion  α",
+        it: "Orion  α",
+    },
+    "Orion ": {
+        en: "Orion ",
+        it: "Orion ",
+    },
+    "Orion  Alpha": {
+        en: "Orion  α",
+        it: "Orion  α",
+    },
+    "Orion Chest": {
+        en: "Orion ",
+        it: "Orion ",
+    },
+    "Orion Chest Alpha": {
+        en: "Orion  α",
+        it: "Orion  α",
+    },
+    "Orion Braces": {
+        en: "Orion ",
+        it: "Orion ",
+    },
+    "Orion Braces Alpha": {
+        en: "Orion  α",
+        it: "Orion  α",
+    },
+    "Orion Waist": {
+        en: "Orion ",
+        it: "Orion ",
+    },
+    "Orion Waist Alpha": {
+        en: "Orion  α",
+        it: "Orion  α",
+    },
 };
