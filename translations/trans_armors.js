@@ -4039,43 +4039,43 @@
         it: "Kulve Taroth Legs γ",
     },
     "Orion Head": {
-        en: "Orion ",
-        it: "Orion ",
+        en: "Orion Head",
+        it: "Orion Head",
     },
     "Orion Head Alpha": {
-        en: "Orion  α",
-        it: "Orion  α",
-    },
-    "Orion ": {
-        en: "Orion ",
-        it: "Orion ",
-    },
-    "Orion  Alpha": {
-        en: "Orion  α",
-        it: "Orion  α",
+        en: "Orion Head α",
+        it: "Orion Head α",
     },
     "Orion Chest": {
-        en: "Orion ",
-        it: "Orion ",
+        en: "Orion Chest",
+        it: "Orion Chest",
     },
     "Orion Chest Alpha": {
-        en: "Orion  α",
-        it: "Orion  α",
-    },
-    "Orion Braces": {
-        en: "Orion ",
-        it: "Orion ",
-    },
-    "Orion Braces Alpha": {
-        en: "Orion  α",
-        it: "Orion  α",
+        en: "Orion Chest α",
+        it: "Orion Chest α",
     },
     "Orion Waist": {
-        en: "Orion ",
-        it: "Orion ",
+        en: "Orion Waist",
+        it: "Orion Waist",
     },
     "Orion Waist Alpha": {
-        en: "Orion  α",
-        it: "Orion  α",
+        en: "Orion Waist α",
+        it: "Orion Waist α",
+    },
+    "Orion Braces": {
+        en: "Orion Braces",
+        it: "Orion Braces",
+    },
+    "Orion Braces Alpha": {
+        en: "Orion Braces α",
+        it: "Orion Braces α",
+    },
+    "Orion Legs": {
+        en: "Orion Legs",
+        it: "Orion Legs",
+    },
+    "Orion Legs Alpha": {
+        en: "Orion Legs α",
+        it: "Orion Legs α",
     },
 };
