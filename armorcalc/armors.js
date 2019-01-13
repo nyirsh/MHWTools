@@ -12347,7 +12347,7 @@ var pa = [
 },
 {
 	maxdef: 92,
-	slotlevels: [3, 1, 0],
+	slotlevels: [2, 1, 0],
 	sex: 3,
 	resist: [-3, 2, 2, 2, -4],
 	part: 3,
@@ -12429,8 +12429,6 @@ var pa = [
 	skills: { "Agitator": 1, "Heat Guard": 1 },
 	type: 3
 },
-
-// Low
 {
     maxdef: 74,
     slotlevels: [0,0,0],
