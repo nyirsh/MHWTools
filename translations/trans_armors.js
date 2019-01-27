@@ -4095,7 +4095,7 @@
         en: "Gala Suit Tail",
         it: "Gala Suit Tail",
     },
-    "Gala Suit Top Slacks": {
+    "Gala Suit Slacks": {
         en: "Gala Suit Slacks",
         it: "Gala Suit Slacks",
     },
@@ -4115,7 +4115,7 @@
         en: "Gala Suit Tail α",
         it: "Gala Suit Tail α",
     },
-    "Gala Suit Top Slacks Alpha": {
+    "Gala Suit Slacks Alpha": {
         en: "Gala Suit Slacks α",
         it: "Gala Suit Slacks α",
     },
