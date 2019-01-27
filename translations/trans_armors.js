@@ -4078,6 +4078,7 @@
         en: "Orion Legs α",
         it: "Orion Legs α",
     },
+
     "Gala Suit Top Hat": {
         en: "Gala Suit Top Hat",
         it: "Gala Suit Top Hat",
@@ -4094,7 +4095,7 @@
         en: "Gala Suit Tail",
         it: "Gala Suit Tail",
     },
-    "Gala Suit Top Hat": {
+    "Gala Suit Top Slacks": {
         en: "Gala Suit Slacks",
         it: "Gala Suit Slacks",
     },
@@ -4114,7 +4115,7 @@
         en: "Gala Suit Tail α",
         it: "Gala Suit Tail α",
     },
-    "Gala Suit Top Hat Alpha": {
+    "Gala Suit Top Slacks Alpha": {
         en: "Gala Suit Slacks α",
         it: "Gala Suit Slacks α",
     },
