@@ -29,23 +29,29 @@ function getCurrentLanguage() {
     return curr_lang;
 }
 
-var logGTS = false;
+var logGTS = true;
 
 function _gts(section, key) {
-    if (logGTS) {
-        console.log(section + ' - ' + key);
+    try
+    {
+        var xLang = getCurrentLanguage();
+        if (section == 'armor' && key.includes('LV') && key.includes('Slot')) {
+            var xString = _gts('armor', 'lvlarmor');
+            var xLv = key.trim().split(' ')[0];
+            var xSlot = _gts('armorcalc', 'Slots');
+            var xPiece = _gts('armorcalc', key.trim().split(' ')[2]);
+            return xString.replace('{L}', xLv).replace('{S}', xSlot).replace('{A}', xPiece);
+        }
+        if (xLang in _translations[section][key])
+            return toEncodedString(_translations[section][key][xLang]);
+        return toEncodedString(_translations[section][key]['en']);
     }
-    var xLang = getCurrentLanguage();
-    if (section == 'armor' && key.includes('LV') && key.includes('Slot')) {
-        var xString = _gts('armor', 'lvlarmor');
-        var xLv = key.trim().split(' ')[0];
-        var xSlot = _gts('armorcalc', 'Slots');
-        var xPiece = _gts('armorcalc', key.trim().split(' ')[2]);
-        return xString.replace('{L}', xLv).replace('{S}', xSlot).replace('{A}', xPiece);
+    catch(err) {
+        if (logGTS) {
+            console.log(section + ' - ' + key);
+        }
+        return toEncodedString(key);
     }
-    if (xLang in _translations[section][key])
-        return toEncodedString(_translations[section][key][xLang]);
-    return toEncodedString(_translations[section][key]['en']);
 }
 
 function toEncodedString(obj) {
