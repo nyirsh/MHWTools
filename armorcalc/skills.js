@@ -366,7 +366,6 @@ var _skills = [
             skills: [
                 { skill: "Anjanath Will", points: 2, type: 2, name: "Adrenaline" },
                 { skill: "Anjanath Will", points: 4, type: 2, name: "Stamina Cap Up (Anjanath)" },
-		{ skill: "Astera Blessing", points: 4, type: 2, name: "Great Luck" },
                 { skill: "Diablos Mastery", points: 2, type: 2, name: "Bludgeoner" },
                 { skill: "Diablos Mastery", points: 4, type: 2, name: "Non-elemental Boost" },
                 { skill: "Kirin Favor", points: 3, type: 2, name: "Capture Master" },
