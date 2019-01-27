@@ -639,6 +639,10 @@
         en: 'Elemental Airborne',
         it: 'Elemental Airborne',
     },
+    'Astera Blessing' : {
+        en: 'Astera Blessing',
+        it: 'Astera Blessing',
+    },
     'LV1 Slot Skill': {
         en: 'Lv 1 Slot Skill',
         it: 'Skill Slot Lv 1',

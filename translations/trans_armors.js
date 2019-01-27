@@ -4078,4 +4078,44 @@
         en: "Orion Legs α",
         it: "Orion Legs α",
     },
+    "Gala Suit Top Hat": {
+        en: "Gala Suit Top Hat",
+        it: "Gala Suit Top Hat",
+    },
+    "Gala Suit Jacket": {
+        en: "Gala Suit Jacket",
+        it: "Gala Suit Jacket",
+    },
+    "Gala Suit Cuffs": {
+        en: "Gala Suit Cuffs",
+        it: "Gala Suit Cuffs",
+    },
+    "Gala Suit Tail": {
+        en: "Gala Suit Tail",
+        it: "Gala Suit Tail",
+    },
+    "Gala Suit Top Hat": {
+        en: "Gala Suit Slacks",
+        it: "Gala Suit Slacks",
+    },
+    "Gala Suit Top Hat Alpha": {
+        en: "Gala Suit Top Hat α",
+        it: "Gala Suit Top Hat α",
+    },
+    "Gala Suit Jacket Alpha": {
+        en: "Gala Suit Jacket α",
+        it: "Gala Suit Jacket α",
+    },
+    "Gala Suit Cuffs Alpha": {
+        en: "Gala Suit Cuffs α",
+        it: "Gala Suit Cuffs α",
+    },
+    "Gala Suit Tail Alpha": {
+        en: "Gala Suit Tail α",
+        it: "Gala Suit Tail α",
+    },
+    "Gala Suit Top Hat Alpha": {
+        en: "Gala Suit Slacks α",
+        it: "Gala Suit Slacks α",
+    },
 };

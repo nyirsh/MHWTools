@@ -364,6 +364,7 @@ var _skills = [
         {
             genre: "sg_sets",
             skills: [
+                { skill: "Astera Blessing", points: 5, type: 2, name: "Great Luck" },
                 { skill: "Anjanath Will", points: 2, type: 2, name: "Adrenaline" },
                 { skill: "Anjanath Will", points: 4, type: 2, name: "Stamina Cap Up (Anjanath)" },
                 { skill: "Diablos Mastery", points: 2, type: 2, name: "Bludgeoner" },
