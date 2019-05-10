@@ -4119,4 +4119,24 @@
         en: "Gala Suit Slacks α",
         it: "Gala Suit Slacks α",
     },
+"Nergigante Head Gamma": {
+        en: "Nergigante Head γ",
+        it: "Nergigante Head γ",
+    },
+"Nergigante Chest Gamma": {
+        en: "Nergigante Chest γ",
+        it: "Nergigante Chest γ",
+    },
+"Nergigante Arms Gamma": {
+        en: "Nergigante Arms γ",
+        it: "Nergigante Arms γ",
+    },
+"Nergigante Waist Gamma": {
+        en: "Nergigante Waist γ",
+        it: "Nergigante Waist γ",
+    },
+"Nergigante Legs Gamma": {
+        en: "Nergigante Legs γ",
+        it: "Nergigante Legs γ",
+    },
 };
