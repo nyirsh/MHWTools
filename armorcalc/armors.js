@@ -12678,7 +12678,7 @@ var pa = [
 	mindef: 72,
 	slots: 2,
 	name: "Nergigante Head Gamma",
-	skills: { "Nergigante Hunger": 1, "Stamina Surge": 2, "Agitator": 1 },
+	skills: { "Nergigante Hunger": 1, "Stamina Surge": 1, "Agitator": 1 },
 	type: 3
 },
 {
