@@ -3335,9 +3335,13 @@
         en: "Fortify Charm",
         it: "Fortify Charm",
     },
-    "Horn Maestro Charm": {
-        en: "Horn Maestro Charm",
-        it: "Horn Maestro Charm",
+    "Horn Maestro Charm I": {
+        en: "Horn Maestro Charm I",
+        it: "Horn Maestro Charm I",
+    },
+    "Horn Maestro Charm II": {
+        en: "Horn Maestro Charm II",
+        it: "Horn Maestro Charm II",
     },
     "Capacity Boost Charm": {
         en: "Capacity Boost Charm",

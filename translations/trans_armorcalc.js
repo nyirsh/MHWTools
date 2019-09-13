@@ -322,5 +322,21 @@
     faq: {
         en: 'FAQ',
         it: 'Guida',
+    },
+    lr: {
+        en: 'LR',
+        it: 'LR',
+    },
+    hr: {
+        en: 'HR',
+        it: 'HR',
+    },
+    mr: {
+        en: 'MR',
+        it: 'MR',
+    },
+    maxcharm: {
+        en: 'Maxed Charms',
+        it: 'Ornamenti Maxati'
     }
 }

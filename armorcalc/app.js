@@ -1,3 +1,46 @@
+function changeLoadedGear(firstTime) {
+    pa = [];
+    if ($("#chkLRGear").prop('checked') == true) {
+        loadExternalArmors("LR", "index");
+    }
+    if ($("#chkHRGear").prop('checked') == true) {
+        loadExternalArmors("HR", "index");
+    }
+    if (firstTime == true || $("#chkMRGear").prop('checked') == true) {
+        loadExternalArmors("MR", "index");
+    }
+    if ($("#chkCHGear").prop('checked') == false) {
+        loadExternalArmors("CH", "index");
+    }
+    loadExternalArmors("CH", "maxindex");    
+}
+
+function loadExternalArmors(level, index) {
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", "/MHWTools/armorcalc/armors/" + level + "/" + index + ".js?" + new Date().getTime(), false);
+    rawFile.onreadystatechange = function () {
+        if (rawFile.readyState === 4) {
+            if (rawFile.status === 200 || rawFile.status === 0) {
+                var allArmors = JSON.parse(rawFile.responseText);
+                var i;
+                for (i = 0; i < allArmors.length; i++) {
+                    var varArmorFile = new XMLHttpRequest();
+                    varArmorFile.open("GET", "/MHWTools/armorcalc/armors/" + level + "/" + allArmors[i] + ".js?" + new Date().getTime(), false);
+                    varArmorFile.onreadystatechange = function () {
+                        if (varArmorFile.readyState === 4) {
+                            if (varArmorFile.status === 200 || varArmorFile.status === 0) {
+                                pa = pa.concat(eval(varArmorFile.responseText));
+                            }
+                        }
+                    }
+                    varArmorFile.send(null);
+                }
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
 function findObjectByKey(array, key, value) {
 		for (var i = 0; i < array.length; i++) {
 			if (array[i][key] === value) {
@@ -527,19 +570,27 @@ function getElementById(a) {
             topFilters += '<option value="' + toEncodedString(weaponslots[wsx].name) + '"' + slotTranslation + '>' + slotString + "</option>";
         }
         topFilters +=
-            '</select>' +
-            '</div>' +
-            '<div style="display: none;"><input id="limit" value="200"></div>' +
-            '</div>' +
-            '<div class="row">' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="mindef">' + _gts('armorcalc', 'mindef') + '</span><input class="filtersInput" id="mindef" value="0"></div>' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_fire') + '</div>' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_water') + '</div>' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_thunder') + '</div>' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_ice') + '</div>' +
-            '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_dragon') + '</div>' +
-            '</div>' +
-            '<div id="skilllistcontainer">';
+        '</select>' +
+        '</div>' +
+        '<div style="display: none;"><input id="limit" value="200"></div>' +
+        '</div>' +
+
+        '<div class="row">' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="lr">' + _gts('armorcalc', 'lr') + '</span><input type="checkbox" id="chkLRGear" class="filtersInput" onchange="changeLoadedGear()" /></div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="hr">' + _gts('armorcalc', 'hr') + '</span><input type="checkbox" id="chkHRGear" class="filtersInput" onchange="changeLoadedGear()" /></div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="mr">' + _gts('armorcalc', 'mr') + '</span><input type="checkbox" id="chkMRGear" class="filtersInput" onchange="changeLoadedGear()" checked /></div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="maxcharm">' + _gts('armorcalc', 'maxcharm') + '</span><input type="checkbox" id="chkCHGear" class="filtersInput" onchange="changeLoadedGear()" checked /></div>' +
+        '</div>' +
+
+        '<div class="row">' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2"><span translation-section="armorcalc" translation-key="mindef">' + _gts('armorcalc', 'mindef') + '</span><input class="filtersInput" id="mindef" value="0"></div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_fire') + '</div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_water') + '</div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_thunder') + '</div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_ice') + '</div>' +
+        '<div class="col col-6 col-sm-4 col-md-3 col-lg-3 col-xl-2">' + GenerateEleResSelect('minres_dragon') + '</div>' +
+        '</div>' +
+        '<div id="skilllistcontainer">';
 
         var centralSkills = '';
         var isSkillSetSection = false;
@@ -3718,7 +3769,8 @@ function getElementById(a) {
         D(pa, function(a, e, f) { b(a, e, f) && (c[a.part] = Math.max(a.maxdef, c[a.part])) });
         return c
     };
-    klass.Fa = function() {
+    klass.Fa = function () {
+        changeLoadedGear(true);
         allWeaponSlots = this.Ca();
         R = pa;
         td(this.M);
@@ -3730,7 +3782,7 @@ function getElementById(a) {
         return Ka(a, function(a) { return parseInt(a, 10) })
     };
     klass.Ca = function() {
-        for (var a = [], b = 3; 0 <= b; b--)
+        for (var a = [], b = 4; 0 <= b; b--)
             for (var c = b; 0 <= c; c--) for (var d = c; 0 <= d; d--) a.push(lf(b, c, d));
         a.reverse();
         return a
