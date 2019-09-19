@@ -92,7 +92,7 @@
         mindef: 42,
         slots: 1,
         name: "Queen Beetle Waist Beta",
-        skills: {"Defence Boost": 2},
+        skills: {"Defense Boost": 2},
         type: 3
     },
     {
