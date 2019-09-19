@@ -8,7 +8,7 @@
         mindef: 42,
         slots: 1,
         name: "King Beetle Head Alpha",
-        skills: {"Stun Resistance": 2, "Defence Boost": 1},
+        skills: {"Stun Resistance": 2, "Defense Boost": 1},
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 42,
         slots: 1,
         name: "Queen Beetle Head Alpha",
-        skills: {"Stun Resistance": 2, "Defence Boost": 1},
+        skills: {"Stun Resistance": 2, "Defense Boost": 1},
         type: 3
     },
     {
@@ -80,7 +80,7 @@
         mindef: 42,
         slots: 1,
         name: "King Beetle Waist Alpha",
-        skills: {"Defence Boost": 2, "Marathon Runner": 1},
+        skills: {"Defense Boost": 2, "Marathon Runner": 1},
         type: 3
     },
     {
@@ -92,7 +92,7 @@
         mindef: 42,
         slots: 1,
         name: "Queen Beetle Waist Alpha",
-        skills: {"Defence Boost": 2, "Marathon Runner": 1},
+        skills: {"Defense Boost": 2, "Marathon Runner": 1},
         type: 3
     },
     {
