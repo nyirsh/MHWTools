@@ -701,7 +701,7 @@ function getElementById(a) {
                     toEncodedString(a.qa) +
                     '", ' +
                     toEncodedString(e) +
-                    ")'><td class='totaldefence'>" +
+                    ")'><td class='totaldefense'>" +
                     toEncodedString(f.I) +
                     "</td>"),
                 g = 0;
@@ -951,7 +951,7 @@ function getElementById(a) {
 
     function zb(a) {
         var b =
-            '<table class="saved-result-element table table-striped" style="width:auto;"><tr><th translation-section="armorcalc" translation-key="part">' + _gts('armorcalc', 'part') + '</th><th translation-section="armorcalc" translation-key="defence">' + _gts('armorcalc', 'defence') + '</th><th translation-section="armorcalc" translation-key="name">' + _gts('armorcalc', 'name') + '</th>' +
+            '<table class="saved-result-element table table-striped" style="width:auto;"><tr><th translation-section="armorcalc" translation-key="part">' + _gts('armorcalc', 'part') + '</th><th translation-section="armorcalc" translation-key="defense">' + _gts('armorcalc', 'defense') + '</th><th translation-section="armorcalc" translation-key="name">' + _gts('armorcalc', 'name') + '</th>' +
                 (a.G ? "<th translation-section='armorcalc' translation-key='pin_exclude'>" + _gts('armorcalc', 'pin_exclude') + "</th>" : "") +
                 Db({ ja: "Head", f: a.f[0], G: a.G }) +
                 Db({ ja: "Body", f: a.f[1], G: a.G }) +
@@ -3690,7 +3690,7 @@ function getElementById(a) {
         "Sleep Resistance": 1,
         Entomologist: 1,
         Agitator: 1,
-        "Defence Boost": 1,
+        "Defense Boost": 1,
         "Affinity Sliding": 1,
         "Non-elemental Boost": 1,
         "Special Ammo Boost": 1,

@@ -179,8 +179,8 @@
         en: 'Part',
         it: 'Parte',
     },
-    defence: {
-        en: 'Defence',
+    defense: {
+        en: 'Defense',
         it: 'Difesa',
     },
     name: {
