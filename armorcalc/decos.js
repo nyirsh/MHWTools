@@ -111,13 +111,13 @@ var _decos = [
             public_name: "Weakness Exploit",
             level: 2
         },
-        { 
-			skills: { Focus: 1 }, 
-			slots: 1,  
-			name: "Charger Jewel 2", 
+        {
+			skills: { Focus: 1 },
+			slots: 1,
+			name: "Charger Jewel 2",
 			public_name: "Focus",
-            level: 2 
-		},
+            level: 2
+		    },
         {
             skills: { "Critical Draw": 1 },
             slots: 1,
@@ -139,12 +139,12 @@ var _decos = [
             public_name: "Slugger",
             level: 2
         },
-        { 
-			skills: { Airborne: 1 }, 
+        {
+			skills: { Airborne: 1 },
 			slots: 1,
-			name: "Flight Jewel 2", 
+			name: "Flight Jewel 2",
 			public_name: "Airborne",
-            level: 2 
+            level: 2
 		},
         {
             skills: { "Latent Power": 1 },
@@ -594,12 +594,12 @@ var _decos = [
             public_name: "Palico Rally",
             level: 1
         },
-        { 
-			skills: { Botanist: 1 }, 
-			slots: 1, 
-			name: "Botany Jewel 1", 
+        {
+			skills: { Botanist: 1 },
+			slots: 1,
+			name: "Botany Jewel 1",
 			public_name: "Botanist",
-            level: 1 
+            level: 1
 		},
         {
             skills: { Geologist: 1 },
@@ -615,12 +615,12 @@ var _decos = [
             public_name: "Slinger Capacity",
             level: 1
         },
-        { 
-			skills: { Stealth: 1 }, 
-			slots: 1, 
-			name: "Tip Toe Jewel 1", 
+        {
+			skills: { Stealth: 1 },
+			slots: 1,
+			name: "Tip Toe Jewel 1",
 			public_name: "Stealth",
-            level: 1 
+            level: 1
 		},
         {
             skills: { "Sporepuff Expert": 1 },
@@ -687,5 +687,6 @@ var _decos = [
         },
         { skills: { "LV1 Slot Skill": 1 }, slots: 1, name: "Jewel 1", public_name: "LV1 Slot Skill", level: 1 },
         { skills: { "LV2 Slot Skill": 1 }, slots: 1, name: "Jewel 2", public_name: "LV2 Slot Skill", level: 2 },
-        { skills: { "LV3 Slot Skill": 1 }, slots: 1, name: "Jewel 3", public_name: "LV3 Slot Skill", level: 3 }
+        { skills: { "LV3 Slot Skill": 1 }, slots: 1, name: "Jewel 3", public_name: "LV2 Slot Skill", level: 3 },
+        { skills: { "LV4 Slot Skill": 1 }, slots: 1, name: "Jewel 4", public_name: "LV3 Slot Skill", level: 4 }
     ]
