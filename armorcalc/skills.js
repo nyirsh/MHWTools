@@ -24,13 +24,13 @@ var _skills = [
                 { skill: "Scoutfly Range Up", points: 1, type: 1, name: "Scoutfly Range Up Lv1" },
                 { skill: "Sporepuff Expert", points: 1, type: 1, name: "Sporepuff Expert Lv1" },
                 { skill: "Sporepuff Expert", points: 2, type: 1, name: "Sporepuff Expert Lv2" },
-                { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" },
+                { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" }
             ]
         },
         {
             genre: "sg_support",
             skills: [
-				{ skill: "Stonethrower", points: 1, type: 1, name: "Stonethrower Lv1" },
+				        { skill: "Stonethrower", points: 1, type: 1, name: "Stonethrower Lv1" },
                 { skill: "Stonethrower", points: 2, type: 1, name: "Stonethrower Lv2" },
                 { skill: "Stonethrower", points: 3, type: 1, name: "Stonethrower Lv3" },
                 { skill: "Palico Rally", points: 1, type: 1, name: "Palico Rally Lv1" },
@@ -94,7 +94,7 @@ var _skills = [
                 { skill: "Aquatic Expert", points: 3, type: 1, name: "Aquatic Expert Lv3" },
                 { skill: "Stealth", points: 1, type: 1, name: "Stealth Lv1" },
                 { skill: "Stealth", points: 2, type: 1, name: "Stealth Lv2" },
-                { skill: "Stealth", points: 3, type: 1, name: "Stealth Lv3" },
+                { skill: "Stealth", points: 3, type: 1, name: "Stealth Lv3" }
             ]
         },
         {
@@ -179,7 +179,7 @@ var _skills = [
                 { skill: "Constitution", points: 3, type: 1, name: "Constitution Lv3" },
                 { skill: "Constitution", points: 4, type: 1, name: "Constitution Lv4" },
                 { skill: "Constitution", points: 5, type: 1, name: "Constitution Lv5" },
-                { skill: "Fortify", points: 1, type: 1, name: "Fortify Lv1" },
+                { skill: "Fortify", points: 1, type: 1, name: "Fortify Lv1" }
             ]
         },
         {
@@ -210,7 +210,7 @@ var _skills = [
                 { skill: "Spread/Power Shots", points: 1, type: 1, name: "Spread/Power Shots Lv1" },
                 { skill: "Artillery", points: 1, type: 1, name: "Artillery Lv1" },
                 { skill: "Artillery", points: 2, type: 1, name: "Artillery Lv2" },
-                { skill: "Artillery", points: 3, type: 1, name: "Artillery Lv3" },
+                { skill: "Artillery", points: 3, type: 1, name: "Artillery Lv3" }
             ]
         },
         {
@@ -253,22 +253,22 @@ var _skills = [
                 { skill: "Water Attack", points: 2, type: 1, name: "Water Attack Lv2" },
                 { skill: "Water Attack", points: 3, type: 1, name: "Water Attack Lv3" },
                 { skill: "Water Attack", points: 4, type: 1, name: "Water Attack Lv4" },
-                { skill: "Water Attack", points: 5, type: 1, name: "Water Attack Lv5" }
-                { skill: "Non-elemental Boost", points: 1, type: 1, name: "Non-elemental Boost Lv1" },
+                { skill: "Water Attack", points: 5, type: 1, name: "Water Attack Lv5" },
+                { skill: "Non-elemental Boost", points: 1, type: 1, name: "Non-elemental Boost Lv1" }
             ]
         },
-  {
+        {
             genre: "sg_damage",
             skills: [
-				{ skill: "Offensive Guard", points: 1, type: 1, name: "Offensive Guard Lv1" },
+				        { skill: "Offensive Guard", points: 1, type: 1, name: "Offensive Guard Lv1" },
                 { skill: "Offensive Guard", points: 2, type: 1, name: "Offensive Guard Lv2" },
                 { skill: "Offensive Guard", points: 3, type: 1, name: "Offensive Guard Lv3" },
-			    { skill: "Coalescence", points: 1, type: 1, name: "Coalescence Lv1" },
+			          { skill: "Coalescence", points: 1, type: 1, name: "Coalescence Lv1" },
                 { skill: "Coalescence", points: 2, type: 1, name: "Coalescence Lv2" },
                 { skill: "Coalescence", points: 3, type: 1, name: "Coalescence Lv3" },
                 { skill: "Quick Sheath", points: 1, type: 1, name: "Quick Sheath Lv1" },
                 { skill: "Quick Sheath", points: 2, type: 1, name: "Quick Sheath Lv2" },
-                { skill: "Quick Sheath", points: 3, type: 1, name: "Quick Sheath Lv3" }
+                { skill: "Quick Sheath", points: 3, type: 1, name: "Quick Sheath Lv3" },
                 { skill: "Partbreaker", points: 1, type: 1, name: "Partbreaker Lv1" },
                 { skill: "Partbreaker", points: 2, type: 1, name: "Partbreaker Lv2" },
                 { skill: "Partbreaker", points: 3, type: 1, name: "Partbreaker Lv3" },
@@ -350,15 +350,15 @@ var _skills = [
                 { skill: "Windproof", points: 2, type: 1, name: "Windproof Lv2" },
                 { skill: "Windproof", points: 3, type: 1, name: "Windproof Lv3" },
                 { skill: "Windproof", points: 4, type: 1, name: "Windproof Lv4" },
-                { skill: "Windproof", points: 5, type: 1, name: "Windproof Lv5" }
+                { skill: "Windproof", points: 5, type: 1, name: "Windproof Lv5" },
                 { skill: "Earplugs", points: 1, type: 1, name: "Earplugs Lv1" },
                 { skill: "Earplugs", points: 2, type: 1, name: "Earplugs Lv2" },
                 { skill: "Earplugs", points: 3, type: 1, name: "Earplugs Lv3" },
                 { skill: "Earplugs", points: 4, type: 1, name: "Earplugs Lv4" },
-                { skill: "Earplugs", points: 5, type: 1, name: "Earplugs Lv5" },
+                { skill: "Earplugs", points: 5, type: 1, name: "Earplugs Lv5" }
             ]
         },
-  {
+        {
             genre: "sg_cc",
             skills: [
                 { skill: "Stamina Thief", points: 1, type: 1, name: "Stamina Thief Lv1" },
@@ -367,7 +367,7 @@ var _skills = [
                 { skill: "Slugger", points: 1, type: 1, name: "Slugger Lv1" },
                 { skill: "Slugger", points: 2, type: 1, name: "Slugger Lv2" },
                 { skill: "Slugger", points: 3, type: 1, name: "Slugger Lv3" },
-                { skill: "Master Mounter", points: 1, type: 1, name: "Master Mounter Lv1" },
+                { skill: "Master Mounter", points: 1, type: 1, name: "Master Mounter Lv1" }
             ]
         },
         {
@@ -398,7 +398,7 @@ var _skills = [
                 { skill: "Xeno\u2019jiiva Divinity", points: 3, type: 2, name: "Razor Sharp/Spare Shot" },
                 { skill: "Val Hazak Vitality", points: 3, type: 2, name: "Super Recovery" },
                 { skill: "Soul of the Dragoon", points: 2, type: 2, name: "Elemental Airborne" },
-              { skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemoth)" }
+                { skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemoth)" }
             ]
         },
         {
