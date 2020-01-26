@@ -424,7 +424,14 @@ var _skills = [
                 { skill: "LV3 Slot Skill", points: 4, type: 3, name: "LV3 Slot Skill Lv4" },
                 { skill: "LV3 Slot Skill", points: 5, type: 3, name: "LV3 Slot Skill Lv5" },
                 { skill: "LV3 Slot Skill", points: 6, type: 3, name: "LV3 Slot Skill Lv6" },
-                { skill: "LV3 Slot Skill", points: 7, type: 3, name: "LV3 Slot Skill Lv7" }
+                { skill: "LV3 Slot Skill", points: 7, type: 3, name: "LV3 Slot Skill Lv7" },
+                { skill: "LV4 Slot Skill", points: 1, type: 3, name: "LV3 Slot Skill Lv1" },
+                { skill: "LV4 Slot Skill", points: 2, type: 3, name: "LV3 Slot Skill Lv2" },
+                { skill: "LV4 Slot Skill", points: 3, type: 3, name: "LV3 Slot Skill Lv3" },
+                { skill: "LV4 Slot Skill", points: 4, type: 3, name: "LV3 Slot Skill Lv4" },
+                { skill: "LV4 Slot Skill", points: 5, type: 3, name: "LV3 Slot Skill Lv5" },
+                { skill: "LV4 Slot Skill", points: 6, type: 3, name: "LV3 Slot Skill Lv6" },
+                { skill: "LV4 Slot Skill", points: 7, type: 3, name: "LV3 Slot Skill Lv7" }
             ]
         }
     ]
