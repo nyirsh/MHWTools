@@ -246,9 +246,9 @@ var _skills = [
                 { skill: "Constitution", points: 4, type: 1, name: "Constitution Lv4" },
                 { skill: "Constitution", points: 5, type: 1, name: "Constitution Lv5" },
                 { skill: "Resuscitate", points: 1, type: 1, name: "Resuscitate Lv1" },
-                { skill: "Sporepuff Expert", points: 1, type: 1, name: "Sporepuff Expert Lv1" },
-                { skill: "Sporepuff Expert", points: 2, type: 1, name: "Sporepuff Expert Lv2" },
-                { skill: "Sporepuff Expert", points: 3, type: 1, name: "Sporepuff Expert Lv3" }
+                { skill: "Survival Expert", points: 1, type: 1, name: "Survival Expert Lv1" },
+                { skill: "Survival Expert", points: 2, type: 1, name: "Survival Expert Lv2" },
+                { skill: "Survival Expert", points: 3, type: 1, name: "Survival Expert Lv3" }
             ]
         },
         {
@@ -329,9 +329,9 @@ var _skills = [
                 { skill: "Hunger Resistance", points: 1, type: 1, name: "Hunger Resistance Lv1" },
                 { skill: "Hunger Resistance", points: 2, type: 1, name: "Hunger Resistance Lv2" },
                 { skill: "Hunger Resistance", points: 3, type: 1, name: "Hunger Resistance Lv3" },
-                { skill: "Aquatic Expert", points: 1, type: 1, name: "Aquatic Expert Lv1" },
-                { skill: "Aquatic Expert", points: 2, type: 1, name: "Aquatic Expert Lv2" },
-                { skill: "Aquatic Expert", points: 3, type: 1, name: "Aquatic Expert Lv3" },
+                { skill: "Aquatic/Polar Mobility", points: 1, type: 1, name: "Aquatic/Polar Mobility Lv1" },
+                { skill: "Aquatic/Polar Mobility", points: 2, type: 1, name: "Aquatic/Polar Mobility Lv2" },
+                { skill: "Aquatic/Polar Mobility", points: 3, type: 1, name: "Aquatic/Polar Mobility Lv3" },
                 { skill: "Cliffhanger", points: 1, type: 1, name: "Cliffhanger Lv1" },
                 { skill: "Speed Crawler", points: 1, type: 1, name: "Speed Crawler Lv1" },
                 { skill: "Stealth", points: 1, type: 1, name: "Stealth Lv1" },

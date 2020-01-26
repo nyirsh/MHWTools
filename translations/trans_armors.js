@@ -3267,29 +3267,29 @@
         en: "Stealth Charm III",
         it: "Stealth Charm III",
     },
-    "Sporepuff Expert Charm I": {
-        en: "Sporepuff Expert Charm I",
-        it: "Sporepuff Expert Charm I",
+    "Survival Expert Charm I": {
+        en: "Survival Expert Charm I",
+        it: "Survival Expert Charm I",
     },
-    "Sporepuff Expert Charm II": {
-        en: "Sporepuff Expert Charm II",
-        it: "Sporepuff Expert Charm II",
+    "Survival Expert Charm II": {
+        en: "Survival Expert Charm II",
+        it: "Survival Expert Charm II",
     },
-    "Sporepuff Expert Charm III": {
-        en: "Sporepuff Expert Charm III",
-        it: "Sporepuff Expert Charm III",
+    "Survival Expert Charm III": {
+        en: "Survival Expert Charm III",
+        it: "Survival Expert Charm III",
     },
-    "Aquatic Expert Charm I": {
-        en: "Aquatic Expert Charm I",
-        it: "Aquatic Expert Charm I",
+    "Aquatic/Polar Mobility Charm I": {
+        en: "Aquatic/Polar Mobility Charm I",
+        it: "Aquatic/Polar Mobility Charm I",
     },
-    "Aquatic Expert Charm II": {
-        en: "Aquatic Expert Charm II",
-        it: "Aquatic Expert Charm II",
+    "Aquatic/Polar Mobility Charm II": {
+        en: "Aquatic/Polar Mobility Charm II",
+        it: "Aquatic/Polar Mobility Charm II",
     },
-    "Aquatic Expert Charm III": {
-        en: "Aquatic Expert Charm III",
-        it: "Aquatic Expert Charm III",
+    "Aquatic/Polar Mobility Charm III": {
+        en: "Aquatic/Polar Mobility Charm III",
+        it: "Aquatic/Polar Mobility Charm III",
     },
     "Entomologist Charm I": {
         en: "Entomologist Charm I",

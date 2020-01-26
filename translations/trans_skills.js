@@ -15,8 +15,8 @@
         en: 'Airborne',
         it: 'Minaccia Aerea',
     },
-    'Aquatic Expert': {
-        en: 'Aquatic Expert',
+    'Aquatic/Polar Mobility': {
+        en: 'Aquatic/Polar Mobility',
         it: 'Esperto Acquatico',
     },
     'Artillery': {
@@ -483,8 +483,8 @@
         en: 'Speed Sharpening',
         it: 'Affilatura Veloce',
     },
-    'Sporepuff Expert': {
-        en: 'Sporepuff Expert',
+    'Survival Expert': {
+        en: 'Survival Expert',
         it: 'Esperto di Spore',
     },
     'Spread/Power Shots': {

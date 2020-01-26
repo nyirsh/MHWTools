@@ -391,8 +391,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Sporepuff Expert Charm III",
-        skills: { "Sporepuff Expert": 3 },
+        name: "Survival Expert Charm III",
+        skills: { "Survival Expert": 3 },
         type: 3
     },
     {
@@ -403,8 +403,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Aquatic Expert Charm III",
-        skills: { "Aquatic Expert": 3 },
+        name: "Aquatic/Polar Mobility Charm III",
+        skills: { "Aquatic/Polar Mobility": 3 },
         type: 3
     },
     {

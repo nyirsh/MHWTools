@@ -623,17 +623,17 @@ var _decos = [
             level: 1
   },
         {
-            skills: { "Sporepuff Expert": 1 },
+            skills: { "Survival Expert": 1 },
             slots: 1,
             name: "Smoke Jewel 1",
-            public_name: "Sporepuff Expert",
+            public_name: "Survival Expert",
             level: 1
         },
         {
-            skills: { "Aquatic Expert": 1 },
+            skills: { "Aquatic/Polar Mobility": 1 },
             slots: 1,
             name: "Mirewalker Jewel 1",
-            public_name: "Aquatic Expert",
+            public_name: "Aquatic/Polar Mobility",
             level: 1
         },
         {
@@ -2395,6 +2395,6 @@ var _decos = [
         },
         { skills: { "LV1 Slot Skill": 1 }, slots: 1, name: "Jewel 1", public_name: "LV1 Slot Skill", level: 1 },
         { skills: { "LV2 Slot Skill": 1 }, slots: 1, name: "Jewel 2", public_name: "LV2 Slot Skill", level: 2 },
-        { skills: { "LV3 Slot Skill": 1 }, slots: 1, name: "Jewel 3", public_name: "LV2 Slot Skill", level: 3 },
-        { skills: { "LV4 Slot Skill": 1 }, slots: 1, name: "Jewel 4", public_name: "LV3 Slot Skill", level: 4 }
+        { skills: { "LV3 Slot Skill": 1 }, slots: 1, name: "Jewel 3", public_name: "LV3 Slot Skill", level: 3 },
+        { skills: { "LV4 Slot Skill": 1 }, slots: 1, name: "Jewel 4", public_name: "LV4 Slot Skill", level: 4 }
     ]

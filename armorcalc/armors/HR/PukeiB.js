@@ -8,7 +8,7 @@
         mindef: 42,
         slots: 2,
         name: "Pukei Head Beta",
-        skills: { "Sporepuff Expert": 1 },
+        skills: { "Survival Expert": 1 },
         type: 3
     },
     {
