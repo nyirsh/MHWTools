@@ -86,7 +86,7 @@ var _skills = [
                 { skill: "Bleeding Resistance", points: 1, type: 1, name: "Bleeding Resistance Lv1" },
                 { skill: "Bleeding Resistance", points: 2, type: 1, name: "Bleeding Resistance Lv2" },
                 { skill: "Bleeding Resistance", points: 3, type: 1, name: "Bleeding Resistance Lv3" },
-				{ skill: "Earplugs", points: 1, type: 1, name: "Earplugs Lv1" },
+                { skill: "Earplugs", points: 1, type: 1, name: "Earplugs Lv1" },
                 { skill: "Earplugs", points: 2, type: 1, name: "Earplugs Lv2" },
                 { skill: "Earplugs", points: 3, type: 1, name: "Earplugs Lv3" },
                 { skill: "Earplugs", points: 4, type: 1, name: "Earplugs Lv4" },
@@ -109,7 +109,7 @@ var _skills = [
                 { skill: "Iron Skin", points: 2, type: 1, name: "Iron Skin Lv2" },
                 { skill: "Iron Skin", points: 3, type: 1, name: "Iron Skin Lv3" },
                 { skill: "Leap of Faith", points: 1, type: 1, name: "Leap of Faith Lv1" },
-				{ skill: "Muck Resistance", points: 1, type: 1, name: "Muck Resistance Lv1" },
+                { skill: "Muck Resistance", points: 1, type: 1, name: "Muck Resistance Lv1" },
                 { skill: "Paralysis Resistance", points: 1, type: 1, name: "Paralysis Resistance Lv1" },
                 { skill: "Paralysis Resistance", points: 2, type: 1, name: "Paralysis Resistance Lv2" },
                 { skill: "Paralysis Resistance", points: 3, type: 1, name: "Paralysis Resistance Lv3" },
@@ -120,7 +120,7 @@ var _skills = [
                 { skill: "Recovery Speed", points: 2, type: 1, name: "Recovery Speed Lv2" },
                 { skill: "Recovery Speed", points: 3, type: 1, name: "Recovery Speed Lv3" },
                 { skill: "Resuscitate", points: 1, type: 1, name: "Resuscitate Lv1" },
-				{ skill: "Sleep Resistance", points: 1, type: 1, name: "Sleep Resistance Lv1" },
+                { skill: "Sleep Resistance", points: 1, type: 1, name: "Sleep Resistance Lv1" },
                 { skill: "Sleep Resistance", points: 2, type: 1, name: "Sleep Resistance Lv2" },
                 { skill: "Sleep Resistance", points: 3, type: 1, name: "Sleep Resistance Lv3" },
                 { skill: "Stealth", points: 1, type: 1, name: "Stealth Lv1" },
@@ -145,7 +145,7 @@ var _skills = [
                 { skill: "Blast Resistance", points: 1, type: 1, name: "Blast Resistance Lv1" },
                 { skill: "Blast Resistance", points: 2, type: 1, name: "Blast Resistance Lv2" },
                 { skill: "Blast Resistance", points: 3, type: 1, name: "Blast Resistance Lv3" },
-				{ skill: "Defense Boost", points: 1, type: 1, name: "Defense Boost Lv1" },
+                { skill: "Defense Boost", points: 1, type: 1, name: "Defense Boost Lv1" },
                 { skill: "Defense Boost", points: 2, type: 1, name: "Defense Boost Lv2" },
                 { skill: "Defense Boost", points: 3, type: 1, name: "Defense Boost Lv3" },
                 { skill: "Defense Boost", points: 4, type: 1, name: "Defense Boost Lv4" },
@@ -218,7 +218,7 @@ var _skills = [
             ]
         },
         {
-            genre: "sg_ele_status_attack", 
+            genre: "sg_ele_status_attack",
             skills: [
                 { skill: "Blast Attack", points: 1, type: 1, name: "Blast Attack Lv1" },
                 { skill: "Blast Attack", points: 2, type: 1, name: "Blast Attack Lv2" },
@@ -266,7 +266,7 @@ var _skills = [
                 { skill: "Water Attack", points: 5, type: 1, name: "Water Attack Lv5" }
             ]
         },
-		{
+  {
             genre: "sg_melee",
             skills: [
                 { skill: "Capacity Boost", points: 1, type: 1, name: "Capacity Boost Lv1" },
@@ -300,7 +300,7 @@ var _skills = [
                 { skill: "Spread/Power Shots", points: 1, type: 1, name: "Spread/Power Shots Lv1" },
             ]
         },
-		{
+  {
             genre: "sg_damage",
             skills: [
                 { skill: "Affinity Sliding", points: 1, type: 1, name: "Affinity Sliding Lv1" },
@@ -313,7 +313,7 @@ var _skills = [
                 { skill: "Artillery", points: 1, type: 1, name: "Artillery Lv1" },
                 { skill: "Artillery", points: 2, type: 1, name: "Artillery Lv2" },
                 { skill: "Artillery", points: 3, type: 1, name: "Artillery Lv3" },
-				{ skill: "Attack Boost", points: 1, type: 1, name: "Attack Boost Lv1" },
+                { skill: "Attack Boost", points: 1, type: 1, name: "Attack Boost Lv1" },
                 { skill: "Attack Boost", points: 2, type: 1, name: "Attack Boost Lv2" },
                 { skill: "Attack Boost", points: 3, type: 1, name: "Attack Boost Lv3" },
                 { skill: "Attack Boost", points: 4, type: 1, name: "Attack Boost Lv4" },
@@ -333,7 +333,7 @@ var _skills = [
                 { skill: "Critical Eye", points: 5, type: 1, name: "Critical Eye Lv5" },
                 { skill: "Critical Eye", points: 6, type: 1, name: "Critical Eye Lv6" },
                 { skill: "Critical Eye", points: 7, type: 1, name: "Critical Eye Lv7" },
-                { skill: "Fortify", points: 1, type: 1, name: "Fortify Lv1" },            
+                { skill: "Fortify", points: 1, type: 1, name: "Fortify Lv1" },
                 { skill: "Heroics", points: 1, type: 1, name: "Heroics Lv1" },
                 { skill: "Heroics", points: 2, type: 1, name: "Heroics Lv2" },
                 { skill: "Heroics", points: 3, type: 1, name: "Heroics Lv3" },
@@ -388,8 +388,8 @@ var _skills = [
                 { skill: "Odogaron Mastery", points: 4, type: 2, name: "Protective Polish" },
                 { skill: "Xeno\u2019jiiva Divinity", points: 3, type: 2, name: "Razor Sharp/Spare Shot" },
                 { skill: "Val Hazak Vitality", points: 3, type: 2, name: "Super Recovery" },
-	        { skill: "Soul of the Dragoon", points: 2, type: 2, name: "Elemental Airborne" },
-		{ skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemoth)" }
+                { skill: "Soul of the Dragoon", points: 2, type: 2, name: "Elemental Airborne" },
+              { skill: "Soul of the Dragoon", points: 4, type: 2, name: "Master\u2019s Touch (Behemoth)" }
             ]
         },
         {
