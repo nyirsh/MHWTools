@@ -59,41 +59,41 @@
         en: 'Dragon res',
         it: 'Res Drago',
     },
-    sg_environment: {
-        en: 'Environment',
-        it: 'Ambiente',
+    sg_gathering: {
+        en: 'Gathering',
+        it: 'Raccolta',
     },
-    sg_items: {
-        en: 'Items',
-        it: 'Oggetti',
+    sg_support: {
+        en: 'Support',
+        it: 'Supporto',
     },
-    sg_survival: {
-        en: 'Survival',
-        it: 'Sopravvivenza',
+    sg_outofcombat: {
+        en: 'Out of combat',
+        it: 'Fuori dal combattimento',
     },
-    sg_resistance: {
-        en: 'Resistance',
-        it: 'Resistenza',
+    sg_defense: {
+        en: 'Defense',
+        it: 'Difesa',
     },
-    sg_special: {
-        en: 'Special Mechanics',
-        it: 'Meccaniche Speciali',
+    sg_weaponboost: {
+        en: 'Weapon boost',
+        it: 'Arma boost',
     },
-    sg_ele_status_attack: {
-        en: 'Elemental / Status Attack',
-        it: 'Attacco Elementale / Stato',
-    },
-    sg_melee: {
-        en: 'Weapon (Melee)',
-        it: 'Arma (Ravvicinata)',
-    },
-    sg_ranged: {
-        en: 'Weapon (Ranged)',
-        it: 'Arma (Distanza)',
+    sg_elementaldamage: {
+        en: 'Elemental damage',
+        it: 'Attacco Elementale',
     },
     sg_damage: {
         en: 'Damage',
         it: 'Danno',
+    },
+    sg_ccresistance: {
+        en: 'Control resistance',
+        it: 'Resistenza al controllo',
+    },
+    sg_cc: {
+        en: 'Control',
+        it: 'Controllo',
     },
     sg_sets: {
         en: 'Set Skill',
