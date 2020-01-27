@@ -1543,8 +1543,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Effluvial Resistance Charm I",
-        skills: { "Effluvial Resistance": 1 },
+        name: "Effluvia Resistance Charm I",
+        skills: { "Effluvia Resistance": 1 },
         type: 3
     },
     {
@@ -1555,8 +1555,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Effluvial Resistance Charm II",
-        skills: { "Effluvial Resistance": 2 },
+        name: "Effluvia Resistance Charm II",
+        skills: { "Effluvia Resistance": 2 },
         type: 3
     },
     {

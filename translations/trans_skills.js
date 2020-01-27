@@ -143,12 +143,12 @@
         en: 'Earplugs',
         it: 'Protezione Udito',
     },
-    'Effluvial Resistance': {
-        en: 'Effluvial Resistance',
+    'Effluvia Resistance': {
+        en: 'Effluvia Resistance',
         it: 'Resistenza Effluvio',
     },
-    'Effluvial Expert': {
-        en: 'Effluvial Expert',
+    'Effluvia Expert': {
+        en: 'Effluvia Expert',
         it: 'Esperto di Effluvi',
     },
     'Elderseal Boost': {

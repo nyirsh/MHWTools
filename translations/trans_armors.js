@@ -3739,17 +3739,17 @@
         en: "Flinch Free Charm II",
         it: "Flinch Free Charm II",
     },
-    "Effluvial Resistance Charm I": {
-        en: "Effluvial Resistance Charm I",
-        it: "Effluvial Resistance Charm I",
+    "Effluvia Resistance Charm I": {
+        en: "Effluvia Resistance Charm I",
+        it: "Effluvia Resistance Charm I",
     },
-    "Effluvial Resistance Charm II": {
-        en: "Effluvial Resistance Charm II",
-        it: "Effluvial Resistance Charm II",
+    "Effluvia Resistance Charm II": {
+        en: "Effluvia Resistance Charm II",
+        it: "Effluvia Resistance Charm II",
     },
-    "Effluvial Resistance Charm III": {
-        en: "Effluvial Resistance Charm III",
-        it: "Effluvial Resistance Charm III",
+    "Effluvia Resistance Charm III": {
+        en: "Effluvia Resistance Charm III",
+        it: "Effluvia Resistance Charm III",
     },
     "Normal Shots Charm": {
         en: "Normal Shots Charm",
