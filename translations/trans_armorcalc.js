@@ -208,7 +208,7 @@
         it: 'Qualche set con una difesa maggiore potrebbe non essere stato incluso nei risultati.',
     },
     see_more_results: {
-        en: 'Too improve the results, please select more skills and/or apply more restrictions into the settings section.',
+        en: 'To improve the results, please select more skills and/or apply more restrictions into the settings section.',
         it: 'Per migliorare i risultati, seleziona più skills e/o applica più restrizioni nelle impostazioni.',
     },
     Points: {
