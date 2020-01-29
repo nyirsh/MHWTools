@@ -3659,6 +3659,7 @@ function getElementById(a) {
     })();
     klass = Hc.prototype;
     klass.Ha = {
+        "Hasten Recovery": 1,
         "Coalescence": 1,
         "Offensive Guard": 1,
         "Stonethrower": 1,
