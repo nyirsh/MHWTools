@@ -1,0 +1,62 @@
+[
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [-3, 2, -2, 3, 0],
+        part: 0,
+        mindef: 138,
+        slots: 0,
+        name: "Barioth Helm Alpha +",
+        skills: { "Evade Extender": 2,"Power Prolonger": 1,"Barioth Hidden Art": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [-3, 2, -2, 3, 0],
+        part: 1,
+        mindef: 138,
+        slots: 0,
+        name: "Barioth Torso Alpha +",
+        skills: { "Power Prolonger": 1,"Constitution": 1,"Barioth Hidden Art": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [-3, 2, -2, 3, 0],
+        part: 2,
+        mindef: 138,
+        slots: 0,
+        name: "Barioth Arm Alpha +",
+        skills: { "Recovery Up": 2,"Constitution": 2,"Barioth Hidden Art": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [-3, 2, -2, 3, 0],
+        part: 3,
+        mindef: 138,
+        slots: 0,
+        name: "Barioth Waist Alpha +",
+        skills: { "Quick Sheath": 1,"Recovery Up": 1,"Barioth Hidden Art": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [-3, 2, -2, 3, 0],
+        part: 4,
+        mindef: 138,
+        slots: 0,
+        name: "Barioth Feet Alpha +",
+        skills: { "Constitution": 2,"Quick Sheath": 1,"Barioth Hidden Art": 1 },
+        type: 3
+    }
+]

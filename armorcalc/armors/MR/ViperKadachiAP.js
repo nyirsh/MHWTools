@@ -1,0 +1,62 @@
+[
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [1, 3, -3, -2, 1],
+        part: 0,
+        mindef: 132,
+        slots: 0,
+        name: "Viper Kadachi Helm Alpha +",
+        skills: { "Evade Extender": 2,"Paralysis Attack": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [1, 3, -3, -2, 1],
+        part: 1,
+        mindef: 132,
+        slots: 0,
+        name: "Viper Kadachi Torso Alpha +",
+        skills: { "Quick Sheath": 1,"Evade Extender": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [1, 3, -3, -2, 1],
+        part: 2,
+        mindef: 132,
+        slots: 0,
+        name: "Viper Kadachi Arm Alpha +",
+        skills: { "Poison Attack": 2,"Evade Window": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [1, 3, -3, -2, 1],
+        part: 3,
+        mindef: 132,
+        slots: 0,
+        name: "Viper Kadachi Waist Alpha +",
+        skills: { "Constitution": 1,"Quick Sheath": 1 },
+        type: 3
+    },
+    {
+        maxdef: 170,
+        slotlevels: [0, 0, 0],
+        sex: 3,
+        resist: [1, 3, -3, -2, 1],
+        part: 4,
+        mindef: 132,
+        slots: 0,
+        name: "Viper Kadachi Feet Alpha +",
+        skills: { "Evade Window": 1,"Constitution": 1 },
+        type: 3
+    }
+]
