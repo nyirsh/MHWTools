@@ -7,7 +7,7 @@
         part: 0,
         mindef: 130,
         slots: 0,
-        name: "Dir Helm Beta +",
+        name: "Direwolf Helm Beta +",
         skills: { "Survival Expert": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 130,
         slots: 0,
-        name: "Dir Torso Beta +",
+        name: "Direwolf Torso Beta +",
         skills: { "Attack Boost": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 130,
         slots: 0,
-        name: "Dir Arm Beta +",
+        name: "Direwolf Arm Beta +",
         skills: { "Attack Boost": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 130,
         slots: 0,
-        name: "Dir Waist Beta +",
+        name: "Direwolf Waist Beta +",
         skills: { "Cliffhanger": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 130,
         slots: 0,
-        name: "Dir Feet Beta +",
+        name: "Direwolf Feet Beta +",
         skills: { "Survival Expert": 1 },
         type: 3
     }
