@@ -8,7 +8,7 @@
         mindef: 132,
         slots: 2,
         name: "Shield-W Helm Beta +",
-        skills: { "Health Boost": 2,,"Thunder Attack": 2,"Power Cell": 1 },
+        skills: { "Health Boost": 2,"Thunder Attack": 2,"Power Cell": 1 },
         type: 3
     },
     {

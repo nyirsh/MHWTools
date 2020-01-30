@@ -8,7 +8,7 @@
         mindef: 166,
         slots: 2,
         name: "Ruiner Nergi Alp Helm Beta +",
-        skills: { "Maximum Might": 2,,"Stamina Surge": 1,"Hasten Recovery": 1 },
+        skills: { "Maximum Might": 2,"Stamina Surge": 1,"Hasten Recovery": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 166,
         slots: 2,
         name: "Ruiner Nergi Alp Torso Beta +",
-        skills: { "Stamina Surge": 2,,"Maximum Might": 1,"Hasten Recovery": 1 },
+        skills: { "Stamina Surge": 2,"Maximum Might": 1,"Hasten Recovery": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 166,
         slots: 1,
         name: "Ruiner Nergi Alp Arm Beta +",
-        skills: { "Agitator": 2,,"Attack Boost": 2,"Hasten Recovery": 1 },
+        skills: { "Agitator": 2,"Attack Boost": 2,"Hasten Recovery": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 166,
         slots: 2,
         name: "Ruiner Nergi Alp Waist Beta +",
-        skills: { "Attack Boost": 3,,"Earplugs": 1,"Hasten Recovery": 1 },
+        skills: { "Attack Boost": 3,"Earplugs": 1,"Hasten Recovery": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 166,
         slots: 1,
         name: "Ruiner Nergi Alp Feet Beta +",
-        skills: { "Earplugs": 2,,"Agitator": 1,"Hasten Recovery": 1 },
+        skills: { "Earplugs": 2,"Agitator": 1,"Hasten Recovery": 1 },
         type: 3
     }
 ]

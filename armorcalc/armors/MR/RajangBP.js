@@ -56,7 +56,7 @@
         mindef: 158,
         slots: 2,
         name: "Rajang Feet Beta +",
-        skills: { "Resentment": 2,,"Attack Boost": 1,"Rajang's Rage": 1 },
+        skills: { "Resentment": 2,"Attack Boost": 1,"Rajang's Rage": 1 },
         type: 3
     }
 ]

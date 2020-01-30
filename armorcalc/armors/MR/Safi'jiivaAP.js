@@ -8,7 +8,7 @@
         mindef: 168,
         slots: 3,
         name: "Safi'jiiva Helm Alpha +",
-        skills: { "Evade Window": 2,,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Evade Window": 2,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 168,
         slots: 2,
         name: "Safi'jiiva Torso Alpha +",
-        skills: { "Blight Resistance": 2,,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Blight Resistance": 2,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 168,
         slots: 3,
         name: "Safi'jiiva Arm Alpha +",
-        skills: { "Blight Resistance": 1,,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Blight Resistance": 1,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 168,
         slots: 1,
         name: "Safi'jiiva Waist Alpha +",
-        skills: { "Evade Window": 2,,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Evade Window": 2,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 168,
         slots: 3,
         name: "Safi'jiiva Feet Alpha +",
-        skills: { "Critical Boost": 1,,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Critical Boost": 1,"Maximum Might": 1,"Safi'jiiva Seal": 1 },
         type: 3
     }
 ]

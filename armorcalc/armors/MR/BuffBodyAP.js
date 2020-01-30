@@ -8,7 +8,7 @@
         mindef: 154,
         slots: 3,
         name: "Buff Body Torso Alpha +",
-        skills: { "Agitator": 3,,"Fortify": 1 },
+        skills: { "Agitator": 3,"Fortify": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 154,
         slots: 1,
         name: "Buff Body Arm Alpha +",
-        skills: { "Attack Boost": 3,,"Resuscitate": 1 },
+        skills: { "Attack Boost": 3,"Resuscitate": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 154,
         slots: 1,
         name: "Buff Body Waist Alpha +",
-        skills: { "Agitator": 2,,"Heroics": 3 },
+        skills: { "Agitator": 2,"Heroics": 3 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 154,
         slots: 1,
         name: "Buff Body Feet Alpha +",
-        skills: { "Attack Boost": 3,,"Heroics": 2 },
+        skills: { "Attack Boost": 3,"Heroics": 2 },
         type: 3
     }
 ]

@@ -8,7 +8,7 @@
         mindef: 158,
         slots: 0,
         name: "Rajang Helm Alpha +",
-        skills: { "Weakness Exploit": 2,,"Handicraft": 2,"Rajang's Rage": 1 },
+        skills: { "Weakness Exploit": 2,"Handicraft": 2,"Rajang's Rage": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 158,
         slots: 2,
         name: "Rajang Torso Alpha +",
-        skills: { "Resentment": 2,,"Speed Sharpening": 2,"Rajang's Rage": 1 },
+        skills: { "Resentment": 2,"Speed Sharpening": 2,"Rajang's Rage": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 158,
         slots: 1,
         name: "Rajang Arm Alpha +",
-        skills: { "Resentment": 1,,"Handicraft": 2,"Rajang's Rage": 1 },
+        skills: { "Resentment": 1,"Handicraft": 2,"Rajang's Rage": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 158,
         slots: 2,
         name: "Rajang Waist Alpha +",
-        skills: { "Weakness Exploit": 1,,"Handicraft": 1,"Rajang's Rage": 1 },
+        skills: { "Weakness Exploit": 1,"Handicraft": 1,"Rajang's Rage": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 158,
         slots: 2,
         name: "Rajang Feet Alpha +",
-        skills: { "Resentment": 2,,"Attack Boost": 2,"Rajang's Rage": 1 },
+        skills: { "Resentment": 2,"Attack Boost": 2,"Rajang's Rage": 1 },
         type: 3
     }
 ]

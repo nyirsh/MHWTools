@@ -8,7 +8,7 @@
         mindef: 162,
         slots: 2,
         name: "Guildwork Helm Beta +",
-        skills: { "Botanist": 1,,"Honey Hunter": 1,"Guild Pride": 1 },
+        skills: { "Botanist": 1,"Honey Hunter": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 162,
         slots: 2,
         name: "Guildwork Arm Beta +",
-        skills: { "Geologist": 1,,"Botanist": 1,"Guild Pride": 1 },
+        skills: { "Geologist": 1,"Botanist": 1,"Guild Pride": 1 },
         type: 3
     },
     {

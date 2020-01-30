@@ -8,7 +8,7 @@
         mindef: 150,
         slots: 2,
         name: "Leon Helm Alpha +",
-        skills: { "Agitator": 2,,"Weakness Exploit": 1,"Survivor Set Bonus": 1 },
+        skills: { "Agitator": 2,"Weakness Exploit": 1,"Survivor Set Bonus": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 150,
         slots: 2,
         name: "Leon Torso Alpha +",
-        skills: { "Agitator": 2,,"Weakness Exploit": 1,"Survivor Set Bonus": 1 },
+        skills: { "Agitator": 2,"Weakness Exploit": 1,"Survivor Set Bonus": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 150,
         slots: 1,
         name: "Leon Arm Alpha +",
-        skills: { "Agitator": 1,,"Attack Boost": 2,"Survivor Set Bonus": 1 },
+        skills: { "Agitator": 1,"Attack Boost": 2,"Survivor Set Bonus": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 150,
         slots: 1,
         name: "Leon Waist Alpha +",
-        skills: { "Agitator": 1,,"Attack Boost": 1,"Survivor Set Bonus": 1 },
+        skills: { "Agitator": 1,"Attack Boost": 1,"Survivor Set Bonus": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 150,
         slots: 2,
         name: "Leon Feet Alpha +",
-        skills: { "Agitator": 1,,"Spread/Power Shots": 1,"Survivor Set Bonus": 1 },
+        skills: { "Agitator": 1,"Spread/Power Shots": 1,"Survivor Set Bonus": 1 },
         type: 3
     }
 ]

@@ -8,7 +8,7 @@
         mindef: 168,
         slots: 3,
         name: "Safi'jiiva Helm Beta +",
-        skills: { "Evade Window": 1,,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Evade Window": 1,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 168,
         slots: 2,
         name: "Safi'jiiva Torso Beta +",
-        skills: { "Blight Resistance": 1,,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        skills: { "Blight Resistance": 1,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
         type: 3
     },
     {

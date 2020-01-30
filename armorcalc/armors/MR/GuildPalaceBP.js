@@ -20,7 +20,7 @@
         mindef: 154,
         slots: 2,
         name: "Guild Palace Torso Beta +",
-        skills: { "Agitator": 1,,"Heroics": 1,"Guild Pride": 1 },
+        skills: { "Agitator": 1,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 154,
         slots: 2,
         name: "Guild Palace Waist Beta +",
-        skills: { "Agitator": 3,,"Resuscitate": 1,"Guild Pride": 1 },
+        skills: { "Agitator": 3,"Resuscitate": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 154,
         slots: 2,
         name: "Guild Palace Feet Beta +",
-        skills: { "Heroics": 3,,"Health Boost": 1,"Guild Pride": 1 },
+        skills: { "Heroics": 3,"Health Boost": 1,"Guild Pride": 1 },
         type: 3
     }
 ]

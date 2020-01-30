@@ -616,12 +616,12 @@ var _decos = [
             level: 1
         },
         {
-   skills: { Stealth: 1 },
-   slots: 1,
-   name: "Tip Toe Jewel 1",
-   public_name: "Stealth",
-            level: 1
-  },
+           skills: { Stealth: 1 },
+           slots: 1,
+           name: "Tip Toe Jewel 1",
+           public_name: "Stealth",
+           level: 1
+        },
         {
             skills: { "Survival Expert": 1 },
             slots: 1,

@@ -8,7 +8,7 @@
         mindef: 160,
         slots: 2,
         name: "Stygian Zin Helm Alpha +",
-        skills: { "Latent Power": 3,,"Tremor Resistance": 2,"Zinogre Essence": 1 },
+        skills: { "Latent Power": 3,"Tremor Resistance": 2,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 160,
         slots: 1,
         name: "Stygian Zin Torso Alpha +",
-        skills: { "Windproof": 3,,"Flinch Free": 2,"Zinogre Essence": 1 },
+        skills: { "Windproof": 3,"Flinch Free": 2,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 160,
         slots: 1,
         name: "Stygian Zin Arm Alpha +",
-        skills: { "Partbreaker": 2,,"Dragon Attack": 3,"Zinogre Essence": 1 },
+        skills: { "Partbreaker": 2,"Dragon Attack": 3,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 160,
         slots: 3,
         name: "Stygian Zin Waist Alpha +",
-        skills: { "Latent Power": 3,,"Earplugs": 2,"Zinogre Essence": 1 },
+        skills: { "Latent Power": 3,"Earplugs": 2,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 160,
         slots: 2,
         name: "Stygian Zin Feet Alpha +",
-        skills: { "Focus": 2,,"Elderseal Boost": 1,"Zinogre Essence": 1 },
+        skills: { "Focus": 2,"Elderseal Boost": 1,"Zinogre Essence": 1 },
         type: 3
     }
 ]

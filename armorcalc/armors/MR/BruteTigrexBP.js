@@ -8,7 +8,7 @@
         mindef: 158,
         slots: 1,
         name: "Brute Tigrex Helm Beta +",
-        skills: { "Attack Boost": 2,,"Free Meal": 1,"Tigrex Essence": 1 },
+        skills: { "Attack Boost": 2,"Free Meal": 1,"Tigrex Essence": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 158,
         slots: 2,
         name: "Brute Tigrex Torso Beta +",
-        skills: { "Attack Boost": 2,,"Weakness Exploit": 1,"Tigrex Essence": 1 },
+        skills: { "Attack Boost": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 158,
         slots: 1,
         name: "Brute Tigrex Arm Beta +",
-        skills: { "Health Boost": 2,,"Attack Boost": 2,"Tigrex Essence": 1 },
+        skills: { "Health Boost": 2,"Attack Boost": 2,"Tigrex Essence": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 158,
         slots: 1,
         name: "Brute Tigrex Waist Beta +",
-        skills: { "Recovery Up": 2,,"Weakness Exploit": 1,"Tigrex Essence": 1 },
+        skills: { "Recovery Up": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 158,
         slots: 1,
         name: "Brute Tigrex Feet Beta +",
-        skills: { "Agitator": 2,,"Weakness Exploit": 1,"Tigrex Essence": 1 },
+        skills: { "Agitator": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     }
 ]

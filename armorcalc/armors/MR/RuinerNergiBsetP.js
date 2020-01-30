@@ -32,7 +32,7 @@
         mindef: 166,
         slots: 2,
         name: "Ruiner Nergi Be Arm Beta +",
-        skills: { "Agitator": 2,,"Attack Boost": 1,"Hasten Recovery": 1 },
+        skills: { "Agitator": 2,"Attack Boost": 1,"Hasten Recovery": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 166,
         slots: 2,
         name: "Ruiner Nergi Be Waist Beta +",
-        skills: { "Attack Boost": 2,,"Earplugs": 1,"Hasten Recovery": 1 },
+        skills: { "Attack Boost": 2,"Earplugs": 1,"Hasten Recovery": 1 },
         type: 3
     },
     {

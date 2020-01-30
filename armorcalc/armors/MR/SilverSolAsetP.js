@@ -8,7 +8,7 @@
         mindef: 164,
         slots: 2,
         name: "Silver Sol Alp Helm Beta +",
-        skills: { "Windproof": 2,,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
+        skills: { "Windproof": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 164,
         slots: 1,
         name: "Silver Sol Alp Torso Beta +",
-        skills: { "Critical Boost": 2,,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
+        skills: { "Critical Boost": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 164,
         slots: 2,
         name: "Silver Sol Alp Arm Beta +",
-        skills: { "Slinger Capacity": 3,,"Windproof": 1,"Silver Rathalos Essence": 1 },
+        skills: { "Slinger Capacity": 3,"Windproof": 1,"Silver Rathalos Essence": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 164,
         slots: 2,
         name: "Silver Sol Alp Waist Beta +",
-        skills: { "Windproof": 2,,"Critical Boost": 1,"Silver Rathalos Essence": 1 },
+        skills: { "Windproof": 2,"Critical Boost": 1,"Silver Rathalos Essence": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 164,
         slots: 2,
         name: "Silver Sol Alp Feet Beta +",
-        skills: { "Slinger Capacity": 2,,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
+        skills: { "Slinger Capacity": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     }
 ]

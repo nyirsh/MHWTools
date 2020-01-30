@@ -8,7 +8,7 @@
         mindef: 154,
         slots: 1,
         name: "Guild Palace Helm Alpha +",
-        skills: { "Health Boost": 2,,"Offensive Guard": 1,"Guild Pride": 1 },
+        skills: { "Health Boost": 2,"Offensive Guard": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 154,
         slots: 2,
         name: "Guild Palace Torso Alpha +",
-        skills: { "Agitator": 2,,"Heroics": 1,"Guild Pride": 1 },
+        skills: { "Agitator": 2,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 154,
         slots: 1,
         name: "Guild Palace Arm Alpha +",
-        skills: { "Offensive Guard": 2,,"Heroics": 1,"Guild Pride": 1 },
+        skills: { "Offensive Guard": 2,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 154,
         slots: 2,
         name: "Guild Palace Waist Alpha +",
-        skills: { "Agitator": 3,,"Resuscitate": 1,"Guild Pride": 1 },
+        skills: { "Agitator": 3,"Resuscitate": 1,"Guild Pride": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 154,
         slots: 1,
         name: "Guild Palace Feet Alpha +",
-        skills: { "Heroics": 3,,"Health Boost": 1,"Guild Pride": 1 },
+        skills: { "Heroics": 3,"Health Boost": 1,"Guild Pride": 1 },
         type: 3
     }
 ]

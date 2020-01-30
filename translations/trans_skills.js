@@ -356,7 +356,7 @@
         it: 'Gregario',
     },
     'Paralysis Functionality': {
-        en: 'Para Functionality',
+        en: 'Paralysis Functionality',
         it: 'Applica Paralisi',
     },
     'Paralysis Attack': {
@@ -654,5 +654,9 @@
     'LV3 Slot Skill': {
         en: 'Lv 3 Slot Skill',
         it: 'Skill Slot Lv 3',
+    },
+    'LV4 Slot Skill': {
+        en: 'Lv 4 Slot Skill',
+        it: 'Skill Slot Lv 4',
     }
 }

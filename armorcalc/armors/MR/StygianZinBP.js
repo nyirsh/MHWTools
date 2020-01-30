@@ -8,7 +8,7 @@
         mindef: 160,
         slots: 2,
         name: "Stygian Zin Helm Beta +",
-        skills: { "Latent Power": 3,,"Tremor Resistance": 1,"Zinogre Essence": 1 },
+        skills: { "Latent Power": 3,"Tremor Resistance": 1,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -20,7 +20,7 @@
         mindef: 160,
         slots: 1,
         name: "Stygian Zin Torso Beta +",
-        skills: { "Windproof": 3,,"Flinch Free": 1,"Zinogre Essence": 1 },
+        skills: { "Windproof": 3,"Flinch Free": 1,"Zinogre Essence": 1 },
         type: 3
     },
     {
@@ -44,7 +44,7 @@
         mindef: 160,
         slots: 3,
         name: "Stygian Zin Waist Beta +",
-        skills: { "Latent Power": 3,,"Earplugs": 1,"Zinogre Essence": 1 },
+        skills: { "Latent Power": 3,"Earplugs": 1,"Zinogre Essence": 1 },
         type: 3
     },
     {
