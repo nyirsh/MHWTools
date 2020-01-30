@@ -905,7 +905,7 @@ function getElementById(a) {
                 for (var h = e[g],
                     b = b +
                         ('<div class="col col-lg-3 col-md-4 col-sm-6 col-12 deco-setting deco-setting">' +
-                        '<span traslation-section="skills" translation-key="' + findObjectByKey(_decos, 'name', h.name).public_name + '">' + _gts('skills', findObjectByKey(_decos, 'name', h.name).public_name) + '</span>' +
+                        '<span translation-section="skills" translation-key="' + findObjectByKey(_decos, 'name', h.name).public_name + '">' + _gts('skills', findObjectByKey(_decos, 'name', h.name).public_name) + '</span>' +
                         "<select class='filtersInput' deconame='" + toEncodedString(h.name) + "' onchange=\"onDecoCountChange(this.getAttribute('deconame'), parseInt(this.value));\">"),
                     m = h.max + 1,
                     q = 0;
@@ -3659,6 +3659,7 @@ function getElementById(a) {
     })();
     klass = Hc.prototype;
     klass.Ha = {
+        "LV4 Slot Skill": 1,
         "Hasten Recovery": 1,
         "Coalescence": 1,
         "Offensive Guard": 1,
