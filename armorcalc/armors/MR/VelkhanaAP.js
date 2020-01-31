@@ -44,7 +44,7 @@
         mindef: 154,
         slots: 2,
         name: "Rimeguard Coil Alpha +",
-        skills: { "Flinch Free": 1 Coalescence 1,"Velkhana Divinity": 1 },
+        skills: { "Flinch Free": 1, "Coalescence": 1,"Velkhana Divinity": 1 },
         type: 3
     },
     {
