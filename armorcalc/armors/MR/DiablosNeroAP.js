@@ -19,7 +19,7 @@
         part: 1,
         mindef: 148,
         slots: 1,
-        name: "Diablos Nero Torso Alpha +",
+        name: "Diablos Nero Mail Alpha +",
         skills: { "Resentment": 2,"Marathon Runner": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 148,
         slots: 2,
-        name: "Diablos Nero Arm Alpha +",
+        name: "Diablos Nero Braces Alpha +",
         skills: { "Slugger": 2,"Marathon Runner": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 148,
         slots: 1,
-        name: "Diablos Nero Waist Alpha +",
+        name: "Diablos Nero Coil Alpha +",
         skills: { "Slugger": 2,"Partbreaker": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 148,
         slots: 1,
-        name: "Diablos Nero Feet Alpha +",
+        name: "Diablos Nero Greaves Alpha +",
         skills: { "Resentment": 2,"Slugger": 1,"Diablos Ambition": 1 },
         type: 3
     }

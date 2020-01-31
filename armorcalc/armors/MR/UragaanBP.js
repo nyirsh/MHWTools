@@ -19,7 +19,7 @@
         part: 1,
         mindef: 144,
         slots: 1,
-        name: "Uragaan Torso Beta +",
+        name: "Uragaan Mail Beta +",
         skills: { "Partbreaker": 2,"Uragaan Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 144,
         slots: 1,
-        name: "Uragaan Arm Beta +",
+        name: "Uragaan Vambraces Beta +",
         skills: { "Guard": 2,"Iron Skin": 1,"Uragaan Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 144,
         slots: 2,
-        name: "Uragaan Waist Beta +",
+        name: "Uragaan Coil Beta +",
         skills: { "Partbreaker": 1,"Uragaan Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 144,
         slots: 2,
-        name: "Uragaan Feet Beta +",
+        name: "Uragaan Greaves Beta +",
         skills: { "Guard": 2,"Uragaan Ambition": 1 },
         type: 3
     }

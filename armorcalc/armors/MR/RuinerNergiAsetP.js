@@ -7,7 +7,7 @@
         part: 0,
         mindef: 166,
         slots: 2,
-        name: "Ruiner Nergi Alp Helm Beta +",
+        name: "Ruinous Helm Alpha +",
         skills: { "Maximum Might": 2,"Stamina Surge": 1,"Hasten Recovery": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 166,
         slots: 2,
-        name: "Ruiner Nergi Alp Torso Beta +",
+        name: "Ruinous Mail Alpha +",
         skills: { "Stamina Surge": 2,"Maximum Might": 1,"Hasten Recovery": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 166,
         slots: 1,
-        name: "Ruiner Nergi Alp Arm Beta +",
+        name: "Ruinous Vambraces Alpha +",
         skills: { "Agitator": 2,"Attack Boost": 2,"Hasten Recovery": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 166,
         slots: 2,
-        name: "Ruiner Nergi Alp Waist Beta +",
+        name: "Ruinous Coil Alpha +",
         skills: { "Attack Boost": 3,"Earplugs": 1,"Hasten Recovery": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 166,
         slots: 1,
-        name: "Ruiner Nergi Alp Feet Beta +",
+        name: "Ruinous Greaves Alpha +",
         skills: { "Earplugs": 2,"Agitator": 1,"Hasten Recovery": 1 },
         type: 3
     }

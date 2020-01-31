@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 1,
-        name: "Brachydios Torso Alpha +",
+        name: "Brachydios Mail Alpha +",
         skills: { "Stamina Thief": 2,"Agitator": 1,"Brachydios Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 1,
-        name: "Brachydios Arm Alpha +",
+        name: "Brachydios Braces Alpha +",
         skills: { "Agitator": 2,"Blast Resistance": 2,"Brachydios Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 1,
-        name: "Brachydios Waist Alpha +",
+        name: "Brachydios Faulds Alpha +",
         skills: { "Blast Attack": 2,"Stamina Thief": 1,"Brachydios Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 1,
-        name: "Brachydios Feet Alpha +",
+        name: "Brachydios Greaves Alpha +",
         skills: { "Agitator": 2,"Artillery": 2,"Brachydios Essence": 1 },
         type: 3
     }

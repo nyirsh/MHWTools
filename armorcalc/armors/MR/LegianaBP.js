@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Legiana Torso Beta +",
+        name: "Legiana Mail Beta +",
         skills: { "Evade Window": 2,"Divine Blessing": 1,"Legiana Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 2,
-        name: "Legiana Arm Beta +",
+        name: "Legiana Vambraces Beta +",
         skills: { "Airborne": 1,"Evade Window": 1,"Legiana Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 2,
-        name: "Legiana Waist Beta +",
+        name: "Legiana Coil Beta +",
         skills: { "Ice Attack": 2,"Windproof": 1,"Legiana Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Legiana Feet Beta +",
+        name: "Legiana Greaves Beta +",
         skills: { "Ice Resistance": 2,"Legiana Ambition": 1 },
         type: 3
     }

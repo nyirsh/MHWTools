@@ -19,7 +19,7 @@
         part: 1,
         mindef: 118,
         slots: 1,
-        name: "Jyura Torso Alpha +",
+        name: "Jyura Mail Alpha +",
         skills: { "Latent Power": 1,"Water Attack": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 118,
         slots: 2,
-        name: "Jyura Arm Alpha +",
+        name: "Jyura Vambraces Alpha +",
         skills: { "Water Attack": 2,"Ice Resistance": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 118,
         slots: 1,
-        name: "Jyura Waist Alpha +",
+        name: "Jyura Coil Alpha +",
         skills: { "Ice Resistance": 2,"Latent Power": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 118,
         slots: 1,
-        name: "Jyura Feet Alpha +",
+        name: "Jyura Greaves Alpha +",
         skills: { "Focus": 2,"Water Attack": 1 },
         type: 3
     }

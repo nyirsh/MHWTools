@@ -19,7 +19,7 @@
         part: 1,
         mindef: 130,
         slots: 1,
-        name: "Banbaro Torso Alpha +",
+        name: "Banbaro Mail Alpha +",
         skills: { "Speed Eating": 1,"Offensive Guard": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 130,
         slots: 1,
-        name: "Banbaro Arm Alpha +",
+        name: "Banbaro Vambraces Alpha +",
         skills: { "Offensive Guard": 1,"Health Boost": 2 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 130,
         slots: 1,
-        name: "Banbaro Waist Alpha +",
+        name: "Banbaro Coil Alpha +",
         skills: { "Mushroomancer": 1,"Offensive Guard": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 130,
         slots: 1,
-        name: "Banbaro Feet Alpha +",
+        name: "Banbaro Greaves Alpha +",
         skills: { "Mushroomancer": 1,"Speed Eating": 1 },
         type: 3
     }

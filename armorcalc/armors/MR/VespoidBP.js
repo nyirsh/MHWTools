@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 2,
-        name: "Vespoid Torso Beta +",
+        name: "Vespoid Mail Beta +",
         skills: { "Wind Proof": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 2,
-        name: "Vespoid Arm Beta +",
+        name: "Vespoid Vambraces Beta +",
         skills: { "Paralysis Attack": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Vespoid Waist Beta +",
+        name: "Vespoid Coil Beta +",
         skills: { "Paralysis Resistance": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 2,
-        name: "Vespoid Feet Beta +",
+        name: "Vespoid Greaves Beta +",
         skills: { "Critical Draw": 1 },
         type: 3
     }

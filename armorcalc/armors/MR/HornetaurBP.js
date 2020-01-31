@@ -19,8 +19,8 @@
         part: 1,
         mindef: 116,
         slots: 3,
-        name: "Hornetaur Torso Beta +",
-        skills: { "Effluvial Expert": 1 },
+        name: "Hornetaur Mail Beta +",
+        skills: { "Effluvia Expert": 1 },
         type: 3
     },
     {
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 2,
-        name: "Hornetaur Arm Beta +",
+        name: "Hornetaur Vambraces Beta +",
         skills: { "Free Meal": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Hornetaur Waist Beta +",
+        name: "Hornetaur Coil Beta +",
         skills: { "Weakness Exploit": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 2,
-        name: "Hornetaur Feet Beta +",
+        name: "Hornetaur Greaves Beta +",
         skills: { "Handicraft": 1 },
         type: 3
     }

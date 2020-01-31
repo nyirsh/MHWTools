@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 1,
-        name: "Jagras Torso Alpha +",
+        name: "Jagras Mail Alpha +",
         skills: { "Evade Extender": 1,"Attack Boost": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Jagras Arm Alpha +",
+        name: "Jagras Vambraces Alpha +",
         skills: { "Evade Extender": 2,"Recovery Up": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Jagras Waist Alpha +",
+        name: "Jagras Coil Alpha +",
         skills: { "Recovery Up": 1,"Speed Eating": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 2,
-        name: "Jagras Feet Alpha +",
+        name: "Jagras Greaves Alpha +",
         skills: { "Free Meal": 1,"Recovery Up": 1 },
         type: 3
     }

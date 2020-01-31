@@ -7,7 +7,7 @@
         part: 0,
         mindef: 156,
         slots: 2,
-        name: "Savage Jho Helm Beta +",
+        name: "Esurient Helm Beta +",
         skills: { "Partbreaker": 1,"Deviljho Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 156,
         slots: 3,
-        name: "Savage Jho Torso Beta +",
+        name: "Esurient Mail Beta +",
         skills: { "Speed Eating": 1,"Deviljho Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 156,
         slots: 1,
-        name: "Savage Jho Arm Beta +",
+        name: "Esurient Vambraces Beta +",
         skills: { "Stamina Thief": 2,"Deviljho Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 156,
         slots: 2,
-        name: "Savage Jho Waist Beta +",
+        name: "Esurient Faulds Beta +",
         skills: { "Stamina Thief": 2,"Deviljho Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 156,
         slots: 2,
-        name: "Savage Jho Feet Beta +",
+        name: "Esurient Greaves Beta +",
         skills: { "Speed Eating": 1,"Stamina Thief": 1,"Deviljho Essence": 1 },
         type: 3
     }

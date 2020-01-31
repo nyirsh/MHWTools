@@ -7,7 +7,7 @@
         part: 0,
         mindef: 160,
         slots: 2,
-        name: "Stygian Zin Helm Beta +",
+        name: "Stygian Helm Beta +",
         skills: { "Latent Power": 3,"Tremor Resistance": 1,"Zinogre Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 160,
         slots: 1,
-        name: "Stygian Zin Torso Beta +",
+        name: "Stygian Mail Beta +",
         skills: { "Windproof": 3,"Flinch Free": 1,"Zinogre Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 160,
         slots: 2,
-        name: "Stygian Zin Arm Beta +",
+        name: "Stygian Vambraces Beta +",
         skills: { "Partbreaker": 2,"Zinogre Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 160,
         slots: 3,
-        name: "Stygian Zin Waist Beta +",
+        name: "Stygian Coil Beta +",
         skills: { "Latent Power": 3,"Earplugs": 1,"Zinogre Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 160,
         slots: 2,
-        name: "Stygian Zin Feet Beta +",
+        name: "Stygian Greaves Beta +",
         skills: { "Focus": 2,"Zinogre Essence": 1 },
         type: 3
     }

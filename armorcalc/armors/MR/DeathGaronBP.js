@@ -19,7 +19,7 @@
         part: 1,
         mindef: 148,
         slots: 2,
-        name: "Death Garon Torso Beta +",
+        name: "Death Garon Mail Beta +",
         skills: { "Critical Eye": 2,"Dragon Resistance": 1,"Odogaron Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 148,
         slots: 2,
-        name: "Death Garon Arm Beta +",
+        name: "Death Garon Braces Beta +",
         skills: { "Power Prolonger": 1,"Dragon Attack": 1,"Odogaron Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 148,
         slots: 2,
-        name: "Death Garon Waist Beta +",
+        name: "Death Garon Coil Beta +",
         skills: { "Dragon Attack": 2,"Odogaron Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 148,
         slots: 3,
-        name: "Death Garon Feet Beta +",
+        name: "Death Garon Greaves Beta +",
         skills: { "Tool Specialist": 2,"Odogaron Essence": 1 },
         type: 3
     }

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 1,
-        name: "Glavenus Torso Alpha +",
+        name: "Glavenus Mail Alpha +",
         skills: { "Power Prolonger": 2,"Maximum Might": 1,"Glavenus Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 1,
-        name: "Glavenus Arm Alpha +",
+        name: "Glavenus Braces Alpha +",
         skills: { "Maximum Might": 2,"Focus": 1,"Glavenus Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 2,
-        name: "Glavenus Waist Alpha +",
+        name: "Glavenus Faulds Alpha +",
         skills: { "Maximum Might": 2,"Normal Shots": 1,"Glavenus Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 1,
-        name: "Glavenus Feet Alpha +",
+        name: "Glavenus Greaves Alpha +",
         skills: { "Handicraft": 2,"Heat Guard": 1,"Glavenus Essence": 1 },
         type: 3
     }

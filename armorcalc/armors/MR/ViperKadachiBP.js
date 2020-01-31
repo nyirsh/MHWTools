@@ -7,7 +7,7 @@
         part: 0,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Helm Beta +",
+        name: "Viper Kadachi Hat Beta +",
         skills: { "Evade Extender": 1,"Paralysis Attack": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 2,
-        name: "Viper Kadachi Torso Beta +",
+        name: "Viper Kadachi Mail Beta +",
         skills: { "Quick Sheath": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Arm Beta +",
+        name: "Viper Kadachi Braces Beta +",
         skills: { "Poison Attack": 1,"Evade Window": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 2,
-        name: "Viper Kadachi Waist Beta +",
+        name: "Viper Kadachi Coil Beta +",
         skills: { "Constitution": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Viper Kadachi Feet Beta +",
+        name: "Viper Kadachi Greaves Beta+",
         skills: { "Evade Window": 1 },
         type: 3
     }

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 1,
-        name: "Tigrex Torso Alpha +",
+        name: "Tigrex Mail Alpha +",
         skills: { "Earplugs": 2,"Free Meal": 1,"Tigrex Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 1,
-        name: "Tigrex Arm Alpha +",
+        name: "Tigrex Braces Alpha +",
         skills: { "Speed Eating": 2,"Attack Boost": 2,"Tigrex Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 2,
-        name: "Tigrex Waist Alpha +",
+        name: "Tigrex Tassets Alpha +",
         skills: { "Earplugs": 1,"Free Meal": 1,"Tigrex Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 2,
-        name: "Tigrex Feet Alpha +",
+        name: "Tigrex Greaves Alpha +",
         skills: { "Speed Eating": 1,"Free Meal": 1,"Tigrex Essence": 1 },
         type: 3
     }

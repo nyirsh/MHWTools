@@ -19,7 +19,7 @@
         part: 1,
         mindef: 134,
         slots: 1,
-        name: "Baan Torso Alpha +",
+        name: "Baan Mail Alpha +",
         skills: { "Sleep Attack": 1,"Bleeding Resistance": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 134,
         slots: 1,
-        name: "Baan Arm Alpha +",
+        name: "Baan Vambraces Alpha +",
         skills: { "Sleep Attack": 2,"Guard": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 134,
         slots: 1,
-        name: "Baan Waist Alpha +",
+        name: "Baan Coil Alpha +",
         skills: { "Guard": 2,"Sleep Resistance": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 134,
         slots: 1,
-        name: "Baan Feet Alpha +",
+        name: "Baan Greaves Alpha +",
         skills: { "Bleeding Resistance": 2,"Guard": 1 },
         type: 3
     }

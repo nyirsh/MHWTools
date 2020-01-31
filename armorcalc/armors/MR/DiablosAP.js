@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Diablos Torso Alpha +",
+        name: "Diablos Mail Alpha +",
         skills: { "Slugger": 2,"Heroics": 2,"Diablos Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 1,
-        name: "Diablos Arm Alpha +",
+        name: "Diablos Vambraces Alpha +",
         skills: { "Heroics": 3,"Tremor Resistance": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 1,
-        name: "Diablos Waist Alpha +",
+        name: "Diablos Coil Alpha +",
         skills: { "Marathon Runner": 2,"Critical Draw": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Diablos Feet Alpha +",
+        name: "Diablos Greaves Alpha +",
         skills: { "Tremor Resistance": 2,"Slugger": 2,"Diablos Ambition": 1 },
         type: 3
     }

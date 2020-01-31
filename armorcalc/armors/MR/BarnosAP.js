@@ -7,7 +7,7 @@
         part: 1,
         mindef: 116,
         slots: 2,
-        name: "Barnos Torso Alpha +",
+        name: "Barnos Jacket Alpha +",
         skills: { "Heat Guard": 1,"Iron Skin": 2 },
         type: 3
     }

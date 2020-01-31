@@ -7,7 +7,7 @@
         part: 0,
         mindef: 132,
         slots: 1,
-        name: "Lumu Phantasm Helm Beta +",
+        name: "Lumu Phantasm Hood Beta +",
         skills: { "Weakness Exploit": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 2,
-        name: "Lumu Phantasm Torso Beta +",
+        name: "Lumu Phantasm Mail Beta +",
         skills: { "Wide-Range": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 1,
-        name: "Lumu Phantasm Arm Beta +",
+        name: "Lumu Phantasm Braces Beta +",
         skills: { "Maximum Might": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 1,
-        name: "Lumu Phantasm Waist Beta +",
+        name: "Lumu Phantasm Coil Beta +",
         skills: { "Sleep Attack": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Lumu Phantasm Feet Beta +",
+        name: "Lumu Phantasm Greaves Beta +",
         skills: { "Sleep Resistance": 2 },
         type: 3
     }

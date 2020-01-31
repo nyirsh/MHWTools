@@ -19,7 +19,7 @@
         part: 1,
         mindef: 118,
         slots: 1,
-        name: "Beo Torso Alpha +",
+        name: "Beo Mail Alpha +",
         skills: { "Stamina Surge": 1,"Ice Attack": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 118,
         slots: 1,
-        name: "Beo Arm Alpha +",
+        name: "Beo Vambraces Alpha +",
         skills: { "Ice Attack": 2,"Health Boost": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 118,
         slots: 1,
-        name: "Beo Waist Alpha +",
+        name: "Beo Coil Alpha +",
         skills: { "Health Boost": 2,"Earplugs": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 118,
         slots: 1,
-        name: "Beo Feet Alpha +",
+        name: "Beo Greaves Alpha+",
         skills: { "Earplugs": 2,"Ice Attack": 1 },
         type: 3
     }

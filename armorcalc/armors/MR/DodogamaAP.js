@@ -19,7 +19,7 @@
         part: 1,
         mindef: 120,
         slots: 1,
-        name: "Dodogama Torso Alpha +",
+        name: "Dodogama Mail Alpha +",
         skills: { "Blast Attack": 2,"Artillery": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 120,
         slots: 1,
-        name: "Dodogama Arm Alpha +",
+        name: "Dodogama Vambraces Alpha +",
         skills: { "Bombardier": 2,"Blast Attack": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 120,
         slots: 2,
-        name: "Dodogama Waist Alpha +",
+        name: "Dodogama Coil Alpha +",
         skills: { "Artillery": 2,"Blast Resistance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 120,
         slots: 2,
-        name: "Dodogama Feet Alpha +",
+        name: "Dodogama Greaves Alpha +",
         skills: { "Capacity Boost": 1,"Blast Attack": 1 },
         type: 3
     }

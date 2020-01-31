@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 1,
-        name: "Artian Torso Alpha +",
+        name: "Artian Mail Alpha +",
         skills: { "Critical Eye": 3,"Peak Performance": 1,"Ancient Divinity": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 2,
-        name: "Artian Arm Alpha +",
+        name: "Artian Vambraces Alpha +",
         skills: { "Free Elem/Ammo Up": 2,"Tool Specialist": 1,"Ancient Divinity": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 2,
-        name: "Artian Waist Alpha +",
+        name: "Artian Coil Alpha +",
         skills: { "Tool Specialist": 2,"Critical Eye": 1,"Ancient Divinity": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 2,
-        name: "Artian Feet Alpha +",
+        name: "Artian Greaves Alpha +",
         skills: { "Peak Performance": 2,"Slinger Capacity": 1,"Ancient Divinity": 1 },
         type: 3
     }

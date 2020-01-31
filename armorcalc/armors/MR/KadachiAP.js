@@ -7,7 +7,7 @@
         part: 0,
         mindef: 120,
         slots: 1,
-        name: "Kadachi Helm Alpha +",
+        name: "Kadachi Hat Alpha +",
         skills: { "Constitution": 2,"Evade Extender": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Torso Alpha +",
+        name: "Kadachi Mail Alpha +",
         skills: { "Jump Master": 1,"Constitution": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 120,
         slots: 1,
-        name: "Kadachi Arm Alpha +",
+        name: "Kadachi Vambraces Alpha +",
         skills: { "Evade Extender": 2,"Thunder Attack": 2 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Waist Alpha +",
+        name: "Kadachi Coil Alpha +",
         skills: { "Thunder Attack": 2,"Thunder Resistance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Feet Alpha +",
+        name: "Kadachi Greaves Alpha+",
         skills: { "Thunder Resistance": 2,"Constitution": 1 },
         type: 3
     }

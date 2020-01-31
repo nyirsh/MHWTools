@@ -19,7 +19,7 @@
         part: 1,
         mindef: 150,
         slots: 3,
-        name: "Black Belt Torso Beta +",
+        name: "Black Belt Mail Beta +",
         skills: { "Mushroomancer": 2,"Instructor's Guidance": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 150,
         slots: 2,
-        name: "Black Belt Arm Beta +",
+        name: "Black Belt Braces Beta +",
         skills: { "Wide-Range": 2,"Instructor's Guidance": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 150,
         slots: 2,
-        name: "Black Belt Waist Beta +",
+        name: "Black Belt Tassets Beta +",
         skills: { "Recovery Up": 2,"Instructor's Guidance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 150,
         slots: 2,
-        name: "Black Belt Feet Beta +",
+        name: "Black Belt Greaves Beta +",
         skills: { "Wide-Range": 2,"Instructor's Guidance": 1 },
         type: 3
     }

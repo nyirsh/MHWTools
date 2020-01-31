@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 2,
-        name: "Shamos Helm Beta +",
+        name: "Shamos Goggles Beta +",
         skills: { "Detector": 1,"Geologist": 1 },
         type: 3
     }

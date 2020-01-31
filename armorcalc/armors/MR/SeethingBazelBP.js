@@ -7,7 +7,7 @@
         part: 0,
         mindef: 154,
         slots: 2,
-        name: "Seething Bazel Helm Beta +",
+        name: "Pride Helm Beta +",
         skills: { "Earplugs": 2,"Blast Attack": 1,"Bazelgeuse Ambition": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 3,
-        name: "Seething Bazel Torso Beta +",
+        name: "Pride Mail Beta +",
         skills: { "Guard": 2,"Bazelgeuse Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 2,
-        name: "Seething Bazel Arm Beta +",
+        name: "Pride Vambraces Beta +",
         skills: { "Critical Draw": 2,"Bazelgeuse Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 2,
-        name: "Seething Bazel Waist Beta +",
+        name: "Pride Coil Beta +",
         skills: { "Bombardier": 2,"Bazelgeuse Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 2,
-        name: "Seething Bazel Feet Beta +",
+        name: "Pride Greaves Beta +",
         skills: { "Earplugs": 1,"Jump Master": 1,"Bazelgeuse Ambition": 1 },
         type: 3
     }

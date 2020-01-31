@@ -7,7 +7,7 @@
         part: 0,
         mindef: 164,
         slots: 1,
-        name: "Lunastra Helm Alpha +",
+        name: "Empress Crown Alpha +",
         skills: { "Tool Specialist": 2,"Offensive Guard": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 164,
         slots: 1,
-        name: "Lunastra Torso Alpha +",
+        name: "Empress Mail Alpha +",
         skills: { "Peak Performance": 2,"Wide-Range": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Arm Alpha +",
+        name: "Empress Vambraces Alpha +",
         skills: { "Tool Specialist": 2,"Blast Attack": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 164,
         slots: 3,
-        name: "Lunastra Waist Alpha +",
+        name: "Empress Coil Alpha +",
         skills: { "Health Boost": 2,"Blast Attack": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 164,
         slots: 1,
-        name: "Lunastra Feet Alpha +",
+        name: "Empress Greaves Alpha +",
         skills: { "Wide-Range": 3,"Tool Specialist": 1,"Lunastra Essence": 1 },
         type: 3
     }

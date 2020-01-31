@@ -7,7 +7,7 @@
         part: 0,
         mindef: 156,
         slots: 1,
-        name: "Teostra Helm Beta +",
+        name: "Kaiser Crown Beta +",
         skills: { "Latent Power": 1,"Critical Eye": 2,"Teostra Technique": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 156,
         slots: 3,
-        name: "Teostra Torso Beta +",
+        name: "Kaiser Mail Beta +",
         skills: { "Latent Power": 1,"Teostra Technique": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 156,
         slots: 2,
-        name: "Teostra Arm Beta +",
+        name: "Kaiser Vambraces Beta +",
         skills: { "Weakness Exploit": 1,"Heat Guard": 1,"Teostra Technique": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 156,
         slots: 3,
-        name: "Teostra Waist Beta +",
+        name: "Kaiser Coil Beta +",
         skills: { "Blast Attack": 2,"Teostra Technique": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 156,
         slots: 1,
-        name: "Teostra Feet Beta +",
+        name: "Kaiser Greaves Beta +",
         skills: { "Latent Power": 2,"Blast Attack": 1,"Teostra Technique": 1 },
         type: 3
     }

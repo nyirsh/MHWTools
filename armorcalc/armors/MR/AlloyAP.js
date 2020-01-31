@@ -19,7 +19,7 @@
         part: 1,
         mindef: 114,
         slots: 1,
-        name: "Alloy Torso Alpha +",
+        name: "Alloy Mail Alpha +",
         skills: { "Water Resistance": 3,"Defense Boost": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 114,
         slots: 1,
-        name: "Alloy Arm Alpha +",
+        name: "Alloy Vambraces Alpha +",
         skills: { "Defense Boost": 2,"Speed Sharpening": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 114,
         slots: 1,
-        name: "Alloy Waist Alpha +",
+        name: "Alloy Coil Alpha +",
         skills: { "Poison Resistance": 2,"Windproof": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 114,
         slots: 1,
-        name: "Alloy Feet Alpha +",
+        name: "Alloy Greaves Alpha +",
         skills: { "Speed Sharpening": 2,"Windproof": 1 },
         type: 3
     }

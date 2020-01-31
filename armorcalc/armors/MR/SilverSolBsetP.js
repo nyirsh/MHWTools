@@ -7,7 +7,7 @@
         part: 0,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Be Helm Beta +",
+        name: "Silver Solhelm Beta +",
         skills: { "Windproof": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 164,
         slots: 1,
-        name: "Silver Sol Be Torso Beta +",
+        name: "Silver Solmail Beta +",
         skills: { "Critical Boost": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Be Arm Beta +",
+        name: "Silver Solbraces Beta +",
         skills: { "Slinger Capacity": 3,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Be Waist Beta +",
+        name: "Silver Solcoil Beta +",
         skills: { "Windproof": 1,"Critical Boost": 1,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 164,
         slots: 3,
-        name: "Silver Sol Be Feet Beta +",
+        name: "Silver Solgreaves Beta +",
         skills: { "Slinger Capacity": 2,"Silver Rathalos Essence": 1 },
         type: 3
     }

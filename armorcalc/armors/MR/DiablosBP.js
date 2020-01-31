@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 2,
-        name: "Diablos Torso Beta +",
+        name: "Diablos Mail Beta +",
         skills: { "Slugger": 2,"Heroics": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 2,
-        name: "Diablos Arm Beta +",
+        name: "Diablos Vambraces Beta +",
         skills: { "Heroics": 2,"Tremor Resistance": 1,"Diablos Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 2,
-        name: "Diablos Waist Beta +",
+        name: "Diablos Coil Beta +",
         skills: { "Marathon Runner": 2,"Diablos Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Diablos Feet Beta +",
+        name: "Diablos Greaves Beta +",
         skills: { "Tremor Resistance": 2,"Slugger": 1,"Diablos Ambition": 1 },
         type: 3
     }

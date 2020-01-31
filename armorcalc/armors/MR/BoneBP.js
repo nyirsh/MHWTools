@@ -19,7 +19,7 @@
         part: 1,
         mindef: 114,
         slots: 2,
-        name: "Bone Torso Beta +",
+        name: "Bone Mail Beta +",
         skills: { "Attack Boost": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 114,
         slots: 2,
-        name: "Bone Arm Beta +",
+        name: "Bone Vambraces Beta +",
         skills: { "Slugger": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 114,
         slots: 2,
-        name: "Bone Waist Beta +",
+        name: "Bone Coil Beta +",
         skills: { "Horn Maestro": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 114,
         slots: 1,
-        name: "Bone Feet Beta +",
+        name: "Bone Greaves Beta +",
         skills: { "Slugger": 1 },
         type: 3
     }

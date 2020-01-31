@@ -19,7 +19,7 @@
         part: 1,
         mindef: 48,
         slots: 2,
-        name: "High Metal Torso Beta +",
+        name: "High Metal Mail Beta +",
         skills: { "Earplugs": 1,"Ice Attack": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 48,
         slots: 2,
-        name: "High Metal Arm Beta +",
+        name: "High Metal Braces Beta +",
         skills: { "Defense Boost": 2,"Ice Attack": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 48,
         slots: 2,
-        name: "High Metal Waist Beta +",
+        name: "High Metal Coil Beta +",
         skills: { "Capacity Boost": 1,"Defense Boost": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 48,
         slots: 2,
-        name: "High Metal Feet Beta +",
+        name: "High Metal Greaves Beta +",
         skills: { "Heavy Artillery": 1,"Ice Resistance": 1 },
         type: 3
     }

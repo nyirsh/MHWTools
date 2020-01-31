@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 2,
-        name: "Wulg Helm Beta +",
+        name: "Wulg Scarf Beta +",
         skills: { "Ice Resistance": 1,"Master Mounter": 1 },
         type: 3
     }

@@ -7,7 +7,7 @@
         part: 0,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Helm Beta +",
+        name: "Kadachi Hat Beta +",
         skills: { "Constitution": 1,"Evade Extender": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Torso Beta +",
+        name: "Kadachi Mail Beta +",
         skills: { "Jump Master": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Arm Beta +",
+        name: "Kadachi Vambraces Beta +",
         skills: { "Evade Extender": 1,"Thunder Attack": 2 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 120,
         slots: 2,
-        name: "Kadachi Waist Beta +",
+        name: "Kadachi Coil Beta +",
         skills: { "Health Boost": 2,"Earplugs": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 120,
         slots: 3,
-        name: "Kadachi Feet Beta +",
+        name: "Kadachi Greaves Beta+",
         skills: { "Thunder Resistance": 2 },
         type: 3
     }

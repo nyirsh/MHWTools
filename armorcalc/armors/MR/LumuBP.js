@@ -7,7 +7,7 @@
         part: 0,
         mindef: 130,
         slots: 2,
-        name: "Lumu Helm Beta +",
+        name: "Lumu Hat Beta +",
         skills: { "Stamina Surge": 2 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 130,
         slots: 2,
-        name: "Lumu Torso Beta +",
+        name: "Lumu Mail Beta +",
         skills: { "Master Mounter": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 130,
         slots: 2,
-        name: "Lumu Arm Beta +",
+        name: "Lumu Vambraces Beta +",
         skills: { "Artillery": 1,"Windproof": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 130,
         slots: 2,
-        name: "Lumu Waist Beta +",
+        name: "Lumu Coil Beta Plus",
         skills: { "Divine Blessing": 1,"Windproof": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 130,
         slots: 2,
-        name: "Lumu Feet Beta +",
+        name: "Lumu Greaves Beta +",
         skills: { "Windproof": 2 },
         type: 3
     }

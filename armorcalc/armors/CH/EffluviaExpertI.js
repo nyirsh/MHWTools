@@ -7,8 +7,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Effluvia Resistance Charm III",
-        skills: { "Effluvia Resistance": 3 },
+        name: "Effluvia Expert Charm",
+        skills: { "Effluvia Expert": 1 },
         type: 3
     }
 ]

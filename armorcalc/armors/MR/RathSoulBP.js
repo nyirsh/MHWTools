@@ -19,7 +19,7 @@
         part: 1,
         mindef: 148,
         slots: 2,
-        name: "Rath Soul Torso Beta +",
+        name: "Rath Soul Mail Beta +",
         skills: { "Free Elem/Ammo Up": 1,"Rathalos Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 148,
         slots: 2,
-        name: "Rath Soul Arm Beta +",
+        name: "Rath Soul Braces Beta +",
         skills: { "Partbreaker": 1,"Windproof": 1,"Rathalos Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 148,
         slots: 2,
-        name: "Rath Soul Waist Beta +",
+        name: "Rath Soul Coil Beta +",
         skills: { "Windproof": 2,"Rathalos Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 148,
         slots: 1,
-        name: "Rath Soul Feet Beta +",
+        name: "Rath Soul Greaves Beta +",
         skills: { "Critical Boost": 1,"Windproof": 1,"Rathalos Essence": 1 },
         type: 3
     }

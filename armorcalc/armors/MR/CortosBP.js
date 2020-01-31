@@ -7,7 +7,7 @@
         part: 1,
         mindef: 116,
         slots: 1,
-        name: "Cortos Torso Beta +",
+        name: "Cortos Cape Beta +",
         skills: { "Hunger Resistance": 1,"Jump Master": 1 },
         type: 3
     }

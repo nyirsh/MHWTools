@@ -7,7 +7,7 @@
         part: 0,
         mindef: 160,
         slots: 2,
-        name: "Zorah Helm Alpha +",
+        name: "Zorah Headgear Alpha +",
         skills: { "Flinch Free": 1,"Artillery": 2,"Zorah Magdaros Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 160,
         slots: 2,
-        name: "Zorah Torso Alpha +",
+        name: "Zorah Hide Alpha +",
         skills: { "Tremor Resistance": 2,"Artillery": 2,"Zorah Magdaros Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 160,
         slots: 2,
-        name: "Zorah Arm Alpha +",
+        name: "Zorah Claws Alpha +",
         skills: { "Flinch Free": 2,"Free Meal": 1,"Zorah Magdaros Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 160,
         slots: 2,
-        name: "Zorah Waist Alpha +",
+        name: "Zorah Spine Alpha +",
         skills: { "Tremor Resistance": 1,"Artillery": 1,"Zorah Magdaros Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 160,
         slots: 2,
-        name: "Zorah Feet Alpha +",
+        name: "Zorah Spurs Alpha +",
         skills: { "Earplugs": 1,"Handicraft": 1,"Zorah Magdaros Essence": 1 },
         type: 3
     }

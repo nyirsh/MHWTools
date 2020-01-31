@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 1,
-        name: "Girros Helm Beta +",
+        name: "Girros Headgear Beta +",
         skills: { "Horn Maestro": 2 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 2,
-        name: "Girros Torso Beta +",
+        name: "Girros Mail Beta +",
         skills: { "Paralysis Resistance": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Girros Arm Beta +",
+        name: "Girros Vambraces Beta +",
         skills: { "Free Elem/Ammo Up": 1,"Effluvia Resistance": 1 },
         type: 3
     },
@@ -43,8 +43,8 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Girros Waist Beta +",
-        skills: { "Effluvial Expert": 1 },
+        name: "Girros Coil Beta +",
+        skills: { "Effluvia Expert": 1 },
         type: 3
     },
     {
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 1,
-        name: "Girros Feet Beta +",
+        name: "Girros Greaves Beta +",
         skills: { "Paralysis Attack": 2 },
         type: 3
     }

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 138,
         slots: 2,
-        name: "Barioth Torso Beta +",
+        name: "Barioth Mail Beta +",
         skills: { "Power Prolonger": 1,"Barioth Hidden Art": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 138,
         slots: 1,
-        name: "Barioth Arm Beta +",
+        name: "Barioth Vambraces Beta +",
         skills: { "Recovery Up": 2,"Constitution": 1,"Barioth Hidden Art": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 138,
         slots: 1,
-        name: "Barioth Waist Beta +",
+        name: "Barioth Faulds Beta +",
         skills: { "Quick Sheath": 1,"Barioth Hidden Art": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 138,
         slots: 2,
-        name: "Barioth Feet Beta +",
+        name: "Barioth Greaves Beta +",
         skills: { "Constitution": 1,"Quick Sheath": 1,"Barioth Hidden Art": 1 },
         type: 3
     }

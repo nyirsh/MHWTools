@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 2,
-        name: "Clockwork Torso Beta +",
+        name: "Clockwork Mail Beta +",
         skills: { "Agitator": 2,"Commission Alchemy": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 1,
-        name: "Clockwork Arm Beta +",
+        name: "Clockwork Vambraces Beta +",
         skills: { "Bombardier": 3,"Commission Alchemy": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 2,
-        name: "Clockwork Waist Beta +",
+        name: "Clockwork Coil Beta +",
         skills: { "Partbreaker": 2,"Commission Alchemy": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 1,
-        name: "Clockwork Feet Beta +",
+        name: "Clockwork Greaves Beta +",
         skills: { "Critical Boost": 1,"Bombardier": 1,"Commission Alchemy": 1 },
         type: 3
     }

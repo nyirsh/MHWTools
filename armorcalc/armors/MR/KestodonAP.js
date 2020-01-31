@@ -7,7 +7,7 @@
         part: 2,
         mindef: 116,
         slots: 2,
-        name: "Kestodon Arm Alpha +",
+        name: "Kestodon Guards Alpha +",
         skills: { "Affinity Sliding": 1,"Focus": 2 },
         type: 3
     }

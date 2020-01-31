@@ -19,7 +19,7 @@
         part: 1,
         mindef: 152,
         slots: 2,
-        name: "Damascus Torso Alpha +",
+        name: "Damascus Mail Alpha +",
         skills: { "Focus": 2,"Defense Boost": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 152,
         slots: 2,
-        name: "Damascus Arm Alpha +",
+        name: "Damascus Vambraces Alpha +",
         skills: { "Handicraft": 2,"Speed Sharpening": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 152,
         slots: 2,
-        name: "Damascus Waist Alpha +",
+        name: "Damascus Coil Alpha +",
         skills: { "Focus": 1,"Guard": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 152,
         slots: 2,
-        name: "Damascus Feet Alpha +",
+        name: "Damascus Greaves Alpha +",
         skills: { "Defense Boost": 2,"Guard": 2 },
         type: 3
     }

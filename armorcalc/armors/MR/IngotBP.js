@@ -19,7 +19,7 @@
         part: 1,
         mindef: 136,
         slots: 1,
-        name: "Ingot Torso Beta +",
+        name: "Ingot Mail Beta +",
         skills: { "Thunder Resistance": 1,"Free Elem/Ammo Up": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 136,
         slots: 1,
-        name: "Ingot Arm Beta +",
+        name: "Ingot Vambraces Beta +",
         skills: { "Health Boost": 2,"Thunder Attack": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 136,
         slots: 2,
-        name: "Ingot Waist Beta +",
+        name: "Ingot Coil Beta +",
         skills: { "Windproof": 1,"Free Elem/Ammo up": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 136,
         slots: 1,
-        name: "Ingot Feet Beta +",
+        name: "Ingot Greaves Beta +",
         skills: { "Defense Boost": 1,"Free Elem/Ammo Up": 1 },
         type: 3
     }

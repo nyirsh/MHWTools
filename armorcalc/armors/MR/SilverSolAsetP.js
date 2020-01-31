@@ -7,7 +7,7 @@
         part: 0,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Alp Helm Beta +",
+        name: "Silver Solhelm Alpha +",
         skills: { "Windproof": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 164,
         slots: 1,
-        name: "Silver Sol Alp Torso Beta +",
+        name: "Silver Solmail Alpha +",
         skills: { "Critical Boost": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Alp Arm Beta +",
+        name: "Silver Solbraces Alpha +",
         skills: { "Slinger Capacity": 3,"Windproof": 1,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Alp Waist Beta +",
+        name: "Silver Solcoil Alpha +",
         skills: { "Windproof": 2,"Critical Boost": 1,"Silver Rathalos Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 164,
         slots: 2,
-        name: "Silver Sol Alp Feet Beta +",
+        name: "Silver Solgreaves Alpha +",
         skills: { "Slinger Capacity": 2,"Fire Attack": 2,"Silver Rathalos Essence": 1 },
         type: 3
     }

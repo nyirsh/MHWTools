@@ -7,8 +7,8 @@
         part: 0,
         mindef: 168,
         slots: 3,
-        name: "Safi'jiiva Helm Beta +",
-        skills: { "Evade Window": 1,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        name: "Safi Crested Crown Beta +",
+        skills: { "Evade Window": 1,"Critical Boost": 1,"Safi\u2019jiiva Seal": 1 },
         type: 3
     },
     {
@@ -19,8 +19,8 @@
         part: 1,
         mindef: 168,
         slots: 2,
-        name: "Safi'jiiva Torso Beta +",
-        skills: { "Blight Resistance": 1,"Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        name: "Safi Crested Chest Beta +",
+        skills: { "Blight Resistance": 1,"Critical Boost": 1,"Safi\u2019jiiva Seal": 1 },
         type: 3
     },
     {
@@ -31,8 +31,8 @@
         part: 2,
         mindef: 168,
         slots: 3,
-        name: "Safi'jiiva Arm Beta +",
-        skills: { "Blight Resistance": 1,"Safi'jiiva Seal": 1 },
+        name: "Safi Crested Vambraces Beta +",
+        skills: { "Blight Resistance": 1,"Safi\u2019jiiva Seal": 1 },
         type: 3
     },
     {
@@ -43,8 +43,8 @@
         part: 3,
         mindef: 168,
         slots: 2,
-        name: "Safi'jiiva Waist Beta +",
-        skills: { "Evade Window": 2,"Safi'jiiva Seal": 1 },
+        name: "Safi Crested Belt Beta +",
+        skills: { "Evade Window": 2,"Safi\u2019jiiva Seal": 1 },
         type: 3
     },
     {
@@ -55,8 +55,8 @@
         part: 4,
         mindef: 168,
         slots: 3,
-        name: "Safi'jiiva Feet Beta +",
-        skills: { "Critical Boost": 1,"Safi'jiiva Seal": 1 },
+        name: "Safi Crested Boots Beta +",
+        skills: { "Critical Boost": 1,"Safi\u2019jiiva Seal": 1 },
         type: 3
     }
 ]

@@ -7,7 +7,7 @@
         part: 0,
         mindef: 130,
         slots: 0,
-        name: "Direwolf Helm Beta +",
+        name: "Direwolf Headgear",
         skills: { "Survival Expert": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 130,
         slots: 0,
-        name: "Direwolf Torso Beta +",
+        name: "Direwolf Mail",
         skills: { "Attack Boost": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 130,
         slots: 0,
-        name: "Direwolf Arm Beta +",
+        name: "Direwolf Vambraces",
         skills: { "Attack Boost": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 130,
         slots: 0,
-        name: "Direwolf Waist Beta +",
+        name: "Direwolf Coil",
         skills: { "Cliffhanger": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 130,
         slots: 0,
-        name: "Direwolf Feet Beta +",
+        name: "Direwolf Greaves",
         skills: { "Survival Expert": 1 },
         type: 3
     }

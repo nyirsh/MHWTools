@@ -19,7 +19,7 @@
         part: 1,
         mindef: 162,
         slots: 2,
-        name: "Shara Ishvalda Torso Alpha +",
+        name: "Shara Ishvalda Mail Alpha +",
         skills: { "Coalescence": 2,"Health Boost": 1,"Shara Ishvalda Divinity": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 162,
         slots: 1,
-        name: "Shara Ishvalda Arm Alpha +",
+        name: "Shara Ishvalda Braces Alpha +",
         skills: { "Critical Boost": 2,"Coalescence": 1,"Shara Ishvalda Divinity": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 162,
         slots: 2,
-        name: "Shara Ishvalda Waist Alpha +",
+        name: "Shara Ishvalda Coil Alpha +",
         skills: { "Health Boost": 2,"Recovery Up": 1,"Shara Ishvalda Divinity": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 162,
         slots: 3,
-        name: "Shara Ishvalda Feet Alpha +",
+        name: "Shara Ishvalda Greaves Alpha +",
         skills: { "Partbreaker": 2,"Defense Boost": 2,"Shara Ishvalda Divinity": 1 },
         type: 3
     }

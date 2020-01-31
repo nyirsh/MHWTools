@@ -7,7 +7,7 @@
         part: 0,
         mindef: 146,
         slots: 2,
-        name: "Shrieking Legia Helm Beta +",
+        name: "Hoarcry Helm Beta +",
         skills: { "Hunger Resistance": 2,"Legiana Ambition": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 146,
         slots: 1,
-        name: "Shrieking Legia Torso Beta +",
+        name: "Hoarcry Mail Beta +",
         skills: { "Focus": 2,"Legiana Ambition": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 146,
         slots: 1,
-        name: "Shrieking Legia Arm Beta +",
+        name: "Hoarcry Vambraces Beta +",
         skills: { "Critical Draw": 2,"Legiana Ambition": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 146,
         slots: 1,
-        name: "Shrieking Legia Waist Beta +",
+        name: "Hoarcry Coil Beta +",
         skills: { "Evade Extender": 2,"Legiana Ambition": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 146,
         slots: 2,
-        name: "Shrieking Legia Feet Beta +",
+        name: "Hoarcry Greaves Beta +",
         skills: { "Marathon Runner": 2,"Legiana Ambition": 1 },
         type: 3
     }

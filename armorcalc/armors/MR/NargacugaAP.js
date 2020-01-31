@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Torso Alpha +",
+        name: "Nargacuga Mail Alpha +",
         skills: { "Evade Window": 2,"Speed Crawler": 1,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Arm Alpha +",
+        name: "Nargacuga Vambraces Alpha +",
         skills: { "Stamina Surge": 2,"Stealth": 2,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Waist Alpha +",
+        name: "Nargacuga Faulds Alpha +",
         skills: { "Evade Window": 2,"Stamina Surge": 1,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Nargacuga Feet Alpha +",
+        name: "Nargacuga Greaves Alpha +",
         skills: { "Evade Window": 1,"Peak Performance": 1,"Nargacuga Essence": 1 },
         type: 3
     }

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 120,
         slots: 1,
-        name: "Dodogama Torso Beta +",
+        name: "Dodogama Mail Beta +",
         skills: { "Blast Attack": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 120,
         slots: 1,
-        name: "Dodogama Arm Beta +",
+        name: "Dodogama Vambraces Beta +",
         skills: { "Bombardier": 1,"Blast Attack": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 120,
         slots: 2,
-        name: "Dodogama Waist Beta +",
+        name: "Dodogama Coil Beta +",
         skills: { "Artillery": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 120,
         slots: 2,
-        name: "Dodogama Feet Beta +",
+        name: "Dodogama Greaves Beta +",
         skills: { "Capacity Boost": 1 },
         type: 3
     }

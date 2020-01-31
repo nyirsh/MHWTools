@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Rathalos Torso Beta +",
+        name: "Rathalos Mail Beta +",
         skills: { "Weakness Exploit": 2,"Rathalos Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 2,
-        name: "Rathalos Arm Beta +",
+        name: "Rathalos Vambraces Beta +",
         skills: { "Jump Master": 1,"Rathalos Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 2,
-        name: "Rathalos Waist Beta +",
+        name: "Rathalos Coil Beta +",
         skills: { "Fire Attack": 2,"Rathalos Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 1,
-        name: "Rathalos Feet Beta +",
+        name: "Rathalos Greaves Beta +",
         skills: { "Slinger Capacity": 2,"Attack Boost": 1,"Rathalos Essence": 1 },
         type: 3
     }

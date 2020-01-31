@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Odogaron Torso Alpha +",
+        name: "Odogaron Mail Alpha +",
         skills: { "Speed Sharpening": 2,"Bleeding Resistance": 1,"Odogaron Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 1,
-        name: "Odogaron Arm Alpha +",
+        name: "Odogaron Vambraces Alpha +",
         skills: { "Constitution": 2,"Critical Eye": 1,"Odogaron Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 1,
-        name: "Odogaron Waist Alpha +",
+        name: "Odogaron Coil Alpha +",
         skills: { "Critical Eye": 3,"Speed Sharpening": 1,"Odogaron Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 1,
-        name: "Odogaron Feet Alpha +",
+        name: "Odogaron Greaves Alpha +",
         skills: { "Quick Sheath": 2,"Critical Eye": 1,"Odogaron Essence": 1 },
         type: 3
     }

@@ -19,8 +19,8 @@
         part: 1,
         mindef: 116,
         slots: 2,
-        name: "Hornetaur Torso Alpha +",
-        skills: { "Effluvial Expert": 1,"Hunger Resistance": 2 },
+        name: "Hornetaur Mail Alpha +",
+        skills: { "Effluvia Expert": 1,"Hunger Resistance": 2 },
         type: 3
     },
     {
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Hornetaur Arm Alpha +",
+        name: "Hornetaur Vambraces Alpha +",
         skills: { "Free Meal": 1,"Handicraft": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 1,
-        name: "Hornetaur Waist Alpha +",
+        name: "Hornetaur Coil Alpha +",
         skills: { "Weakness Exploit": 1,"Hunger Resistance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 2,
-        name: "Hornetaur Feet Alpha +",
+        name: "Hornetaur Greaves Alpha +",
         skills: { "Handicraft": 1,"Dragon Attack": 1 },
         type: 3
     }

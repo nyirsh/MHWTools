@@ -7,7 +7,7 @@
         part: 0,
         mindef: 146,
         slots: 2,
-        name: "Fulgur Anja Helm Alpha +",
+        name: "Fulgur Helm Alpha +",
         skills: { "Weakness Exploit": 1,"Resuscitate": 1,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 146,
         slots: 1,
-        name: "Fulgur Anja Torso Alpha +",
+        name: "Fulgur Mail Alpha +",
         skills: { "Flinch Free": 1,"Stun Resistance": 2,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 146,
         slots: 1,
-        name: "Fulgur Anja Arm Alpha +",
+        name: "Fulgur Vambraces Alpha +",
         skills: { "Item Prolonger": 2,"Thunder Attack": 2,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 146,
         slots: 1,
-        name: "Fulgur Anja Waist Alpha +",
+        name: "Fulgur Coil Alpha +",
         skills: { "Weakness Exploit": 2,"Item Prolonger": 1,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 146,
         slots: 2,
-        name: "Fulgur Anja Feet Alpha +",
+        name: "Fulgur Greaves Alpha Plus",
         skills: { "Thunder Attack": 2,"Special Ammo Boost": 1,"Anjanath Dominance": 1 },
         type: 3
     }

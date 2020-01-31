@@ -19,7 +19,7 @@
         part: 1,
         mindef: 158,
         slots: 1,
-        name: "Zinogre Torso Beta +",
+        name: "Zinogre Mail Beta +",
         skills: { "Latent Power": 3,"Zinogre Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 158,
         slots: 2,
-        name: "Zinogre Arm Beta +",
+        name: "Zinogre Braces Beta +",
         skills: { "Recovery Speed": 1,"Latent Power": 2,"Zinogre Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 158,
         slots: 2,
-        name: "Zinogre Waist Beta +",
+        name: "Zinogre Coil Beta +",
         skills: { "Power Prolonger": 1,"Zinogre Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 158,
         slots: 2,
-        name: "Zinogre Feet Beta +",
+        name: "Zinogre Greaves Beta +",
         skills: { "Thunder Attack": 1,"Latent Power": 2,"Zinogre Essence": 1 },
         type: 3
     }

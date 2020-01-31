@@ -7,7 +7,7 @@
         part: 0,
         mindef: 120,
         slots: 1,
-        name: "Oolong Helm Alpha +",
+        name: "Oolong Hair Alpha +",
         skills: { "Critical Eye": 3,"Joyful Blessing": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 120,
         slots: 1,
-        name: "Oolong Torso Alpha +",
+        name: "Oolong Vest Alpha +",
         skills: { "Stamina Surge": 2,"Joyful Blessing": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 120,
         slots: 1,
-        name: "Oolong Arm Alpha +",
+        name: "Oolong Sleeves Alpha +",
         skills: { "Coalescence": 2,"Joyful Blessing": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 120,
         slots: 2,
-        name: "Oolong Feet Alpha +",
+        name: "Oolong Boots Alpha +",
         skills: { "Health Boost": 2,"Joyful Blessing": 1 },
         type: 3
     }

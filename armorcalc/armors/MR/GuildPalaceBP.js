@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Torso Beta +",
+        name: "Guild Palace Mail Beta +",
         skills: { "Agitator": 1,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Arm Beta +",
+        name: "Guild Palace Braces Beta +",
         skills: { "Offensive Guard": 2,"Guild Pride": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Waist Beta +",
+        name: "Guild Palace Coil Beta +",
         skills: { "Agitator": 3,"Resuscitate": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Feet Beta +",
+        name: "Guild Palace Greaves Beta +",
         skills: { "Heroics": 3,"Health Boost": 1,"Guild Pride": 1 },
         type: 3
     }

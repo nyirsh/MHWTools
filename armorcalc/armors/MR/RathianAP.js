@@ -19,7 +19,7 @@
         part: 1,
         mindef: 130,
         slots: 2,
-        name: "Rathian Torso Alpha +",
+        name: "Rathian Mail Alpha +",
         skills: { "Botanist": 2,"Recovery Up": 1,"Rathian Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 130,
         slots: 1,
-        name: "Rathian Arm Alpha +",
+        name: "Rathian Vambraces Alpha +",
         skills: { "Poison Attack": 2,"Botanist": 1,"Rathian Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 130,
         slots: 2,
-        name: "Rathian Waist Alpha +",
+        name: "Rathian Coil Alpha +",
         skills: { "Poison Resistance": 2,"Health Boost": 1,"Rathian Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 130,
         slots: 1,
-        name: "Rathian Feet Alpha +",
+        name: "Rathian Greaves Alpha +",
         skills: { "Recovery Up": 2,"Poison Resistance": 1,"Rathian Essence": 1 },
         type: 3
     }

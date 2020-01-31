@@ -7,7 +7,7 @@
         part: 0,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Helm Beta +",
+        name: "Empress Crown Beta +",
         skills: { "Tool Specialist": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Torso Beta +",
+        name: "Empress Mail Beta +",
         skills: { "Peak Performance": 1,"Wide-Range": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Arm Beta +",
+        name: "Empress Vambraces Beta +",
         skills: { "Tool Specialist": 2,"Blast Attack": 1,"Lunastra Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Waist Beta +",
+        name: "Empress Coil Beta +",
         skills: { "Health Boost": 2,"Lunastra Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 164,
         slots: 2,
-        name: "Lunastra Feet Beta +",
+        name: "Empress Greaves Beta +",
         skills: { "Wide-Range": 2,"Tool Specialist": 1,"Lunastra Essence": 1 },
         type: 3
     }

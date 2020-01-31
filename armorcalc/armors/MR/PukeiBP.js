@@ -7,7 +7,7 @@
         part: 0,
         mindef: 118,
         slots: 3,
-        name: "Pukei Helm Beta +",
+        name: "Pukei Hat Beta +",
         skills: { "Survival Expert": 2 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 118,
         slots: 1,
-        name: "Pukei Torso Beta +",
+        name: "Pukei Mail Beta +",
         skills: { "Item Prolonger": 1,"Peak Performance": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 118,
         slots: 1,
-        name: "Pukei Arm Beta +",
+        name: "Pukei Vambraces Beta +",
         skills: { "Peak Performance": 1,"Survival Expert": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 118,
         slots: 2,
-        name: "Pukei Waist Beta +",
+        name: "Pukei Coil Beta +",
         skills: { "Item Prolonger": 1,"Poison Attack": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 118,
         slots: 2,
-        name: "Pukei Feet Beta +",
+        name: "Pukei Greaves Beta +",
         skills: { "Poison Resistance": 2 },
         type: 3
     }

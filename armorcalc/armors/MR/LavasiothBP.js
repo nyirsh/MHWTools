@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 2,
-        name: "Lavasioth Torso Beta +",
+        name: "Lavasioth Mail Beta +",
         skills: { "Fire Attack": 2,"Heat Guard": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 1,
-        name: "Lavasioth Arm Beta +",
+        name: "Lavasioth Vambraces Beta +",
         skills: { "Peak Performance": 1,"Recovery Up": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 1,
-        name: "Lavasioth Waist Beta +",
+        name: "Lavasioth Coil Beta +",
         skills: { "Quick Sheath": 2,"Recovery Up": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Lavasioth Feet Beta +",
+        name: "Lavasioth Greaves Beta +",
         skills: { "Spread/Power Shots": 1,"Fire Attack": 1 },
         type: 3
     }

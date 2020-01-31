@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 1,
-        name: "Gastodon Helm Alpha +",
+        name: "Gastodon Horn Alpha +",
         skills: { "Flinch Free": 2,"Blast Resistance": 1 },
         type: 3
     }

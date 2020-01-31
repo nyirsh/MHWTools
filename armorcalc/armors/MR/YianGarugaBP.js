@@ -7,7 +7,7 @@
         part: 0,
         mindef: 154,
         slots: 2,
-        name: "Yian Garuga Helm Beta +",
+        name: "Garuga Helm Beta +",
         skills: { "Critical Eye": 1,"Resentment": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 1,
-        name: "Yian Garuga Torso Beta +",
+        name: "Garuga Mail Beta +",
         skills: { "Earplugs": 1,"Critical Eye": 2 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 1,
-        name: "Yian Garuga Arm Beta +",
+        name: "Garuga Vambraces Beta +",
         skills: { "Earplugs": 2 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 2,
-        name: "Yian Garuga Waist Beta +",
+        name: "Garuga Tassets Beta +",
         skills: { "Resentment": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 3,
-        name: "Yian Garuga Feet Beta +",
+        name: "Garuga Greaves Beta +",
         skills: { "Critical Eye": 2 },
         type: 3
     }

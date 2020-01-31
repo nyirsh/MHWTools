@@ -19,7 +19,7 @@
         part: 1,
         mindef: 114,
         slots: 1,
-        name: "Bone Torso Alpha +",
+        name: "Bone Mail Alpha +",
         skills: { "Attack Boost": 2,"Health Boost": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 114,
         slots: 1,
-        name: "Bone Arm Alpha +",
+        name: "Bone Vambraces Alpha +",
         skills: { "Slugger": 2,"Attack Boost": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 114,
         slots: 1,
-        name: "Bone Waist Alpha +",
+        name: "Bone Coil Alpha +",
         skills: { "Horn Maestro": 1,"Partbreaker": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 114,
         slots: 1,
-        name: "Bone Feet Alpha +",
+        name: "Bone Greaves Alpha +",
         skills: { "Slugger": 1,"Horn Maestro": 1 },
         type: 3
     }

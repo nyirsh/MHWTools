@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 1,
-        name: "Girros Helm Alpha +",
+        name: "Girros Headgear Alpha +",
         skills: { "Horn Maestro": 2,"Paralysis Resistance": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 1,
-        name: "Girros Torso Alpha +",
+        name: "Girros Mail Alpha +",
         skills: { "Paralysis Resistance": 2,"Free Elem/Ammo Up": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Girros Arm Alpha +",
+        name: "Girros Vambraces Alpha +",
         skills: { "Free Elem/Ammo Up": 1,"Effluvia Resistance": 2 },
         type: 3
     },
@@ -43,8 +43,8 @@
         part: 3,
         mindef: 116,
         slots: 1,
-        name: "Girros Waist Alpha +",
-        skills: { "Effluvial Expert": 1,"Paralysis Attack": 2 },
+        name: "Girros Coil Alpha +",
+        skills: { "Effluvia Expert": 1,"Paralysis Attack": 2 },
         type: 3
     },
     {
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 1,
-        name: "Girros Feet Alpha +",
+        name: "Girros Greaves Alpha +",
         skills: { "Paralysis Attack": 2,"Free Elem/Ammo Up": 1 },
         type: 3
     }

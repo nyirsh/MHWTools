@@ -7,7 +7,7 @@
         part: 0,
         mindef: 154,
         slots: 2,
-        name: "Velkhana Helm Alpha +",
+        name: "Rimeguard Helm Alpha +",
         skills: { "Divine Blessing": 2,"Coalescence": 1,"Velkhana Divinity": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 1,
-        name: "Velkhana Torso Alpha +",
+        name: "Rimeguard Mail Alpha +",
         skills: { "Quick Sheath": 2,"Critical Draw": 1,"Velkhana Divinity": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 1,
-        name: "Velkhana Arm Alpha +",
+        name: "Rimeguard Vembraces Alpha +",
         skills: { "Quick Sheath": 1,"Flinch Free": 2,"Velkhana Divinity": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 2,
-        name: "Velkhana Waist Alpha +",
+        name: "Rimeguard Coil Alpha +",
         skills: { "Flinch Free": 1 Coalescence 1,"Velkhana Divinity": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 2,
-        name: "Velkhana Feet Alpha +",
+        name: "Rimeguard Greaves Alpha +",
         skills: { "Critical Draw": 2,"Coalescence": 1,"Velkhana Divinity": 1 },
         type: 3
     }

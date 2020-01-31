@@ -7,7 +7,7 @@
         part: 0,
         mindef: 158,
         slots: 2,
-        name: "Rajang Helm Beta +",
+        name: "Golden Headdress Beta +",
         skills: { "Weakness Exploit": 2,"Rajang's Rage": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 158,
         slots: 3,
-        name: "Rajang Torso Beta +",
+        name: "Golden Haori Beta +",
         skills: { "Resentment": 2,"Rajang's Rage": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 158,
         slots: 2,
-        name: "Rajang Arm Beta +",
+        name: "Golden Kote Beta +",
         skills: { "Resentment": 1,"Rajang's Rage": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 158,
         slots: 2,
-        name: "Rajang Waist Beta +",
+        name: "Golden Obi Beta +",
         skills: { "Weakness Exploit": 1,"Rajang's Rage": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 158,
         slots: 2,
-        name: "Rajang Feet Beta +",
+        name: "Golden Hakama Beta +",
         skills: { "Resentment": 2,"Attack Boost": 1,"Rajang's Rage": 1 },
         type: 3
     }

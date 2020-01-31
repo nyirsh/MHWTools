@@ -7,7 +7,7 @@
         part: 0,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Be Helm Beta +",
+        name: "Golden Lunehelm Beta +",
         skills: { "Health Boost": 2,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 162,
         slots: 3,
-        name: "Golden Lune Be Torso Beta +",
+        name: "Golden Lunemail Beta +",
         skills: { "Divine Blessing": 2,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Be Arm Beta +",
+        name: "Golden Lunebraces Beta +",
         skills: { "Resentment": 2,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Be Waist Beta +",
+        name: "Golden Lunecoil Beta +",
         skills: { "Divine Blessing": 3,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 162,
         slots: 1,
-        name: "Golden Lune Be Feet Beta +",
+        name: "Golden Lunegreaves Beta +",
         skills: { "Weakness Exploit": 2,"Gold Rathian Essence": 1 },
         type: 3
     }

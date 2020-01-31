@@ -7,7 +7,7 @@
         part: 0,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Helm Alpha +",
+        name: "Viper Kadachi Hat Alpha +",
         skills: { "Evade Extender": 2,"Paralysis Attack": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 2,
-        name: "Viper Kadachi Torso Alpha +",
+        name: "Viper Kadachi Mail Alpha +",
         skills: { "Quick Sheath": 1,"Evade Extender": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Arm Alpha +",
+        name: "Viper Kadachi Braces Alpha +",
         skills: { "Poison Attack": 2,"Evade Window": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Waist Alpha +",
+        name: "Viper Kadachi Coil Alpha +",
         skills: { "Constitution": 1,"Quick Sheath": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 1,
-        name: "Viper Kadachi Feet Alpha +",
+        name: "Viper Kadachi Greaves Alpha+",
         skills: { "Evade Window": 1,"Constitution": 1 },
         type: 3
     }

@@ -7,7 +7,7 @@
         part: 0,
         mindef: 158,
         slots: 1,
-        name: "Brute Tigrex Helm Beta +",
+        name: "Rex Roar Helm Beta +",
         skills: { "Attack Boost": 2,"Free Meal": 1,"Tigrex Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 158,
         slots: 2,
-        name: "Brute Tigrex Torso Beta +",
+        name: "Rex Roar Mail Beta +",
         skills: { "Attack Boost": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 158,
         slots: 1,
-        name: "Brute Tigrex Arm Beta +",
+        name: "Rex Roar Braces Beta +",
         skills: { "Health Boost": 2,"Attack Boost": 2,"Tigrex Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 158,
         slots: 1,
-        name: "Brute Tigrex Waist Beta +",
+        name: "Rex Roar Coil Beta +",
         skills: { "Recovery Up": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 158,
         slots: 1,
-        name: "Brute Tigrex Feet Beta +",
+        name: "Rex Roar Greaves Beta +",
         skills: { "Agitator": 2,"Weakness Exploit": 1,"Tigrex Essence": 1 },
         type: 3
     }

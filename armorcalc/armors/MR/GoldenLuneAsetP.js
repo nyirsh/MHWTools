@@ -7,7 +7,7 @@
         part: 0,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Alp Helm Beta +",
+        name: "Golden Lunehelm Alpha +",
         skills: { "Health Boost": 2,"Poison Attack": 2,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Alp Torso Beta +",
+        name: "Golden Lunemail Alpha +",
         skills: { "Divine Blessing": 2,"Resentment": 1,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 162,
         slots: 1,
-        name: "Golden Lune Alp Arm Beta +",
+        name: "Golden Lunebraces Alpha +",
         skills: { "Resentment": 2,"Poison Attack": 2,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 162,
         slots: 2,
-        name: "Golden Lune Alp Waist Beta +",
+        name: "Golden Lunecoil Alpha +",
         skills: { "Divine Blessing": 3,"Health Boost": 1,"Gold Rathian Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 162,
         slots: 1,
-        name: "Golden Lune Alp Feet Beta +",
+        name: "Golden Lunegreaves Alpha +",
         skills: { "Weakness Exploit": 2,"Spread/Power Shots": 1,"Gold Rathian Essence": 1 },
         type: 3
     }

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Torso Beta +",
+        name: "Nargacuga Mail Beta +",
         skills: { "Evade Window": 2,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Arm Beta +",
+        name: "Nargacuga Vambraces Beta +",
         skills: { "Stamina Surge": 2,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 140,
         slots: 1,
-        name: "Nargacuga Waist Beta +",
+        name: "Nargacuga Faulds Beta +",
         skills: { "Evade Window": 1,"Stamina Surge": 1,"Nargacuga Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 140,
         slots: 2,
-        name: "Nargacuga Feet Beta +",
+        name: "Nargacuga Greaves Beta +",
         skills: { "Evade Window": 1,"Nargacuga Essence": 1 },
         type: 3
     }

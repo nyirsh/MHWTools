@@ -8,7 +8,7 @@
         mindef: 150,
         slots: 1,
         name: "Acidic Glavenus Helm Alpha +",
-        skills: { "Maximum Might": 2,"Effluvial Resistance": 2,"Glavenus Essence": 1 },
+        skills: { "Maximum Might": 2,"Effluvia Resistance": 2,"Glavenus Essence": 1 },
         type: 3
     },
     {
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 150,
         slots: 1,
-        name: "Acidic Glavenus Torso Alpha +",
+        name: "Acidic Glavenus Mail Alpha +",
         skills: { "Handicraft": 2,"Stamina Surge": 1,"Glavenus Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 150,
         slots: 2,
-        name: "Acidic Glavenus Arm Alpha +",
+        name: "Acidic Glavenus Braces Alpha +",
         skills: { "Stun Resistance": 2,"Handicraft": 1,"Glavenus Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 150,
         slots: 1,
-        name: "Acidic Glavenus Waist Alpha +",
+        name: "Acidic Glavenus Coil Alpha +",
         skills: { "Handicraft": 2,"Iron Skin": 2,"Glavenus Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 150,
         slots: 2,
-        name: "Acidic Glavenus Feet Alpha +",
+        name: "Acidic Glavenus Greaves Alpha +",
         skills: { "Maximum Might": 2,"Stamina Surge": 1,"Glavenus Essence": 1 },
         type: 3
     }

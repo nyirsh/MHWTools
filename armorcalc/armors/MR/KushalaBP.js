@@ -7,7 +7,7 @@
         part: 0,
         mindef: 156,
         slots: 2,
-        name: "Kushala Helm Beta +",
+        name: "Kushala Glare Beta +",
         skills: { "Ice Attack": 2,"Evade Window": 1,"Kushala Daora Flight": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 156,
         slots: 2,
-        name: "Kushala Torso Beta +",
+        name: "Kushala Cista Beta +",
         skills: { "Handicraft": 2,"Kushala Daora Flight": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 156,
         slots: 2,
-        name: "Kushala Arm Beta +",
+        name: "Kushala Grip Beta +",
         skills: { "Evade Window": 2,"Kushala Daora Flight": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 156,
         slots: 2,
-        name: "Kushala Waist Beta +",
+        name: "Kushala Cocoon Beta +",
         skills: { "Ice Attack": 3,"Kushala Daora Flight": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 156,
         slots: 2,
-        name: "Kushala Feet Beta +",
+        name: "Kushala Crus Beta +",
         skills: { "Evade Extender": 2,"Kushala Daora Flight": 1 },
         type: 3
     }

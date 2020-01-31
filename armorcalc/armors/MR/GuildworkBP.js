@@ -7,7 +7,7 @@
         part: 0,
         mindef: 162,
         slots: 2,
-        name: "Guildwork Helm Beta +",
+        name: "Guildwork Head Beta +",
         skills: { "Botanist": 1,"Honey Hunter": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 162,
         slots: 3,
-        name: "Guildwork Torso Beta +",
+        name: "Guildwork Body Beta +",
         skills: { "Cliffhanger": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 162,
         slots: 2,
-        name: "Guildwork Arm Beta +",
+        name: "Guildwork Braces Beta +",
         skills: { "Geologist": 1,"Botanist": 1,"Guild Pride": 1 },
         type: 3
     },

@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Torso Alpha +",
+        name: "Guild Palace Mail Alpha +",
         skills: { "Agitator": 2,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 1,
-        name: "Guild Palace Arm Alpha +",
+        name: "Guild Palace Braces Alpha +",
         skills: { "Offensive Guard": 2,"Heroics": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 2,
-        name: "Guild Palace Waist Alpha +",
+        name: "Guild Palace Coil Alpha +",
         skills: { "Agitator": 3,"Resuscitate": 1,"Guild Pride": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 1,
-        name: "Guild Palace Feet Alpha +",
+        name: "Guild Palace Greaves Alpha +",
         skills: { "Heroics": 3,"Health Boost": 1,"Guild Pride": 1 },
         type: 3
     }

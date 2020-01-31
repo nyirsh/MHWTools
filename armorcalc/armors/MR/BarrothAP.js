@@ -19,7 +19,7 @@
         part: 1,
         mindef: 118,
         slots: 2,
-        name: "Barroth Torso Alpha +",
+        name: "Barroth Mail Alpha +",
         skills: { "Stamina Thief": 2,"Agitator": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 118,
         slots: 2,
-        name: "Barroth Arm Alpha +",
+        name: "Barroth Vambraces Alpha +",
         skills: { "Marathon Runner": 1,"Guard": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 118,
         slots: 1,
-        name: "Barroth Waist Alpha +",
+        name: "Barroth Coil Alpha +",
         skills: { "Agitator": 2,"Guard": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 118,
         slots: 2,
-        name: "Barroth Feet Alpha +",
+        name: "Barroth Greaves Alpha +",
         skills: { "Stun Resistance": 2,"Marathon Runner": 1 },
         type: 3
     }

@@ -7,7 +7,7 @@
         part: 0,
         mindef: 158,
         slots: 1,
-        name: "Namielle Helm Alpha +",
+        name: "Tentacle Cowl Alpha +",
         skills: { "Constitution": 3,"Maximum Might": 1,"Namielle Divinity": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 158,
         slots: 2,
-        name: "Namielle Torso Alpha +",
+        name: "Tentacle Cloak Alpha +",
         skills: { "Blight Resistance": 2,"Tool Specialist": 1,"Namielle Divinity": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 158,
         slots: 1,
-        name: "Namielle Arm Alpha +",
+        name: "Tentacle Gloves Alpha +",
         skills: { "Tool Specialist": 2,"Maximum Might": 1,"Namielle Divinity": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 158,
         slots: 3,
-        name: "Namielle Waist Alpha +",
+        name: "Tentacle Coil Alpha +",
         skills: { "Constitution": 2,"Stamina Surge": 1,"Namielle Divinity": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 158,
         slots: 2,
-        name: "Namielle Feet Alpha +",
+        name: "Tentacle Greaves Alpha +",
         skills: { "Stamina Surge": 2,"Blight Resistance": 1,"Namielle Divinity": 1 },
         type: 3
     }

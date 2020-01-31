@@ -7,7 +7,7 @@
         part: 4,
         mindef: 116,
         slots: 2,
-        name: "Gajau Feet Beta +",
+        name: "Gajau Boots Beta +",
         skills: { "Aquatic/Polar Mobility": 1,"Water Attack": 2 },
         type: 3
     }

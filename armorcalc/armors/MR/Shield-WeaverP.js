@@ -7,7 +7,7 @@
         part: 0,
         mindef: 132,
         slots: 2,
-        name: "Shield-W Helm Beta +",
+        name: "Shield-Weaver Head +",
         skills: { "Health Boost": 2,"Thunder Attack": 2,"Power Cell": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 3,
-        name: "Shield-W Torso Beta +",
+        name: "Shield-Weaver Chest +",
         skills: { "Thunder Attack": 3,"Power Cell": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 2,
-        name: "Shield-W Arm Beta +",
+        name: "Shield-Weaver Arms +",
         skills: { "Resentment": 2,"Power Cell": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 2,
-        name: "Shield-W Waist Beta +",
+        name: "Shield-Weaver Torso +",
         skills: { "Resentment": 3,"Power Cell": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Shield-W Feet Beta +",
+        name: "Shield-Weaver Legs +",
         skills: { "Weakness Exploit": 2,"Power Cell": 1 },
         type: 3
     }

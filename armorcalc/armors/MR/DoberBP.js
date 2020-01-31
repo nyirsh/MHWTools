@@ -19,8 +19,8 @@
         part: 1,
         mindef: 152,
         slots: 3,
-        name: "Dober Torso Beta +",
-        skills: { "Attack Boost": 1,"Effluvial Resistance": 1 },
+        name: "Dober Mail Beta +",
+        skills: { "Attack Boost": 1,"Effluvia Resistance": 1 },
         type: 3
     },
     {
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 152,
         slots: 2,
-        name: "Dober Arm Beta +",
+        name: "Dober Vambraces Beta +",
         skills: { "Stamina Surge": 1,"Mushroomancer": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 152,
         slots: 2,
-        name: "Dober Waist Beta +",
+        name: "Dober Coil Beta +",
         skills: { "Attack Boost": 1,"Stun Resistance": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 152,
         slots: 2,
-        name: "Dober Feet Beta +",
+        name: "Dober Greaves Beta +",
         skills: { "Attack Boost": 1,"Mushroomancer": 1 },
         type: 3
     }

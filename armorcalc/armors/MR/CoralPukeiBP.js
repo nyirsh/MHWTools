@@ -7,7 +7,7 @@
         part: 0,
         mindef: 132,
         slots: 1,
-        name: "Coral Pukei Helm Beta +",
+        name: "Pukei Lagoon Hat Beta +",
         skills: { "Critical Draw": 1,"Item Prolonger": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 2,
-        name: "Coral Pukei Torso Beta +",
+        name: "Pukei Lagoon Mail Beta +",
         skills: { "Power Prolonger": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 2,
-        name: "Coral Pukei Arm Beta +",
+        name: "Pukei Lagoon Braces Beta +",
         skills: { "Partbreaker": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 1,
-        name: "Coral Pukei Waist Beta +",
+        name: "Pukei Lagoon Coil Beta +",
         skills: { "Water Attack": 1,"Partbreaker": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Coral Pukei Feet Beta +",
+        name: "Pukei Lagoon Greaves Beta +",
         skills: { "Item Prolonger": 2 },
         type: 3
     }

@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 1,
-        name: "Kulu Helm Beta +",
+        name: "Kulu Headpiece Beta +",
         skills: { "Slinger Capacity": 2 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 1,
-        name: "Kulu Torso Beta +",
+        name: "Kulu Mail Beta +",
         skills: { "Stamina Surge": 1,"Critical Eye": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Kulu Arm Beta +",
+        name: "Kulu Vambraces Beta +",
         skills: { "Critical Boost": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Kulu Waist Beta +",
+        name: "Kulu Coil Beta +",
         skills: { "Item Prolonger": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 1,
-        name: "Kulu Feet Beta +",
+        name: "Kulu Greaves Beta +",
         skills: { "Critical Eye": 1,"Item Prolonger": 1 },
         type: 3
     }

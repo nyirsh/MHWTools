@@ -19,7 +19,7 @@
         part: 1,
         mindef: 142,
         slots: 2,
-        name: "Clockwork Torso Alpha +",
+        name: "Clockwork Mail Alpha +",
         skills: { "Agitator": 2,"Special Ammo Boost": 1,"Commission Alchemy": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 142,
         slots: 1,
-        name: "Clockwork Arm Alpha +",
+        name: "Clockwork Vambraces Alpha +",
         skills: { "Bombardier": 3,"Tremor Resistance": 1,"Commission Alchemy": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 142,
         slots: 1,
-        name: "Clockwork Waist Alpha +",
+        name: "Clockwork Coil Alpha +",
         skills: { "Partbreaker": 2,"Sleep Functionality": 1,"Commission Alchemy": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 142,
         slots: 2,
-        name: "Clockwork Feet Alpha +",
+        name: "Clockwork Greaves Alpha +",
         skills: { "Critical Boost": 1,"Bombardier": 2,"Commission Alchemy": 1 },
         type: 3
     }

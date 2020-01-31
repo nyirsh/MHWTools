@@ -7,7 +7,7 @@
         part: 0,
         mindef: 154,
         slots: 3,
-        name: "Kirin Helm Beta +",
+        name: "Kirin Horn Beta +",
         skills: { "Marathon Runner": 2,"Kirin Divinity": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 154,
         slots: 2,
-        name: "Kirin Torso Beta +",
+        name: "Kirin Jacket Beta +",
         skills: { "Critical Eye": 2,"Divine Blessing": 1,"Kirin Divinity": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 154,
         slots: 3,
-        name: "Kirin Arm Beta +",
+        name: "Kirin Longarms Beta +",
         skills: { "Thunder Attack": 3,"Kirin Divinity": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 154,
         slots: 3,
-        name: "Kirin Waist Beta +",
+        name: "Kirin Hoop Beta +",
         skills: { "Blight Resistance": 2,"Kirin Divinity": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 154,
         slots: 1,
-        name: "Kirin Feet Beta +",
+        name: "Kirin Leg Guards Alpha +",
         skills: { "Free Elem/Ammo Up": 2,"Kirin Divinity": 1 },
         type: 3
     }

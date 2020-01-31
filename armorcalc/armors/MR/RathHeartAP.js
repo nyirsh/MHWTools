@@ -19,7 +19,7 @@
         part: 1,
         mindef: 132,
         slots: 1,
-        name: "Rath Heart Torso Alpha +",
+        name: "Rath Heart Mail Alpha +",
         skills: { "Tool Specialist": 2,"Handicraft": 1,"Rathian Essence": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 132,
         slots: 1,
-        name: "Rath Heart Arm Alpha +",
+        name: "Rath Heart Braces Alpha +",
         skills: { "Windproof": 2,"Handicraft": 1,"Rathian Essence": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 132,
         slots: 1,
-        name: "Rath Heart Waist Alpha +",
+        name: "Rath Heart Coil Alpha +",
         skills: { "Handicraft": 1,"Poison Resistance": 2,"Rathian Essence": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Rath Heart Feet Alpha +",
+        name: "Rath Heart Greaves Alpha +",
         skills: { "Tool Specialist": 1,"Windproof": 1,"Rathian Essence": 1 },
         type: 3
     }

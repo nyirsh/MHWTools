@@ -7,7 +7,7 @@
         part: 1,
         mindef: 132,
         slots: 2,
-        name: "Anja Torso Beta +",
+        name: "Anja Mail Beta +",
         skills: { "Marathon Runner": 1,"Special Ammo Boost": 1,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 2,
         mindef: 132,
         slots: 1,
-        name: "Anja Arm Beta +",
+        name: "Anjanath Vambraces Beta +",
         skills: { "Special Ammo Boost": 1,"Fire Attack": 1,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 3,
         mindef: 132,
         slots: 2,
-        name: "Anja Waist Beta +",
+        name: "Anja Coil Beta +",
         skills: { "Fire Resistance": 2,"Anjanath Dominance": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 4,
         mindef: 132,
         slots: 2,
-        name: "Anja Feet Beta +",
+        name: "Anjanath Greaves Beta +",
         skills: { "Artillery": 2,"Anjanath Dominance": 1 },
         type: 3
     }

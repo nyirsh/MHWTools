@@ -7,7 +7,7 @@
         part: 0,
         mindef: 156,
         slots: 2,
-        name: "Blackveil Hazak Helm Beta +",
+        name: "Fellshroud Helm Beta +",
         skills: { "Peak Performance": 2,"Vaal Soulvein": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 156,
         slots: 2,
-        name: "Blackveil Hazak Torso Beta +",
+        name: "Fellshroud Mail Beta +",
         skills: { "Recovery Speed": 2,"Dragon Attack": 1,"Vaal Soulvein": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 156,
         slots: 3,
-        name: "Blackveil Hazak Arm Beta +",
+        name: "Fellshroud Braces Beta +",
         skills: { "Recovery Up": 2,"Vaal Soulvein": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 156,
         slots: 2,
-        name: "Blackveil Hazak Waist Beta +",
+        name: "Fellshroud Coil Beta +",
         skills: { "Speed Eating": 2,"Vaal Soulvein": 1 },
         type: 3
     },
@@ -55,8 +55,8 @@
         part: 4,
         mindef: 156,
         slots: 2,
-        name: "Blackveil Hazak Feet Beta +",
-        skills: { "Effluvial Resistance": 2,"Vaal Soulvein": 1 },
+        name: "Fellshroud Greaves Beta +",
+        skills: { "Effluvia Resistance": 2,"Vaal Soulvein": 1 },
         type: 3
     }
 ]

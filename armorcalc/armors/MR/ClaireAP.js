@@ -7,7 +7,7 @@
         part: 0,
         mindef: 150,
         slots: 2,
-        name: "Claire Helm Alpha +",
+        name: "Claire\u2019s Head Alpha +",
         skills: { "Agitator": 2,"Evade Window": 2,"Survivor": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 150,
         slots: 2,
-        name: "Claire Torso Alpha +",
+        name: "Claire\u2019s Body Alpha +",
         skills: { "Agitator": 2,"Evade Window": 2,"Survivor": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 150,
         slots: 1,
-        name: "Claire Arm Alpha +",
+        name: "Claire\u2019s Arms Alpha +",
         skills: { "Agitator": 2,"Evade Window": 1,"Survivor": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 150,
         slots: 1,
-        name: "Claire Waist Alpha +",
+        name: "Claire\u2019s Torso Alpha +",
         skills: { "Agitator": 1,"Stamina Surge": 2,"Survivor": 1 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 150,
         slots: 3,
-        name: "Claire Feet Alpha +",
+        name: "Claire\u2019s Legs Alpha +",
         skills: { "Stamina Surge": 1,"Normal Shots": 1,"Survivor": 1 },
         type: 3
     }

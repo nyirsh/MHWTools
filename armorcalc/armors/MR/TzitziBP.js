@@ -7,7 +7,7 @@
         part: 0,
         mindef: 116,
         slots: 2,
-        name: "Tzitzi Helm Beta +",
+        name: "Tzitzi Headgear Beta +",
         skills: { "Free Elem/Ammo Up": 1 },
         type: 3
     },
@@ -19,7 +19,7 @@
         part: 1,
         mindef: 116,
         slots: 2,
-        name: "Tzitzi Torso Beta +",
+        name: "Tzitzi Mail Beta +",
         skills: { "Constitution": 1,"Water Attack": 1 },
         type: 3
     },
@@ -31,7 +31,7 @@
         part: 2,
         mindef: 116,
         slots: 1,
-        name: "Tzitzi Arm Beta +",
+        name: "Tzitzi Vambraces Beta +",
         skills: { "Stun Resistance": 2,"Wide-Range": 1 },
         type: 3
     },
@@ -43,7 +43,7 @@
         part: 3,
         mindef: 116,
         slots: 2,
-        name: "Tzitzi Waist Beta +",
+        name: "Tzitzi Coil Beta +",
         skills: { "Wide-Range": 2 },
         type: 3
     },
@@ -55,7 +55,7 @@
         part: 4,
         mindef: 116,
         slots: 1,
-        name: "Tzitzi Feet Beta +",
+        name: "Tzitzi Greaves Beta +",
         skills: { "Sleep Resistance": 1,"Wide-Range": 1 },
         type: 3
     }
