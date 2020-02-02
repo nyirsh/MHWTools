@@ -148,6 +148,7 @@ var _skills = [
                 { skill: "Special Ammo Boost", points: 1, type: 1, name: "Special Ammo Boost Lv1" },
                 { skill: "Special Ammo Boost", points: 2, type: 1, name: "Special Ammo Boost Lv2" },
                 { skill: "Spread/Power Shots", points: 1, type: 1, name: "Spread/Power Shots Lv1" },
+                { skill: "Spread/Power Shots", points: 2, type: 1, name: "Spread/Power Shots Lv2" },
                 { skill: "Capacity Boost", points: 1, type: 1, name: "Capacity Boost Lv1" },
                 { skill: "Bow Charge Plus", points: 1, type: 1, name: "Bow Charge Plus Lv1" },
                 { skill: "Blast Functionality", points: 1, type: 1, name: "Blast Functionality Lv1" },
