@@ -8,7 +8,7 @@
         mindef: 0,
         slots: 0,
         name: "Clearmind Charm",
-        skills: { "Effluvial Expert": 1, "Heat Guard": 1 },
+        skills: { "Effluvia Expert": 1, "Heat Guard": 1 },
         type: 3
     }
 ]

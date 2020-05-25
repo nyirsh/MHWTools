@@ -20,7 +20,7 @@
         mindef: 38,
         slots: 0,
         name: "Hornetaur Chest Alpha",
-        skills: { "Effluvial Expert": 1, "Hunger Resistance": 1 },
+        skills: { "Effluvia Expert": 1, "Hunger Resistance": 1 },
         type: 3
     },
     {
