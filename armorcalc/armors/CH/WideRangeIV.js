@@ -7,8 +7,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Effluvial Resistance Charm I",
-        skills: { "Effluvial Resistance": 1 },
+        name: "Wide-Range Charm IV",
+        skills: { "Wide-Range": 4 },
         type: 3
     }
 ]

@@ -56,7 +56,7 @@
         mindef: 64,
         slots: 2,
         name: "Vaal Hazak Legs Beta",
-        skills: { "Effluvial Resistance": 2, "Val Hazak Vitality": 1 },
+        skills: { "Effluvia Resistance": 2, "Val Hazak Vitality": 1 },
         type: 3
     },
 ]

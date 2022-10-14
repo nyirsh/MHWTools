@@ -44,7 +44,7 @@
         mindef: 64,
         slots: 1,
         name: "Vaal Hazak Waist Alpha",
-        skills: { "Val Hazak Vitality": 1, "Peak Performance": 1, "Effluvial Resistance": 1 },
+        skills: { "Val Hazak Vitality": 1, "Peak Performance": 1, "Effluvia Resistance": 1 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 64,
         slots: 1,
         name: "Vaal Hazak Legs Alpha",
-        skills: { "Effluvial Resistance": 2, "Val Hazak Vitality": 1, "Dragon Attack": 1 },
+        skills: { "Effluvia Resistance": 2, "Val Hazak Vitality": 1, "Dragon Attack": 1 },
         type: 3
     },
 ]
