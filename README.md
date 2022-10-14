@@ -6,7 +6,7 @@ MHWTools is a website made made with one goal in mind: help players making and o
 
 ### That's cool, how do I use those tools?
 Just browse the website and fiddle around! You'll find out that if you have even just a little experience with the game it's actually pretty straightforward, if you're confused about what you're looking at, then this website is not for you... yet, go and enjoy the game and come back here later.
-Before you start looking for that op armor combo, make sure you have set the right amount of decorations you own under the `Settings` tab and don't forget you can also ask the tool to use, or not use, specific armor pieces by either pinning or excluding them under the `Settings` tab
+Before you start looking for that op armor combo, make sure you have set the right amount of decorations you own under the `Settings` tab and don't forget you can also ask the tool to use, or not use, specific armor pieces by either pinning or excluding them.
 
 ### I found a bug
 I'm a human therefore I can make mistakes too. But I can fix them.
