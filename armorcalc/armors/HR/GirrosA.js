@@ -44,7 +44,7 @@
         mindef: 40,
         slots: 0,
         name: "Girros Waist Alpha",
-        skills: { "Effluvia Expert": 1, "Paralysis Attack": 1 },
+        skills: { "Effluvial Expert": 1, "Paralysis Attack": 1 },
         type: 3
     },
     {

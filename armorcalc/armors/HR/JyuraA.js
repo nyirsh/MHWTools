@@ -8,7 +8,7 @@
         mindef: 44,
         slots: 0,
         name: "Jyura Head Alpha",
-        skills: { "Aquatic/Polar Mobility": 2 },
+        skills: { "Aquatic Expert": 2 },
         type: 3
     },
     {
@@ -32,7 +32,7 @@
         mindef: 44,
         slots: 0,
         name: "Jyura Arms Alpha",
-        skills: { "Aquatic/Polar Mobility": 1, "Water Attack": 2 },
+        skills: { "Aquatic Expert": 1, "Water Attack": 2 },
         type: 3
     },
     {

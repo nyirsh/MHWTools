@@ -7,8 +7,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Aquatic/Polar Mobility Charm III",
-        skills: { "Aquatic/Polar Mobility": 3 },
+        name: "Aquatic Expert Charm III",
+        skills: { "Aquatic Expert": 3 },
         type: 3
     }
 ]

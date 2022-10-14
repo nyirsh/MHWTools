@@ -8,7 +8,7 @@
         mindef: 44,
         slots: 1,
         name: "Jyura Head Beta",
-        skills: { "Aquatic/Polar Mobility": 1 },
+        skills: { "Aquatic Expert": 1 },
         type: 3
     },
     {

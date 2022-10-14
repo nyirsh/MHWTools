@@ -44,7 +44,7 @@
         mindef: 40,
         slots: 1,
         name: "Girros Waist Beta",
-        skills: { "Effluvia Expert": 1 },
+        skills: { "Effluvial Expert": 1 },
         type: 3
     },
     {

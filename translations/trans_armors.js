@@ -3267,29 +3267,29 @@
         en: "Stealth Charm III",
         it: "Stealth Charm III",
     },
-    "Survival Expert Charm I": {
-        en: "Survival Expert Charm I",
-        it: "Survival Expert Charm I",
+    "Sporepuff Expert Charm I": {
+        en: "Sporepuff Expert Charm I",
+        it: "Sporepuff Expert Charm I",
     },
-    "Survival Expert Charm II": {
-        en: "Survival Expert Charm II",
-        it: "Survival Expert Charm II",
+    "Sporepuff Expert Charm II": {
+        en: "Sporepuff Expert Charm II",
+        it: "Sporepuff Expert Charm II",
     },
-    "Survival Expert Charm III": {
-        en: "Survival Expert Charm III",
-        it: "Survival Expert Charm III",
+    "Sporepuff Expert Charm III": {
+        en: "Sporepuff Expert Charm III",
+        it: "Sporepuff Expert Charm III",
     },
-    "Aquatic/Polar Mobility Charm I": {
-        en: "Aquatic/Polar Mobility Charm I",
-        it: "Aquatic/Polar Mobility Charm I",
+    "Aquatic Expert Charm I": {
+        en: "Aquatic Expert Charm I",
+        it: "Aquatic Expert Charm I",
     },
-    "Aquatic/Polar Mobility Charm II": {
-        en: "Aquatic/Polar Mobility Charm II",
-        it: "Aquatic/Polar Mobility Charm II",
+    "Aquatic Expert Charm II": {
+        en: "Aquatic Expert Charm II",
+        it: "Aquatic Expert Charm II",
     },
-    "Aquatic/Polar Mobility Charm III": {
-        en: "Aquatic/Polar Mobility Charm III",
-        it: "Aquatic/Polar Mobility Charm III",
+    "Aquatic Expert Charm III": {
+        en: "Aquatic Expert Charm III",
+        it: "Aquatic Expert Charm III",
     },
     "Entomologist Charm I": {
         en: "Entomologist Charm I",
@@ -3739,17 +3739,17 @@
         en: "Flinch Free Charm II",
         it: "Flinch Free Charm II",
     },
-    "Effluvia Resistance Charm I": {
-        en: "Effluvia Resistance Charm I",
-        it: "Effluvia Resistance Charm I",
+    "Effluvial Resistance Charm I": {
+        en: "Effluvial Resistance Charm I",
+        it: "Effluvial Resistance Charm I",
     },
-    "Effluvia Resistance Charm II": {
-        en: "Effluvia Resistance Charm II",
-        it: "Effluvia Resistance Charm II",
+    "Effluvial Resistance Charm II": {
+        en: "Effluvial Resistance Charm II",
+        it: "Effluvial Resistance Charm II",
     },
-    "Effluvia Resistance Charm III": {
-        en: "Effluvia Resistance Charm III",
-        it: "Effluvia Resistance Charm III",
+    "Effluvial Resistance Charm III": {
+        en: "Effluvial Resistance Charm III",
+        it: "Effluvial Resistance Charm III",
     },
     "Normal Shots Charm": {
         en: "Normal Shots Charm",

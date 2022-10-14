@@ -8,7 +8,7 @@
         mindef: 40,
         slots: 1,
         name: "Gajau Legs Beta",
-        skills: { "Aquatic/Polar Mobility": 1, "Water Attack": 1 },
+        skills: { "Aquatic Expert": 1, "Water Attack": 1 },
         type: 3
     },
 ]
