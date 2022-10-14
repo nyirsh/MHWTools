@@ -1,5 +1,6 @@
 # Monster Hunter World Tools
-If you came here looking for the actual website, please follow [this link](https://nyirsh.github.io/MHWTools/), it will take you to it!
+If you came here looking for the actual website, I'm sorry to tell you I actually shut it down. The game released a new expansion that changed things up a lot and it became very difficult to update this app to be useful again without rewriting it from scratch.
+Plus, HoneyHunters became a much more popular and widespread website that achieved the exact same things this one did so... there was no reason to keep this outdated tool up and running. 
 
 ### What is MHW Tools?
 MHWTools is a website made made with one goal in mind: help players making and optimizing their armor sets. Are you trying to squeeze an extra skill point into your armor set? We got that. You are unsure which weapon/armor set is gonna deal more damage? There's a functionality for that too! If you are looking into pushing your Monster Hunter World experience to the max, then you landed on the right website.
