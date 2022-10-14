@@ -7,8 +7,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Heroics Charm IV",
-        skills: { "Heroics": 4 },
+        name: "Effluvial Resistance Charm III",
+        skills: { "Effluvial Resistance": 3 },
         type: 3
     }
 ]

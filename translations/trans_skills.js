@@ -15,8 +15,8 @@
         en: 'Airborne',
         it: 'Minaccia Aerea',
     },
-    'Aquatic/Polar Mobility': {
-        en: 'Aquatic/Polar Mobility',
+    'Aquatic Expert': {
+        en: 'Aquatic Expert',
         it: 'Esperto Acquatico',
     },
     'Artillery': {
@@ -143,12 +143,12 @@
         en: 'Earplugs',
         it: 'Protezione Udito',
     },
-    'Effluvia Resistance': {
-        en: 'Effluvia Resistance',
+    'Effluvial Resistance': {
+        en: 'Effluvial Resistance',
         it: 'Resistenza Effluvio',
     },
-    'Effluvia Expert': {
-        en: 'Effluvia Expert',
+    'Effluvial Expert': {
+        en: 'Effluvial Expert',
         it: 'Esperto di Effluvi',
     },
     'Elderseal Boost': {
@@ -356,7 +356,7 @@
         it: 'Gregario',
     },
     'Paralysis Functionality': {
-        en: 'Paralysis Functionality',
+        en: 'Para Functionality',
         it: 'Applica Paralisi',
     },
     'Paralysis Attack': {
@@ -483,8 +483,8 @@
         en: 'Speed Sharpening',
         it: 'Affilatura Veloce',
     },
-    'Survival Expert': {
-        en: 'Survival Expert',
+    'Sporepuff Expert': {
+        en: 'Sporepuff Expert',
         it: 'Esperto di Spore',
     },
     'Spread/Power Shots': {
@@ -654,9 +654,5 @@
     'LV3 Slot Skill': {
         en: 'Lv 3 Slot Skill',
         it: 'Skill Slot Lv 3',
-    },
-    'LV4 Slot Skill': {
-        en: 'Lv 4 Slot Skill',
-        it: 'Skill Slot Lv 4',
     }
 }

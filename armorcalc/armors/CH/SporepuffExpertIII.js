@@ -7,8 +7,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Survival Expert Charm III",
-        skills: { "Survival Expert": 3 },
+        name: "Sporepuff Expert Charm III",
+        skills: { "Sporepuff Expert": 3 },
         type: 3
     }
 ]

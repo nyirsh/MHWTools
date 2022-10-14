@@ -12,7 +12,7 @@ function changeLoadedGear(firstTime) {
     if ($("#chkCHGear").prop('checked') == false) {
         loadExternalArmors("CH", "index");
     }
-    loadExternalArmors("CH", "maxindex");
+    loadExternalArmors("CH", "maxindex");    
 }
 
 function loadExternalArmors(level, index) {
@@ -49,7 +49,7 @@ function findObjectByKey(array, key, value) {
 		}
 		return null;
 	}
-
+	
 function dbgObj(nyc)
 {
 	var propValue;
@@ -58,7 +58,7 @@ function dbgObj(nyc)
 
 		console.log(propName,propValue);
 	}
-}
+}	
 
 var _uri_characters = {
     "\x00": "%00",
@@ -192,7 +192,7 @@ function getElementById(a) {
 
 (function() {
     var klass, _app = this;
-
+	
     function init_symbol() {
         Symbol = _app.Symbol || {};
         Symbol.iterator || (Symbol.iterator = "$jscomp$iterator");
@@ -269,7 +269,7 @@ function getElementById(a) {
         }
     };
 
-
+    
 
     var qa = String.prototype.trim
         ? function(a) { return a.trim() }
@@ -841,9 +841,9 @@ function getElementById(a) {
 
     function Bb(a) {
         for (var
-            b = '<div class="col col-lg-4 col-md-6 col-12 includeexclude-section" style="margin-bottom: 5px;"><div class="card"><div class="card card-head bg-secondary text-white"><span class="sectionHeaders" translation-section="armorcalc" translation-key="' + a.ea + '_pinned">' + _gts('armorcalc', a.ea + '_pinned') + '</span></div><div class="card-body">' +
-			    '<div class="row"><div class="col col-1" style="padding-left: 0px;"><a href="#" onclick="return onPinEquipmentRemove(this);" equip="' + toEncodedString(a.fa) + '" part="' +  toEncodedString(a.o) + '"><span class="oi oi-loop-circular"></span></a></div>' +
-				'<div class="col col-1" style="padding-left: 0px;"><a href="#" onclick="return onExcludeEquipment(this);" equip="' + toEncodedString(a.fa) + '" part="' +  toEncodedString(a.o) + '"><span class="oi oi-circle-x"></span></a></div>' +
+            b = '<div class="col col-lg-4 col-md-6 col-12 includeexclude-section" style="margin-bottom: 5px;"><div class="card"><div class="card card-head bg-secondary text-white"><span class="sectionHeaders" translation-section="armorcalc" translation-key="' + a.ea + '_pinned">' + _gts('armorcalc', a.ea + '_pinned') + '</span></div><div class="card-body">' + 
+			    '<div class="row"><div class="col col-1" style="padding-left: 0px;"><a href="#" onclick="return onPinEquipmentRemove(this);" equip="' + toEncodedString(a.fa) + '" part="' +  toEncodedString(a.o) + '"><span class="oi oi-loop-circular"></span></a></div>' + 
+				'<div class="col col-1" style="padding-left: 0px;"><a href="#" onclick="return onExcludeEquipment(this);" equip="' + toEncodedString(a.fa) + '" part="' +  toEncodedString(a.o) + '"><span class="oi oi-circle-x"></span></a></div>' + 
 				'<div class="col col-10" style="padding-left: 0px;"><select data-live-search="true" class="pin-select" name="pinned' +
                 toEncodedString(a.o) +
                 '" part=' +
@@ -893,8 +893,8 @@ function getElementById(a) {
         for (var c = a.length, d = 0; d < c; d++)
             for (var e = a[d],
                 b = b + (xPanl > 0 ? '</div>' : '')  +
-
-				('<div class="card text-white bg-secondary" style="margin-bottom: 5px;"><div class="card-head"><a style="display: inline-block; width:100%;" class="sectionHeaders text-light" data-toggle="collapse" href="#collapseEE' + toEncodedString(e.aa).replace(/\(/g, '').replace(/\)/g, '').replace(/\//g, '').replace(/ /g, '_') + '" translation-section="armorcalc" translation-key="' + e.aa + '">' + _gts('armorcalc', e.aa) + '</a></div></div>')
+				
+				('<div class="card text-white bg-secondary" style="margin-bottom: 5px;"><div class="card-head"><a style="display: inline-block; width:100%;" class="sectionHeaders text-light" data-toggle="collapse" href="#collapseEE' + toEncodedString(e.aa).replace(/\(/g, '').replace(/\)/g, '').replace(/\//g, '').replace(/ /g, '_') + '" translation-section="armorcalc" translation-key="' + e.aa + '">' + _gts('armorcalc', e.aa) + '</a></div></div>') 
 				+ '<div id="collapseEE' + toEncodedString(e.aa).replace(/\(/g, '').replace(/\)/g, '').replace(/\//g, '').replace(/ /g, '_') + '" class="row panel-collapse collapse show">',
                 e = e.C,
                 f = e.length,
@@ -903,9 +903,9 @@ function getElementById(a) {
                 g++) {
 				xPanl = 1;
                 for (var h = e[g],
-                    b = b +
+                    b = b + 
                         ('<div class="col col-lg-3 col-md-4 col-sm-6 col-12 deco-setting deco-setting">' +
-                        '<span translation-section="skills" translation-key="' + findObjectByKey(_decos, 'name', h.name).public_name + '">' + _gts('skills', findObjectByKey(_decos, 'name', h.name).public_name) + '</span>' +
+                        '<span traslation-section="skills" translation-key="' + findObjectByKey(_decos, 'name', h.name).public_name + '">' + _gts('skills', findObjectByKey(_decos, 'name', h.name).public_name) + '</span>' +
                         "<select class='filtersInput' deconame='" + toEncodedString(h.name) + "' onchange=\"onDecoCountChange(this.getAttribute('deconame'), parseInt(this.value));\">"),
                     m = h.max + 1,
                     q = 0;
@@ -977,7 +977,7 @@ function getElementById(a) {
         for (var b = "", c = a.bb, d = c.length, e = 0; e < d; e++)
             b += toEncodedString(c[e]) + " ";
         b = "" + showElapsedTime({ searchString: b, count: a.foundSkills.length, time: a.time });
-
+        
         c = a.foundSkills.length;
         if (c > 0)
 		{
@@ -1010,12 +1010,12 @@ function getElementById(a) {
 				{
                     var lvlSkill = (a.foundSkills[d].type == 2 ? _gts('skills', a.foundSkills[d].name) : 'Lv ' + a.foundSkills[d].points);
 					if (lvlSkill == '') lvlSkill = 'Lv 1';
-					htmlMoreSkillList += '&nbsp;|&nbsp;'
+					htmlMoreSkillList += '&nbsp;|&nbsp;' 
                       + '<a href="#" class="extraskills skill-' + toEncodedString(a.foundSkills[d].name) + '" onclick="return onExtraSkillClick(\'' + toEncodedString(a.foundSkills[d].name) + "')\">"
 					  + lvlSkill + '</a>';
 				}
 			}
-
+			
             b += htmlMoreSkillList + '</div></div>';
 		}
         else b += "<div translations-section='armorcalc' translations-key='no_extra'>" + _gts('armorcalc', 'no_extra') + "</div>";
@@ -3659,11 +3659,6 @@ function getElementById(a) {
     })();
     klass = Hc.prototype;
     klass.Ha = {
-        "LV4 Slot Skill": 1,
-        "Hasten Recovery": 1,
-        "Coalescence": 1,
-        "Offensive Guard": 1,
-        "Stonethrower": 1,
         "Iron Skin": 1,
         "Weakness Exploit": 1,
         "LV2 Slot Skill": 1,
@@ -3685,7 +3680,7 @@ function getElementById(a) {
         "Elderseal Boost": 1,
         Artillery: 1,
         "Dragon Resistance": 1,
-        "Survival Expert": 1,
+        "Sporepuff Expert": 1,
         "Protective Polish": 1,
         Earplugs: 1,
         "Capacity Boost": 1,
@@ -3713,7 +3708,7 @@ function getElementById(a) {
         Constitution: 1,
         "Ice Resistance": 1,
         Stealth: 1,
-        "Effluvia Resistance": 1,
+        "Effluvial Resistance": 1,
         "Evade Extender": 1,
         "Paralysis Attack": 1,
         "Ice Attack": 1,
@@ -3730,7 +3725,7 @@ function getElementById(a) {
         "Thunder Resistance": 1,
         "Tremor Resistance": 1,
         "Mind\u2019s Eye/Ballistics": 1,
-        "Aquatic/Polar Mobility": 1,
+        "Aquatic Expert": 1,
         "Water Resistance": 1,
         "Heavy Artillery": 1,
         "Recovery Speed": 1,
@@ -4078,7 +4073,7 @@ function getElementById(a) {
         function() {
             var a = V(of);
             getElementById("decoimportexport").value = JSON.stringify(a);
-
+			
 			getElementById("decoimportexport").select();
 			document.execCommand("copy");
         });

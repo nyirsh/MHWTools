@@ -391,8 +391,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Survival Expert Charm III",
-        skills: { "Survival Expert": 3 },
+        name: "Sporepuff Expert Charm III",
+        skills: { "Sporepuff Expert": 3 },
         type: 3
     },
     {
@@ -403,8 +403,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Aquatic/Polar Mobility Charm III",
-        skills: { "Aquatic/Polar Mobility": 3 },
+        name: "Aquatic Expert Charm III",
+        skills: { "Aquatic Expert": 3 },
         type: 3
     },
     {
@@ -1027,8 +1027,8 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Effluvia Resistance Charm III",
-        skills: { "Effluvia Resistance": 3 },
+        name: "Effluvial Resistance Charm III",
+        skills: { "Effluvial Resistance": 3 },
         type: 3
     },
     {
@@ -1052,7 +1052,7 @@
         mindef: 0,
         slots: 0,
         name: "Clearmind Charm",
-        skills: { "Effluvia Expert": 1, "Heat Guard": 1 },
+        skills: { "Effluvial Expert": 1, "Heat Guard": 1 },
         type: 3
     },
     {

@@ -20,7 +20,7 @@
         mindef: 38,
         slots: 1,
         name: "Hornetaur Chest Beta",
-        skills: { "Effluvia Expert": 1 },
+        skills: { "Effluvial Expert": 1 },
         type: 3
     },
     {

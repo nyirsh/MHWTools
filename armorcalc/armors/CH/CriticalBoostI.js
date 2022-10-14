@@ -7,7 +7,7 @@
         part: 5,
         mindef: 0,
         slots: 0,
-        name: "Critical Boost Charm I",
+        name: "Critical Boost Charm",
         skills: { "Critical Boost": 1 },
         type: 3
     }

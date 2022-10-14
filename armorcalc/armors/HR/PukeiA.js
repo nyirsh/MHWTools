@@ -8,7 +8,7 @@
         mindef: 42,
         slots: 0,
         name: "Pukei Head Alpha",
-        skills: { "Survival Expert": 2 },
+        skills: { "Sporepuff Expert": 2 },
         type: 3
     },
     {
@@ -56,7 +56,7 @@
         mindef: 42,
         slots: 0,
         name: "Pukei Legs Alpha",
-        skills: { "Survival Expert": 1, Botanist: 2 },
+        skills: { "Sporepuff Expert": 1, Botanist: 2 },
         type: 3
     },
 ]
