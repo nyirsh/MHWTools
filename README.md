@@ -1,36 +1,25 @@
 # Monster Hunter World Tools
+If you came here looking for the actual website, please follow [this link](https://nyirsh.github.io/MHWTools/), it will take you to it!
 
-https://nyirsh.github.io/MHWTools/
+### What is MHW Tools?
+MHWTools is a website made made with one goal in mind: help players making and optimizing their armor sets. Are you trying to squeeze an extra skill point into your armor set? We got that. You are unsure which weapon/armor set is gonna deal more damage? There's a functionality for that too! If you are looking into pushing your Monster Hunter World experience to the max, then you landed on the right website.
 
-<h3 translation-section="home" translation-key="title">What is MHW Tools?</h3>
-<p translation-section="home" translation-key="description">
-    MHWTools is a collection of utilities made to achieve only one goal: help players making and optimizing armor sets. Are you trying to snitch an extra skill point into your armor set? We got that. You are unsure which weapon/armor set is gonna deal more damage? There's a functionality for that too! If you are looking into pushing your Monster Hunter World experience to the max, then you landed on the right website.
-</p>
-<br/>
-<h3 translation-section="home" translation-key="title_howto">That's cool, how do I use those tools?</h3>
-<p translation-section="home" translation-key="description_howto">
-    Explaining in just few words how to properly use each and every button is literally impossible but don't worry, in every function there is a FAQ section that will explain you everything you need to know to use those tools like a pro. If you read them already and you feel like something's missing or is not clear enough, please feel free to contact me in order to get further details, this will also help me keeping the FAQ section updated properly.
-</p>
-<br/>
-<h3 translation-section="home" translation-key="title_bug">I found a bug</h3>
-<p>
-    <span translation-section="home" translation-key="description_bug_p1">I'm a human therefore I can make mistakes too. But I can fix them.</span> 
-    <a href="https://github.com/nyirsh/MHWTools/issues" translation-section="home" translation-key="description_bug_p2">Report it using this form</a> 
-    <span translation-section="home" translation-key="description_bug_p3">or write me immediately an email and explain what the bug is about. Please be very specific and even attach screenshots/evidences if you can. Just try to answer to these simple questions:</span>
-    <ul>
-        <li translation-section="home" translation-key="description_bug_q1">Which module where you using?</li>
-        <li translation-section="home" translation-key="description_bug_q2">Which language were you using?</li>
-        <li translation-section="home" translation-key="description_bug_q3">What is the error about?</li>
-        <li translation-section="home" translation-key="description_bug_q4">Can you replicate it? If so, which steps do I have to follow?</li>
-    </ul>
-</p>
-<br/>
-<h3 translation-section="home" translation-key="title_collaborate">Cool project! Can I help you out?</h3>
-<p translation-section="home" translation-key="description_collaborate">Sure thing! Suggesting new ideas is a way of helping but if you want to get involved into this project into a more deep way, I'm always looking into translators, in-game testers and javascript developers. Please contact me for further details.</p>
-<br/>
-<h3 translation-section="home" translation-key="contacts">Contacts</h3>
-<p>
-    <span translation-section="home" translation-key="description_contacts_p1">If you want to contact me send an email to</span> 
-    <a href="mailto:mhwtools@outlook.com">mhwtools@outlook.com</a> 
-    <span translation-section="home" translation-key="escription_contacts_p1">but please be kind, I only speak english and italian so if you write me in any other language you won't get any answer at all.  Also, be patient. I'm not a 24/7 support center so it might take some time before you get an answer, spamming just to draw attention will only put your request at the bottom of the priority queue.</span>
-</p>
+### That's cool, how do I use those tools?
+Just browse the website and fiddle around! You'll find out that if you have even just a little experience with the game it's actually pretty straightforward, if you're confused about what you're looking at, then this website is not for you -yet, go and enjoy the game and come back here.
+Before you start looking for that op combo, make sure you have set the right amount of decorations you own under the Settings page and don't forget you can also ask the tool to use, or not use, specific armor pieces by either pinning or excluding them under the Settings page
+
+### I found a bug
+I'm a human therefore I can make mistakes too. But I can fix them.
+Please use [this form](https://github.com/nyirsh/MHWTools/issues) to report and explain what the bug is all about. Please be as specific as possible, attach screenshots/evidences if you have any and just try to answer to these simple questions:
+
+- Which tab where you using?
+- Which language were you using?
+- What is the error about?
+- Can you replicate the error? If so, which steps do I have to follow?
+
+### Cool project! Can I help out?
+Sure thing! Suggesting new ideas is a way of helping but if you want to get involved into this project into a more deep way, I'm always looking for translators and javascript developers. Please contact me for further details.
+
+I don't like asking for money, reason why you won't find this button on the website itself but if you found this tool useful and you wish to say thanks just... buy me a coffee! I'll be infinitevily grateful to you and I'll convert all of that caffeine into more code!
+
+<a href="https://www.buymeacoffee.com/nyirsh"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=nyirsh&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
